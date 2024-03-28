@@ -40,7 +40,7 @@ for n=1:length(blocked)
     model1=addReaction(model1,['ATR_' blocked{n} '_[cm]'],form,[],0,-10000,10000);
 deadnow=detectDeadEnds(model1);
         deads=[deads,length(deadnow)]
-                added=[added,['ATR_' blocked{n} '_[cb]_[cm]']];
+                added=[added,['ATR_' blocked{n} '_[cm]']];
 
      elseif contains(blocked{n},'[sb]') || contains(blocked{n},'[mb]') || contains(blocked{n},'[tb]') || contains(blocked{n},'[ib]')
       metminus=strsplit(blocked{n},'[');    
@@ -48,7 +48,7 @@ deadnow=detectDeadEnds(model1);
     model1=addReaction(model1,['ATR_' blocked{n} '_[cb]'],form,[],0,-10000,10000);
             deads=[deads,length(deadnow)]
 
-            added=[added,['ATR_' blocked{n} '_[cb]_[cm]']];
+            added=[added,['ATR_' blocked{n} '_[cb]']];
      else
          left=[left,blocked(n)]
      end
