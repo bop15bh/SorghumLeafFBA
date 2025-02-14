@@ -1,5 +1,5 @@
 compnames=readcell("common_name_to_metacycID.xlsx");
-forms1=readcell("Sorghum Reaction Equations.xlsx");
+%forms1=readcell("Sorghum Reaction Equations.xlsx");
 forms=readcell("sorghumbicolorcyc-8_0_0-rxns .txt")
  % pool = parpool
 forms(1265,1)={'--MENTHOL-DEHYDROGENASE-RXN'}
@@ -232,3 +232,142 @@ cel=find(contains(model2.mets,'CELLULOSE'))
 %% change direction
 direct={'2.7.7.14-RXN','L-ARABINOKINASE-RXN','RXN-4308'}
       model2=changeRxnBounds(model2,direct,-1000,'l')
+%% saving sorghum model 
+%save('SorghumBicolorPMNV8.mat','model')
+
+%% Adding grRules to model 
+clear 
+load("SorghumBicolorPMNV8.mat");
+point=find(contains(model.rxns,'!'));
+model.rxns{point}=strrep(model.rxns{point},'_!','_1');
+model=removeRxns(model,{'TRANS-RXN-171[B]'});
+model.rxns=strrep(model.rxns,'N_s','N_2');
+
+withgenes=readcell('sorghymcyc_withgenes8.xlsx');
+extragenes=readcell('Sorghum_8_rxns_with_genes_FEB25.txt');
+% 4th column contains genes
+rxnNames=withgenes(:,1);
+genes=withgenes(:,4);
+extrarxn=extragenes(:,1);
+genesextra=extragenes(:,2);
+% generating grrules 
+not_in_PMN={};total_gene_list={};
+for n=1:length(model.rxns)
+        rxn=erase(model.rxns{n},'_11');
+            rxn=erase(rxn,'_10');
+            rxn=erase(rxn,'_21');
+            rxn=erase(rxn,'_22');
+            rxn=erase(rxn,'_23');
+            rxn=erase(rxn,'_24');
+            rxn=erase(rxn,'_25');
+            rxn=erase(rxn,'_26');
+            rxn=erase(rxn,'_1');
+            rxn=erase(rxn,'_2');
+            rxn=erase(rxn,'_3');
+            rxn=erase(rxn,'_4');
+            rxn=erase(rxn,'_5');
+            rxn=erase(rxn,'_6');
+            rxn=erase(rxn,'_7');
+            rxn=erase(rxn,'_8');
+            rxn=erase(rxn,'_9');
+
+    pos = find(strcmp(rxn, rxnNames));
+    pos1= find(strcmp(rxn, extrarxn));
+
+    if isempty(pos) && isempty(pos1)
+       
+                    not_in_PMN=[not_in_PMN,model.rxns{n}];
+    elseif isempty(pos) &&   ~isempty(pos1) 
+            rxngenes=genesextra{pos1};
+    if ismissing(rxngenes)
+        % do nothing
+        n
+    else
+        genesplit=split(rxngenes,' // ')
+        genesplit=strrep(genesplit,'SOBIC','Sobic')
+        % Generate grrule for each reaction 
+        rule={};
+        for j=1:length(genesplit)
+         total_gene_list=[total_gene_list,genesplit{j}];
+
+         if j==1 && j==length(genesplit)
+             rule=['(' genesplit{j} ')']
+         elseif   j==1 && j~=length(genesplit)
+        rule=['(' genesplit{j}]
+         
+         elseif j==length(genesplit)
+        rule=[rule ' or ' genesplit{j} ')' ]
+         else
+            rule=[rule ' or ' genesplit{j} ]
+
+         end
+         
+        end
+        
+model.grRules{n}=rule;
+rule1=rule;
+for k=1:length(genesplit)
+possy=find(strcmp(genesplit{k}, model.genes))
+    if ~isempty(possy)
+        rule1=strrep(rule1,genesplit{k},['x(' num2str(possy) ')'])
+    else
+        le=length(model.genes);
+        model.genes{le+1,1}=genesplit{k}
+        rule1=strrep(rule1,genesplit{k},['x(' num2str(le+1) ')'])
+
+    end
+end
+rule1=strrep(rule1,'or','|');
+model.rules{n}=rule1;
+
+    end
+    else
+    rxngenes=genes{pos};
+    if ismissing(rxngenes)
+        % do nothing
+        n
+    else
+        genesplit=split(rxngenes,' // ')
+        genesplit=strrep(genesplit,'SOBIC','Sobic')
+        % Generate grrule for each reaction 
+        rule={};
+        for j=1:length(genesplit)
+         total_gene_list=[total_gene_list,genesplit{j}];
+
+         if j==1 && j==length(genesplit)
+             rule=['(' genesplit{j} ')']
+         elseif   j==1 && j~=length(genesplit)
+        rule=['(' genesplit{j}]
+         
+         elseif j==length(genesplit)
+        rule=[rule ' or ' genesplit{j} ')' ]
+         else
+            rule=[rule ' or ' genesplit{j} ]
+
+         end
+         
+        end
+        
+model.grRules{n}=rule;
+rule1=rule;
+for k=1:length(genesplit)
+possy=find(strcmp(genesplit{k}, model.genes))
+    if ~isempty(possy)
+        rule1=strrep(rule1,genesplit{k},['x(' num2str(possy) ')'])
+    else
+        le=length(model.genes);
+        model.genes{le+1,1}=genesplit{k}
+        rule1=strrep(rule1,genesplit{k},['x(' num2str(le+1) ')'])
+
+    end
+end
+rule1=strrep(rule1,'or','|');
+model.rules{n}=rule1;
+
+    end
+    end
+end
+%model.genes=total_gene_list'
+model = buildRxnGeneMat(model)
+
+save('SorghumBicolorPMNV8_genes.mat','model');
