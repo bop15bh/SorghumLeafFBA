@@ -1,0 +1,1236 @@
+column 1	Pathways of a reaction	EC-Number	Object ID
+"(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA + NAD+  <-->  2-methylacetoacetyl-CoA + NADH + H+"	L-isoleucine degradation I	EC-1.1.1.178	1.1.1.178-RXN
+GDP-beta-L-fucose + NADP+  <-  GDP-4-dehydro-alpha-D-rhamnose + NADPH + H+	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	EC-1.1.1.271	1.1.1.271-RXN
+2'-deoxymugineate + NAD(P)+  <-  3''-deamino-3''-oxonicotianamine + NAD(P)H + H+	2'-deoxymugineic acid phytosiderophore biosynthesis	EC-1.1.1.285	1.1.1.285-RXN
+"2-cis,4-trans-xanthoxin + NAD+  ->  (+)-cis-abscisic aldehyde + NADH + H+"	abscisic acid biosynthesis	EC-1.1.1.288	1.1.1.288-RXN
+coenzyme A + (R)-mevalonate + 2 NADP+  <-  (S)-3-hydroxy-3-methylglutaryl-CoA + 2 NADPH + 2 H+	mevalonate pathway I (eukaryotes and bacteria)	EC-1.1.1.34	1.1.1.34-RXN
+sn-glycerol 3-phosphate + NAD+  <-  glycerone phosphate + NADH + H+	glycerol-3-phosphate shuttle	EC-1.1.1.8	1.1.1.8-RXN
+"keto-D-fructose + D-glucopyranose  =  D-glucono-1,5-lactone + D-sorbitol"		EC-1.1.99.28	1.1.99.28-RXN
+Q-cycle (mitochondria)	aerobic respiration I (cytochrome c)	EC-7.1.1.8	1.10.2.2-RXN
+2'-deoxymugineate + 2-oxoglutarate + dioxygen  ->  mugineate + succinate + CO2 + H+	hydroxylated mugineic acid phytosiderophore biosynthesis	EC-1.14.11.24	1.14.11.24-RXN
+trans-5-O-(4-coumaroyl)-D-quinate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  chlorogenate + oxidized [NADPH-hemoprotein reductase] + H2O	chlorogenic acid biosynthesis II // monolignol biosynthesis	EC-1.14.14.96	1.14.13.36-RXN
+hydroxyphenylacetonitrile 2-monooxygenase	dhurrin biosynthesis		1.14.13.42-RXN
+(E)-(4-hydroxyphenyl)acetaldehyde oxime + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (S)-4-hydroxymandelonitrile + oxidized [NADPH-hemoprotein reductase] + 2 H2O	dhurrin biosynthesis	EC-1.14.14.37	1.14.13.68-RXN
+"obtusifoliol + 3 reduced [NADPH-hemoprotein reductase] + 3 dioxygen  ->  4alpha-methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol + formate + 3 oxidized [NADPH-hemoprotein reductase] + 4 H2O + H+"	phytosterol biosynthesis (plants)	EC-1.14.14.154	1.14.13.70-RXN
+ent-kaurene + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-kaurenol + oxidized [NADPH-hemoprotein reductase] + H2O	gibberellin A<sub>12</sub> biosynthesis // steviol biosynthesis		1.14.13.78-RXN
+<em>ent</em>-kaurenoate monooxygenase	gibberellin A<sub>12</sub> biosynthesis		1.14.13.79-RXN
+2 reduced ferredoxin [iron-sulfur] cluster + NADP+ + H+  <-->  2 oxidized ferredoxin [iron-sulfur] cluster + NADPH	photosynthesis light reactions I (plastocyanin)	EC-1.18.1.2	1.18.1.2-RXN
+D-glyceraldehyde 3-phosphate + NADP+ + phosphate  <-  3-phospho-D-glyceroyl phosphate + NADPH + H+	Calvin-Benson-Bassham cycle	EC-1.2.1.13	1.2.1.13-RXN
+formate + NAD+  <-->  CO2 + NADH		EC-1.17.1.9	1.2.1.2-RXN
+coenzyme A + 3-methyl-2-oxobutanoate + NAD+  ->  isobutanoyl-CoA + CO2 + NADH	2-oxoisovalerate decarboxylation to isobutanoyl-CoA // L-valine degradation I	EC-1.2.1.25	1.2.1.25-RXN
+D-glyceraldehyde 3-phosphate + NADP+ + H2O  ->  3-phospho-D-glycerate + NADPH + 2 H+	glycolysis IV	EC-1.2.1.9	1.2.1.9-RXN
+(+)-cis-abscisic aldehyde + H2O + dioxygen  ->  2-cis-abscisate + hydrogen peroxide + H+	abscisic acid biosynthesis	EC-1.2.3.14	1.2.3.14-RXN
+arsenous acid + an oxidized electron carrier + H2O  <-->  arsenate + a reduced two electron carrier + 2 H+		EC-1.20.99.1	1.20.99.1-RXN
+"5,6-dihydrouracil + NADP+  <-  uracil + NADPH + H+"	uracil degradation I (reductive)	EC-1.3.1.2	1.3.1.2-RXN
+"a 5-methyltetrahydrofolate + NAD(P)+  <-->  a 5,10-methylenetetrahydrofolate + NAD(P)H + H+"		EC-1.5.1.20	1.5.1.20-RXN
+L-saccharopine + NADP+ + H2O  <-  L-lysine + 2-oxoglutarate + NADPH + H+		EC-1.5.1.8	1.5.1.8-RXN
+L-saccharopine + NAD+ + H2O  ->  L-glutamate + (S)-2-amino-6-oxohexanoate + NADH + H+		EC-1.5.1.9	1.5.1.9-RXN
+N6-dimethylallyladenine + an oxidized electron carrier + H2O  ->  3-methylbut-2-enal + adenine + a reduced two electron carrier		EC-1.5.99.12	1.5.99.12-RXN
+2 monodehydroascorbate radical + NADH  =  2 L-ascorbate + NAD+ + H+		EC-1.6.5.4	1.6.5.4-RXN
+NADH[in] + an electron-transfer quinone[membrane] + H+[in]  ->  NAD+[in] + an electron-transfer quinol[membrane]		EC-1.6.5.9	1.6.99.5-RXN
+sulfite + AMP + glutathione disulfide + 2 H+  <-  adenosine 5'-phosphosulfate + 2 glutathione	assimilatory sulfate reduction II	EC-1.8.4.9	1.8.4.9-RXN
+dehydroascorbate + 2 glutathione  ->  glutathione disulfide + L-ascorbate	ascorbate glutathione cycle	EC-1.8.5.1	1.8.5.1-RXN
+"(9S,13S,15Z)-12-oxo-10,11-dihydrophyto-15-enoate + NADP+  <-  (9S,13S,15Z)-12-oxophyto-10,15-dienoate + NADPH + H+"	jasmonic acid biosynthesis	EC-1.3.1.42	12-OXOPHYTODIENOATE-REDUCTASE-RXN
+D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  <-->  D-ribose 5-phosphate + D-xylulose 5-phosphate	Calvin-Benson-Bassham cycle // pentose phosphate pathway (non-oxidative branch) I // Rubisco shunt	EC-2.2.1.1	1TRANSKETO-RXN
+(R)-pantoate + NADP+  <-  2-dehydropantoate + NADPH + H+	phosphopantothenate biosynthesis I	EC-1.1.1.169	2-DEHYDROPANTOATE-REDUCT-RXN
+(S)-2-hydroxyglutarate + an oxidized electron carrier  =  2-oxoglutarate + a reduced two electron carrier		EC-1.1.99.2	2-HYDROXYGLUTARATE-DEHYDROGENASE-RXN
+acetyl-CoA + 3-methyl-2-oxobutanoate + H2O  ->  (2S)-2-isopropylmalate + coenzyme A + H+	L-leucine biosynthesis	EC-2.3.3.13	2-ISOPROPYLMALATESYN-RXN
+(2S)-2-methylbutanoyl-CoA + oxidized electron-transfer flavoprotein + H+  <-->  (E)-2-methylcrotonoyl-CoA + reduced electron-transfer flavoprotein	L-isoleucine degradation I	EC-1.3.8.5	2-METHYLACYL-COA-DEHYDROGENASE-RXN
+O-phosphoethanolamine + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + N-methylethanolamine phosphate + H+	phosphatidylcholine biosynthesis IV // phosphatidylcholine biosynthesis III // choline biosynthesis I // phosphatidylcholine biosynthesis II	EC-2.1.1.103	2.1.1.103-RXN
+24-methylidenelophenol + S-adenosyl-L-methionine  ->  (24Z)-24-ethylidenelophenol + S-adenosyl-L-homocysteine + H+	phytosterol biosynthesis (plants)	EC-2.1.1.143	2.1.1.143-RXN
+(E)-4-coumaroyl-CoA + shikimate  ->  trans-5-O-(4-coumaroyl)shikimate + coenzyme A	avenanthramide biosynthesis // chlorogenic acid biosynthesis II // monolignol biosynthesis	EC-2.3.1.133	2.3.1.133-RXN
+bisdemalonylsalvianin + malonyl-CoA  ->  coenzyme A + monodemalonylsalvianin	salvianin biosynthesis	EC-2.3.1.172	2.3.1.172-RXN
+acetyl-CoA + malonyl-[acp] + H+  ->  acetoacetyl-[acp] + coenzyme A + CO2	fatty acid biosynthesis initiation (type II)	EC-2.3.1.180	2.3.1.180-RXN
+UDP-alpha-D-glucose + coniferyl alcohol  ->  coniferin + UDP + H+	coniferin metabolism	EC-2.4.1.111	2.4.1.111-RXN
+UDP-alpha-D-galactose + myo-inositol  ->  galactinol + UDP + H+	stachyose biosynthesis	EC-2.4.1.123	2.4.1.123-RXN
+galactinol + raffinose  ->  myo-inositol + stachyose	stachyose biosynthesis	EC-2.4.1.67	2.4.1.67-RXN
+galactinol + sucrose  ->  myo-inositol + raffinose	stachyose biosynthesis	EC-2.4.1.82	2.4.1.82-RXN
+shikimate 3-phosphate + phosphoenolpyruvate  ->  5-enolpyruvoyl-shikimate 3-phosphate + phosphate	chorismate biosynthesis from 3-dehydroquinate	EC-2.5.1.19	2.5.1.19-RXN
+2 geranylgeranyl diphosphate  ->  prephytoene diphosphate + diphosphate	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)		2.5.1.32-RXN
+3 S-adenosyl-L-methionine  ->  L-nicotianamine + 3 S-methyl-5'-thioadenosine + 3 H+	L-nicotianamine biosynthesis // 2'-deoxymugineic acid phytosiderophore biosynthesis	EC-2.5.1.43	2.5.1.43-RXN
+"isochorismate + 2-oxoglutarate + H+  ->  (1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxycyclohex-3-ene-1-carboxylate + CO2"	"2-carboxy-1,4-naphthoquinol biosynthesis"	EC-2.2.1.9	2.5.1.64-RXN
+L-alanine + 3-oxopropanoate  <-->  pyruvate + beta-alanine	&beta;-alanine biosynthesis II	EC-2.6.1.18	2.6.1.18-RXN
+"L-dopa + 2-oxoglutarate  <-->  3-(3,4-dihydroxyphenyl)pyruvate + L-glutamate"	rosmarinic acid biosynthesis II	EC-2.6.1.49	2.6.1.49-RXN
+L-nicotianamine + 2-oxoglutarate  <-->  L-glutamate + 3''-deamino-3''-oxonicotianamine	2'-deoxymugineic acid phytosiderophore biosynthesis	EC-2.6.1.80	2.6.1.80-RXN
+"D-myo-inositol (3,4,5,6)-tetrakisphosphate + ATP  <-->  D-myo-inositol 1,3,4,5,6-pentakisphosphate + ADP + H+"	1D-<i>myo</i>-inositol hexakisphosphate biosynthesis III (<i>Spirodela polyrrhiza</i>)	EC-2.7.1.134	2.7.1.134-RXN
+"D-myo-inositol (1,3,4)-trisphosphate + ATP  <-->  D-myo-inositol (1,3,4,5)-tetrakisphosphate + ADP + H+"	"1D-<i>myo</i>-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)"	EC-2.7.1.159	2.7.1.139-RXN
+4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol + ATP  ->  2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol + ADP + H+	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	EC-2.7.1.148	2.7.1.148-RXN
+"D-myo-inositol (1,4,5)-trisphosphate + ATP  ->  D-myo-inositol (1,4,5,6)-tetrakisphosphate + ADP + H+"	"lipid-dependent phytate biosynthesis I (via Ins(1,4,5)P<sub>3</sub>)"	EC-2.7.1.151	2.7.1.151-RXN
+"phytate + ATP  ->  1D-myoinositol 5-diphosphate 1,2,3,4,6-pentakisphosphate + ADP"	inositol diphosphates biosynthesis	EC-2.7.4.21	2.7.1.152-RXN
+"beta-D-fructofuranose 6-phosphate + diphosphate  ->  beta-D-fructofuranose 1,6-bisphosphate + phosphate + H+"	glycolysis IV	EC-2.7.1.90	2.7.1.90-RXN
+"ATP + 1D-myoinositol 5-diphosphate 1,2,3,4,6-pentakisphosphate  ->  ADP + 1D-myo-inositol 1,5-bis(diphosphate) 2,3,4,6-tetrakisphosphate"	inositol diphosphates biosynthesis	EC-2.7.4.24	2.7.4.24-RXN
+beta-nicotinamide D-ribonucleotide + ATP + H+  =  NAD+ + diphosphate		EC-2.7.7.1	2.7.7.1-RXN
+alpha-D-mannose 1-phosphate + GTP + H+  ->  GDP-alpha-D-mannose + diphosphate	GDP-mannose biosynthesis	EC-2.7.7.13	2.7.7.13-RXN
+CTP + phosphocholine + H+  ->  CDP-choline + diphosphate	phosphatidylcholine biosynthesis II // choline biosynthesis III // phosphatidylcholine biosynthesis I	EC-2.7.7.15	2.7.7.15-RXN
+alpha-D-glucuronate 1-phosphate + UTP + H+  ->  UDP-alpha-D-glucuronate + diphosphate	UDP-&alpha;-D-glucuronate biosynthesis (from <i>myo</i>-inositol)	EC-2.7.7.44	2.7.7.44-RXN
+2-C-methyl-D-erythritol 4-phosphate + CTP + H+  ->  4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol + diphosphate	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	EC-2.7.7.60	2.7.7.60-RXN
+UTP + a sugar 1-phosphate + H+  =  a UDP-sugar + diphosphate		EC-2.7.7.64	2.7.7.64-RXN
+(<i>S</i>)-3-methyl-2-oxopentanoate dehydrogenase (acylating)	L-isoleucine degradation I	EC-1.2.1.25	2KETO-3METHYLVALERATE-RXN
+4-methyl-2-oxopentanoate dehydrogenase (acylating)	L-leucine degradation I	EC-1.2.1.25	2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN
+2-oxoglutarate dehydrogenase complex	2-oxoglutarate decarboxylation to succinyl-CoA // TCA cycle II (plants and fungi)	EC-1.2.1.105	2OXOGLUTARATEDEH-RXN
+2-phospho-D-glycerate  <-->  phosphoenolpyruvate + H2O	glycolysis I (from glucose 6-phosphate) // glycolysis IV // Rubisco shunt // gluconeogenesis I	EC-4.2.1.11	2PGADEHYDRAT-RXN
+D-erythrose 4-phosphate + D-xylulose 5-phosphate  <-->  beta-D-fructofuranose 6-phosphate + D-glyceraldehyde 3-phosphate	Calvin-Benson-Bassham cycle // pentose phosphate pathway (non-oxidative branch) I // Rubisco shunt	EC-2.2.1.1	2TRANSKETO-RXN
+"a 5,10-methylenetetrahydrofolate + 3-methyl-2-oxobutanoate + H2O  <-->  2-dehydropantoate + a tetrahydrofolate"	phosphopantothenate biosynthesis I	EC-2.1.2.11	3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN
+L-asparagine  <-  3-cyano-L-alanine + H+ + H2O	cyanide detoxification I	EC-4.2.1.65	3-CYANOALANINE-HYDRATASE-RXN
+3-dehydroquinate  ->  3-dehydroshikimate + H2O	chorismate biosynthesis from 3-dehydroquinate	EC-4.2.1.10	3-DEHYDROQUINATE-DEHYDRATASE-RXN
+3-deoxy-D-arabino-heptulosonate 7-phosphate  ->  3-dehydroquinate + phosphate	3-dehydroquinate biosynthesis I	EC-4.2.3.4	3-DEHYDROQUINATE-SYNTHASE-RXN
+(S)-3-hydroxy-isobutanoate + NAD+  ->  (S)-methylmalonate-semialdehyde + NADH + H+	L-valine degradation I	EC-1.1.1.31	3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN
+(S)-3-hydroxy-isobutanoyl-CoA + H2O  ->  (S)-3-hydroxy-isobutanoate + coenzyme A + H+	L-valine degradation I	EC-3.1.2.4	3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN
+3-hydroxypropanoate + NAD+  <-->  3-oxopropanoate + NADH + H+	&beta;-alanine biosynthesis II	EC-1.1.1.59	3-HYDROXYPROPIONATE-DEHYDROGENASE-RXN
+"(2R,3S)-3-isopropylmalate + NAD+  ->  (2S)-2-isopropyl-3-oxosuccinate + NADH + H+"	L-leucine biosynthesis		3-ISOPROPYLMALDEHYDROG-RXN
+3-isopropylmalate dehydratase	L-leucine biosynthesis		3-ISOPROPYLMALISOM-RXN
+3-phospho-D-glycerate + H2O  ->  D-glycerate + phosphate	L-serine biosynthesis II	EC-3.1.3.38	3-PHOSPHOGLYCERATE-PHOSPHATASE-RXN
+pheophorbide a + H2O + H+  ->  pyropheophorbide a + methanol + CO2	chlorophyll <i>a</i> degradation I	EC-3.1.1.82	3.1.1.82-RXN
+oleoyl-[acp] + H2O  ->  acyl-carrier protein + oleate + H+	oleate biosynthesis I (plants)	EC-3.1.2.14	3.1.2.14-RXN
+dodecanoyl-[acp] + H2O  ->  acyl-carrier protein + laurate + H+	palmitate biosynthesis II (type II fatty acid synthase) // tetradecanoate biosynthesis (mitochondria)	EC-3.1.2.21	3.1.2.21-RXN
+"beta-D-fructose 2,6-bisphosphate + H2O  ->  beta-D-fructofuranose 6-phosphate + phosphate"	"fructose 2,6-bisphosphate biosynthesis"	EC-3.1.3.46	3.1.3.46-RXN
+"D-myo-inositol (1,4,5)-trisphosphate + H2O  ->  D-myo-inositol (1,4)-bisphosphate + phosphate"	"D-<i>myo</i>-inositol (1,4,5)-trisphosphate degradation"	EC-3.1.3.56	3.1.3.56-RXN
+"D-myo-inositol (1,4)-bisphosphate + H2O  ->  1D-myo-inositol 4-monophosphate + phosphate"	"D-<i>myo</i>-inositol (1,4,5)-trisphosphate degradation"	EC-3.1.3.57	3.1.3.57-RXN
+pyridoxal 5'-phosphate + H2O  ->  pyridoxal + phosphate	pyridoxal 5'-phosphate salvage II (plants)	EC-3.1.3.74	3.1.3.74-RXN
+"5-(methylsulfanyl)-2,3-dioxopentyl 1-phosphate + H2O  ->  1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one + phosphate + H+"	<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation I	EC-3.1.3.77	3.1.3.77-RXN
+sucrose + H2O  ->  beta-D-fructofuranose + D-glucopyranose	sucrose degradation III (sucrose invertase)	EC-3.2.1.26 // EC-3.2.1.48	3.2.1.48-RXN
+(S)-5-hydroxyisourate + H2O  ->  (S)-2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline + H+	urate conversion to allantoin I	EC-3.5.2.17	3.5.2.17-RXN
+3-cyano-L-alanine + H+ + 2 H2O  ->  ammonium + L-aspartate	cyanide detoxification I	EC-3.5.5.4	3.5.5.4-RXN
+"adenosine 3',5'-bisphosphate + H2O  ->  AMP + phosphate"		EC-3.1.3.7	325-BISPHOSPHATE-NUCLEOTIDASE-RXN
+2-phospho-D-glycerate  <-->  3-phospho-D-glycerate	glycolysis I (from glucose 6-phosphate) // glycolysis IV // Rubisco shunt // gluconeogenesis I	EC-5.4.2.12	3PGAREARR-RXN
+4-coumarate + coenzyme A + ATP  ->  (E)-4-coumaroyl-CoA + AMP + diphosphate	flavonoid biosynthesis // rosmarinic acid biosynthesis I // avenanthramide biosynthesis // chlorogenic acid biosynthesis II // monolignol biosynthesis	EC-6.2.1.12	4-COUMARATE--COA-LIGASE-RXN
+3-(4-hydroxyphenyl)pyruvate + dioxygen  ->  CO2 + homogentisate	L-tyrosine degradation I // plastoquinol-9 biosynthesis I // vitamin E biosynthesis (tocopherols)	EC-1.13.11.27	4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN
+oxaloacetate + GTP  <-->  CO2 + phosphoenolpyruvate + GDP		EC-4.1.1.32	4.1.1.32-RXN
+(3<em>R</em>)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase	"palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-4.2.1.59	4.2.1.58-RXN
+(3R)-3-hydroxyoctanoyl-[acp]  ->  (2E)-oct-2-enoyl-[acp] + H2O	"palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-4.2.1.59	4.2.1.59-RXN
+(3R)-3-hydroxyhexadecanoyl-[acp]  ->  (2E)-hexadec-2-enoyl-[acp] + H2O	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III	EC-4.2.1.59	4.2.1.61-RXN
+ATP + (S)-NADHX  ->  ADP + NADH + phosphate + H+	NADH repair (eukaryotes)	EC-4.2.1.93	4.2.1.93-RXN
+(-)-ent-copalyl diphosphate  ->  ent-kaurene + diphosphate	<i>ent</i>-kaurene biosynthesis I	EC-4.2.3.19	4.2.3.19-RXN
+L-serine  ->  pyruvate + ammonium	glycine degradation	EC-4.3.1.17	4.3.1.17-RXN
+ATP + 5-(methylsulfanyl)-D-ribose  ->  ADP + S-methyl-5-thio-alpha-D-ribose 1-phosphate + H+	<i>S</i>-methyl-5'-thioadenosine degradation I	EC-2.7.1.100	5-METHYLTHIORIBOSE-KINASE-RXN
+5-oxo-L-proline + ATP + 2 H2O  ->  L-glutamate + ADP + phosphate + H+	&gamma;-glutamyl cycle	EC-3.5.2.9	5-OXOPROLINASE-ATP-HYDROLYSING-RXN
+L-serine  <-->  D-serine	D-serine metabolism // serine racemization	EC-5.1.1.10 // EC-5.1.1.18	5.1.1.18-RXN
+S-methyl-5-thio-alpha-D-ribose 1-phosphate  <-->  S-methyl-5-thio-D-ribulose 1-phosphate	<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation I	EC-5.3.1.23	5.3.1.23-RXN
+geranylgeranyl diphosphate  ->  (-)-ent-copalyl diphosphate	dolabralexins biosynthesis // <i>ent</i>-kaurene biosynthesis I // diterpene phytoalexins precursors biosynthesis	EC-5.5.1.13	5.5.1.13-RXN
+"beta-D-fructofuranose 6-phosphate + ATP  ->  beta-D-fructose 2,6-bisphosphate + ADP + H+"	"fructose 2,6-bisphosphate biosynthesis"	EC-2.7.1.105	6-PHOSPHOFRUCTO-2-KINASE-RXN
+ferulate + ATP + coenzyme A  ->  feruloyl-CoA + AMP + diphosphate	suberin monomers biosynthesis	EC-6.2.1.34	6.2.1.34-RXN
+"ATP + beta-D-fructofuranose 6-phosphate  ->  ADP + beta-D-fructofuranose 1,6-bisphosphate + H+"	glycolysis I (from glucose 6-phosphate) // glycolysis IV	EC-2.7.1.11	6PFRUCTPHOS-RXN
+"6-phospho D-glucono-1,5-lactone + H2O  ->  D-gluconate 6-phosphate + H+"	pentose phosphate pathway (oxidative branch) I	EC-3.1.1.31	6PGLUCONOLACT-RXN
+coenzyme A + acetate + ATP  <-->  acetyl-CoA + AMP + diphosphate	ethanol degradation II	EC-6.2.1.1	ACETATE--COA-LIGASE-RXN
+"(2R)-2,3-dihydroxy-3-methylbutanoate + NADP+  <-  (S)-2-acetolactate + NADPH + H+"	L-valine biosynthesis	EC-1.1.1.86	ACETOLACTREDUCTOISOM-RXN
+2 pyruvate + H+  ->  (S)-2-acetolactate + CO2	L-valine biosynthesis	EC-2.2.1.6	ACETOLACTSYN-RXN
+"(R)-2,3-dihydroxy-3-methylpentanoate + NADP+  <-  (S)-2-aceto-2-hydroxybutanoate + NADPH + H+"	L-isoleucine biosynthesis I (from threonine)	EC-1.1.1.86	ACETOOHBUTREDUCTOISOM-RXN
+2-aceto-2-hydroxy-butyrate synthase	L-isoleucine biosynthesis I (from threonine)	EC-2.2.1.6	ACETOOHBUTSYN-RXN
+2 acetyl-CoA  <-->  acetoacetyl-CoA + coenzyme A	mevalonate pathway I (eukaryotes and bacteria)	EC-2.3.1.16 // EC-2.3.1.9	ACETYL-COA-ACETYLTRANSFER-RXN
+ATP + acetyl-CoA + hydrogen carbonate  ->  ADP + malonyl-CoA + phosphate + H+		EC-6.4.1.2	ACETYL-COA-CARBOXYLTRANSFER-RXN
+N-acetyl-L-glutamate + ATP  ->  N-acetylglutamyl-phosphate + ADP	L-ornithine biosynthesis I // L-arginine biosynthesis II (acetyl cycle)	EC-2.7.2.8	ACETYLGLUTKIN-RXN
+N-acetyl-L-ornithine + H2O  ->  L-ornithine + acetate	L-ornithine biosynthesis I	EC-3.5.1.16	ACETYLORNDEACET-RXN
+N-acetyl-L-ornithine + 2-oxoglutarate  <-->  L-glutamate + N-acetyl-L-glutamate 5-semialdehyde	L-ornithine biosynthesis I // L-arginine biosynthesis II (acetyl cycle)	EC-2.6.1.11	ACETYLORNTRANSAM-RXN
+citrate  <-->  cis-aconitate + H2O	TCA cycle II (plants and fungi) // glyoxylate cycle		ACONITATEDEHYDR-RXN
+cis-aconitate hydratase	TCA cycle II (plants and fungi) // glyoxylate cycle		ACONITATEHYDR-RXN
+O-acetyl-L-serine + hydrogen sulfide  ->  L-cysteine + acetate + H+	L-cysteine biosynthesis I	EC-2.5.1.47	ACSERLY-RXN
+"2,3,4-saturated fatty acyl-CoA synthetase"	fatty acid &beta;-oxidation II (plant peroxisome)	EC-6.2.1	ACYLCOASYN-RXN
+4-amino-4-deoxychorismate  ->  4-aminobenzoate + pyruvate + H+	4-aminobenzoate biosynthesis I // tetrahydrofolate biosynthesis II	EC-4.1.3.38	ADCLY-RXN
+adenine + H+ + H2O  ->  ammonium + hypoxanthine	Organic Nitrogen Assimilation	EC-3.5.4.2	ADENINE-DEAMINASE-RXN
+adenosine + H2O + H+  =  inosine + ammonium		EC-3.5.4.4	ADENODEAMIN-RXN
+adenosine + ATP  ->  AMP + ADP + H+	adenine and adenosine salvage VI	EC-2.7.1.20	ADENOSINE-KINASE-RXN
+adenosine + H2O  ->  D-ribofuranose + adenine	adenine and adenosine salvage II	EC-3.2.2.7	ADENOSINE-NUCLEOSIDASE-RXN
+S-adenosyl-L-homocysteine + H2O  ->  L-homocysteine + adenosine	L-methionine degradation I (to L-homocysteine) // <i>S</i>-adenosyl-L-methionine salvage II	EC-3.13.2.1	ADENOSYLHOMOCYSTEINASE-RXN
+AMP + diphosphate  <-  adenine + 5-phospho-alpha-D-ribose 1-diphosphate	adenine and adenosine salvage II	EC-2.4.2.7	ADENPRIBOSYLTRAN-RXN
+ATP + AMP  <-->  2 ADP	adenosine ribonucleotides <i>de novo</i> biosynthesis	EC-2.7.4.3	ADENYL-KIN-RXN
+L-aspartate + IMP + GTP  ->  adenylosuccinate + GDP + phosphate + 2 H+	adenosine ribonucleotides <i>de novo</i> biosynthesis	EC-6.3.4.4	ADENYLOSUCCINATE-SYNTHASE-RXN
+adenosine 5'-phosphosulfate + H2O  ->  sulfate + AMP + 2 H+		EC-3.6.2.1	ADENYLYLSULFATASE-RXN
+sulfite + AMP + oxidized QmoABC electron-transfer protein complex + 2 H+  <-->  adenosine 5'-phosphosulfate + reduced QmoABC electron-transfer protein complex		EC-1.8.99.2	ADENYLYLSULFATE-REDUCTASE-RXN
+adenosine 5'-phosphosulfate + ATP  ->  3'-phosphoadenylyl-sulfate + ADP + H+	sulfate activation for sulfonation	EC-2.7.1.25	ADENYLYLSULFKIN-RXN
+ADP reductase	adenosine deoxyribonucleotides <i>de novo</i> biosynthesis I	EC-1.17.4.1	ADPREDUCT-RXN
+agmatine + H2O  ->  ammonium + N-carbamoylputrescine	superpathway of polyamine biosynthesis // putrescine biosynthesis II	EC-3.5.3.12	AGMATINE-DEIMINASE-RXN
+5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole  ->  fumarate + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	inosine-5'-phosphate biosynthesis II	EC-4.3.2.2	AICARSYN-RXN
+an N10-formyltetrahydrofolate + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide  <-->  a tetrahydrofolate + 5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide	inosine-5'-phosphate biosynthesis II	EC-2.1.2.3	AICARTRANSFORM-RXN
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + 2 H+  <-->  5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + CO2	inosine-5'-phosphate biosynthesis II	EC-4.1.1.21	AIRCARBOXY-RXN
+ATP + 2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine  ->  ADP + 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + phosphate + H+	5-aminoimidazole ribonucleotide biosynthesis I	EC-6.3.3.1	AIRS-RXN
+L-alanine + glyoxylate  <-->  pyruvate + glycine	glycine biosynthesis III	EC-2.6.1.44	ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN
+L-alanine + 2-oxoglutarate  <-->  pyruvate + L-glutamate	"L-alanine biosynthesis II // L-alanine degradation III // L-alanine degradation II (to D-lactate) // C4 photosynthetic carbon assimilation cycle, NAD-ME type // C4 photosynthetic carbon assimilation cycle, PEPCK type"	EC-2.6.1.2	ALANINE-AMINOTRANSFERASE-RXN
+ethanol + NAD+  <-->  acetaldehyde + NADH + H+	acetaldehyde biosynthesis I // pyruvate fermentation to ethanol II // ethanol degradation II	EC-1.1.1.1	ALCOHOL-DEHYDROG-RXN
+an aldehyde + dioxygen + H2O  ->  a carboxylate + hydrogen peroxide + H+		EC-1.2.3.1	ALDEHYDE-OXIDASE-RXN
+alpha-D-glucopyranose  <-->  beta-D-glucopyranose		EC-5.1.3.3	ALDOSE-1-EPIMERASE-RXN
+allantoate + 2 H+ + H2O  ->  (S)-ureidoglycine + ammonium + CO2	allantoin degradation to ureidoglycolate II (ammonia producing)	EC-3.5.3.9	ALLANTOATE-DEIMINASE-RXN
+allantoate + H2O  ->  (S)-ureidoglycolate + urea	allantoin degradation to ureidoglycolate I (urea producing) // Organic Nitrogen Assimilation	EC-3.5.3.4	ALLANTOICASE-RXN
+(S)-(+)-allantoin + H2O  ->  allantoate + H+	allantoin degradation to ureidoglycolate I (urea producing) // allantoin degradation to ureidoglycolate II (ammonia producing) // Organic Nitrogen Assimilation	EC-3.5.2.5	ALLANTOINASE-RXN
+"(9Z,13S,15Z)-12,13-epoxyoctadeca-9,11,15-trienoate  ->  (9S,13S,15Z)-12-oxophyto-10,15-dienoate"	jasmonic acid biosynthesis	EC-5.3.99.6	ALLENE-OXIDE-CYCLASE-RXN
+urea-1-carboxylate + H2O + 3 H+  ->  2 CO2 + 2 ammonium	Organic Nitrogen Assimilation	EC-3.5.1.54	ALLOPHANATE-HYDROLASE-RXN
+4-aminobutanal + NAD+ + H2O  ->  4-aminobutanoate + NADH + 2 H+		EC-1.2.1.19	AMINOBUTDEHYDROG-RXN
+AMP + H2O + H+  ->  IMP + ammonium	adenosine nucleotides degradation I	EC-3.5.4.17 // EC-3.5.4.6	AMP-DEAMINASE-RXN
+AMP + H2O  ->  adenosine + phosphate		EC-3.1.3.5	AMP-DEPHOSPHORYLATION-RXN
+adenylosuccinate  ->  AMP + fumarate	adenosine ribonucleotides <i>de novo</i> biosynthesis	EC-4.3.2.2	AMPSYN-RXN
+chorismate + L-glutamine  ->  anthranilate + L-glutamate + pyruvate + H+	L-tryptophan biosynthesis	EC-4.1.3.27	ANTHRANSYN-RXN
+Naringenin chalcone isomerase	flavonoid biosynthesis // flavonoid biosynthesis (in equisetum)	EC-5.5.1.6	APIGNAR-RXN
+L-arginine + H+  ->  agmatine + CO2	putrescine biosynthesis II	EC-4.1.1.19	ARGDECARBOX-RXN
+L-arginine + H2O  <-->  urea + L-ornithine	L-arginine degradation I (arginase pathway) // L-arginine degradation VI (arginase 2 pathway) // putrescine biosynthesis III // L-citrulline biosynthesis	EC-3.5.3.1	ARGINASE-RXN
+L-arginine + H2O  ->  L-citrulline + ammonium	Organic Nitrogen Assimilation	EC-3.5.3.6	ARGININE-DEIMINASE-RXN
+L-arginino-succinate  ->  L-arginine + fumarate	L-arginine biosynthesis I (via L-ornithine) // L-arginine biosynthesis II (acetyl cycle)	EC-4.3.2.1	ARGSUCCINLYA-RXN
+L-aspartate + L-citrulline + ATP  ->  L-arginino-succinate + AMP + diphosphate + H+	L-arginine biosynthesis I (via L-ornithine) // L-arginine biosynthesis II (acetyl cycle)	EC-6.3.4.5	ARGSUCCINSYN-RXN
+L-tryptophan + H+  ->  tryptamine + CO2	serotonin and melatonin biosynthesis II	EC-4.1.1.28 // EC-4.1.1.105	AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN
+ATP + L-aspartate + L-glutamine + H2O  ->  AMP + L-asparagine + L-glutamate + diphosphate + H+	L-asparagine biosynthesis I	EC-6.3.5.4	ASNSYNB-RXN
+L-aspartate + 2-oxoglutarate  <-->  oxaloacetate + L-glutamate	"L-aspartate biosynthesis // L-aspartate degradation I // C4 photosynthetic carbon assimilation cycle, NAD-ME type // C4 photosynthetic carbon assimilation cycle, PEPCK type"	EC-2.6.1.1	ASPAMINOTRANS-RXN
+L-asparagine + H2O  ->  L-aspartate + ammonium	L-asparagine degradation I	EC-3.5.1.38 // EC-3.5.1.1	ASPARAGHYD-RXN
+L-aspartate 4-semialdehyde + NADP+ + phosphate  <-->  L-aspartyl-4-phosphate + NADPH + H+	L-lysine biosynthesis VI // L-homoserine biosynthesis	EC-1.2.1.11	ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN
+L-aspartate + ATP  ->  L-aspartyl-4-phosphate + ADP	L-lysine biosynthesis VI // L-homoserine biosynthesis	EC-2.7.2.4	ASPARTATEKIN-RXN
+L-aspartate + carbamoyl phosphate  ->  N-carbamoyl-L-aspartate + phosphate + H+	UMP biosynthesis I	EC-2.1.3.2	ASPCARBTRANS-RXN
+oxaloacetate + acetyl-CoA + ADP + phosphate  <-  citrate + coenzyme A + ATP	acetyl-CoA biosynthesis from citrate	EC-2.3.3.8	ATP-CITRATE-PRO-S--LYASE-RXN
+ATP + H2O  ->  AMP + diphosphate + H+		EC-3.6.1.8	ATP-PYROPHOSPHATASE-RXN
+ATP + H2O  ->  ADP + phosphate + H+		EC-3.6.1.15	ATPASE-RXN
+1-(5-phospho-beta-D-ribosyl)-ATP + diphosphate  <-->  ATP + 5-phospho-alpha-D-ribose 1-diphosphate	L-histidine biosynthesis	EC-2.4.2.17	ATPPHOSPHORIBOSYLTRANS-RXN
+benzaldehyde + NAD+ + H2O  =  benzoate + NADH + 2 H+		EC-1.2.1.28	BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN
+3-ureidopropanoate + H2O + 2 H+  ->  beta-alanine + ammonium + CO2	uracil degradation I (reductive)	EC-3.5.1.6	BETA-UREIDOPROPIONASE-RXN
+L-isoleucine + 2-oxoglutarate  <-->  L-glutamate + (3S)-3-methyl-2-oxopentanoate	L-isoleucine degradation I // L-isoleucine biosynthesis I (from threonine)	EC-2.6.1.42	BRANCHED-CHAINAMINOTRANSFERILEU-RXN
+L-leucine + 2-oxoglutarate  <-->  L-glutamate + 4-methyl-2-oxopentanoate	L-leucine biosynthesis // L-leucine degradation I	EC-2.6.1.6 // EC-2.6.1.42	BRANCHED-CHAINAMINOTRANSFERLEU-RXN
+L-valine + 2-oxoglutarate  <-->  L-glutamate + 3-methyl-2-oxobutanoate	L-valine degradation I // L-valine biosynthesis	EC-2.6.1.42	BRANCHED-CHAINAMINOTRANSFERVAL-RXN
+(E)-caffeoyl-CoA + S-adenosyl-L-methionine  ->  feruloyl-CoA + S-adenosyl-L-homocysteine + H+	monolignol biosynthesis // suberin monomers biosynthesis	EC-2.1.1.104	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN
+ammonium + hydrogen carbonate + ATP  <-->  carbamoyl phosphate + ADP + H2O + H+	ornithine-citrulline shuttle	EC-2.7.2.2	CARBAMATE-KINASE-RXN
+L-arogenate + H+  ->  CO2 + L-phenylalanine + H2O	L-phenylalanine biosynthesis II	EC-4.2.1.91	CARBOXYCYCLOHEXADIENYL-DEHYDRATASE-RXN
+2 ATP + L-glutamine + hydrogen carbonate + H2O  ->  L-glutamate + carbamoyl phosphate + 2 ADP + phosphate + 2 H+	L-arginine biosynthesis I (via L-ornithine) // UMP biosynthesis I // L-arginine biosynthesis II (acetyl cycle) // ornithine-citrulline shuttle	EC-6.3.5.5	CARBPSYN-RXN
+2 hydrogen peroxide  ->  2 H2O + dioxygen	reactive oxygen species degradation // superoxide radicals degradation	EC-1.11.1.6 // EC-1.11.1.21	CATAL-RXN
+ATP + CDP  ->  ADP + CTP	CMP phosphorylation // pyrimidine ribonucleotides interconversion	EC-2.7.4.6	CDPKIN-RXN
+dCDP + oxidized thioredoxin + H2O  <-  CDP + reduced thioredoxin	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	EC-1.17.4.1	CDPREDUCT-RXN
+UDP-alpha-D-glucose + cellulose  ->  cellulose + UDP	cellulose biosynthesis	EC-2.4.1.12	CELLULOSE-SYNTHASE-UDP-FORMING-RXN
+choline + an oxidized electron carrier  <-->  betaine aldehyde + a reduced two electron carrier		EC-1.1.99.1	CHD-RXN
+a chlorophyll + H2O  ->  a chlorophyllide + phytol		EC-3.1.1.14	CHLOROPHYLLASE-RXN
+choline + ATP  ->  phosphocholine + ADP + H+	phosphatidylcholine biosynthesis I	EC-2.7.1.32	CHOLINE-KINASE-RXN
+5-enolpyruvoyl-shikimate 3-phosphate  ->  chorismate + phosphate	chorismate biosynthesis from 3-dehydroquinate	EC-4.2.3.5	CHORISMATE-SYNTHASE-RXN
+chorismate  ->  prephenate	L-tyrosine biosynthesis II // L-tyrosine biosynthesis III // L-phenylalanine biosynthesis II	EC-5.4.99.5	CHORISMATEMUT-RXN
+L-citrulline + H2O + 2 H+  ->  L-ornithine + CO2 + ammonium	Organic Nitrogen Assimilation	EC-3.5.1.20	CITRULLINASE-RXN
+acetyl-CoA + oxaloacetate + H2O  ->  citrate + coenzyme A + H+	TCA cycle II (plants and fungi) // glyoxylate cycle	EC-2.3.3.3 // EC-2.3.3.16 // EC-2.3.3.1	CITSYN-RXN
+coniferin + H2O  ->  coniferyl alcohol + D-glucopyranose	coniferin metabolism	EC-3.2.1.126	CONIFERIN-BETA-GLUCOSIDASE-RXN
+ATP + UTP + L-glutamine + H2O  ->  ADP + CTP + L-glutamate + phosphate + 2 H+	UTP and CTP dephosphorylation II // UTP and CTP <i>de novo</i> biosynthesis // UTP and CTP dephosphorylation I // pyrimidine ribonucleotides interconversion	EC-6.3.4.2	CTPSYN-RXN
+"(3S)-2,3-epoxy-2,3-dihydrosqualene  ->  cycloartenol"	"cycloartenol biosynthesis // avenacin biosynthesis, initial reactions"	EC-5.4.99.8	CYCLOARTENOL-SYNTHASE-RXN
+cycloeucalenol  ->  obtusifoliol	phytosterol biosynthesis (plants)	EC-5.5.1.9	CYCLOEUCALENOL-CYCLOISOMERASE-RXN
+L-arogenate + NAD+  ->  L-tyrosine + CO2 + NADH	L-tyrosine biosynthesis III	EC-1.3.1.43	CYCLOHEXADIENYL-DEHYDROGENASE-RXN
+L-cysteine + O-phospho-L-homoserine  ->  L-cystathionine + phosphate	L-methionine biosynthesis II	EC-2.5.1.48	CYSPH-RXN
+cytidine + H+ + H2O  ->  uridine + ammonium	pyrimidine ribonucleosides salvage II // pyrimidine ribonucleosides salvage I	EC-3.5.4.5	CYTIDEAM2-RXN
+cytidine + ATP  ->  CMP + ADP + H+	pyrimidine ribonucleosides salvage I	EC-2.7.1.48 // EC-2.7.1.213	CYTIKIN-RXN
+2 ferricytochrome b5 + NADH  =  2 ferrocytochrome b5 + NAD+ + H+		EC-1.6.2.2	CYTOCHROME-B5-REDUCTASE-RXN
+4 reduced c-type cytochrome[mitochondrial intermembrane space] + 8 H+[mitochondrial lumen] + dioxygen[mitochondrial lumen]  ->  4 oxidized c-type cytochrome[mitochondrial intermembrane space] + 4 H+[mitochondrial intermembrane space] + 2 H2O[mitochondrial lumen]	aerobic respiration I (cytochrome c)	EC-7.1.1.9	CYTOCHROME-C-OXIDASE-RXN
+(R)-lactate + 2 oxidized c-type cytochrome  =  pyruvate + 2 reduced c-type cytochrome + 2 H+		EC-1.1.2.4	D-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN
+xylitol + NAD+  =  D-xylulose + NADH + H+		EC-1.1.1.9	D-XYLULOSE-REDUCTASE-RXN
+ATP + dADP  ->  ADP + dATP	adenosine deoxyribonucleotides <i>de novo</i> biosynthesis I // purine deoxyribonucleosides salvage	EC-2.7.4.6	DADPKIN-RXN
+phosphoenolpyruvate + D-erythrose 4-phosphate + H2O  ->  3-deoxy-D-arabino-heptulosonate 7-phosphate + phosphate	3-dehydroquinate biosynthesis I	EC-2.5.1.54	DAHPSYN-RXN
+aldehydo-D-arabinose 5-phosphate  <-  D-ribulose 5-phosphate	CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	EC-5.3.1.13	DARAB5PISOM-RXN
+ATP + dCDP  ->  ADP + dCTP	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	EC-2.7.4.6	DCDPKIN-RXN
+dCTP + H+ + H2O  ->  ammonium + dUTP	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	EC-3.5.4.13	DCTP-DEAM-RXN
+dCTP + H2O  ->  dCMP + diphosphate + H+	pyrimidine deoxyribonucleotides dephosphorylation	EC-3.6.1.9 // EC-3.6.1.12 // EC-3.6.1.65	DCTP-PYROPHOSPHATASE-RXN
+ATP + dAMP  ->  ADP + dADP	purine deoxyribonucleosides salvage	EC-2.7.4.13 // EC-2.7.4.11	DEOXYADENYLATE-KINASE-RXN
+3'-dephospho-CoA + ATP  ->  coenzyme A + ADP + H+	coenzyme A biosynthesis I (bacteria)	EC-2.7.1.24	DEPHOSPHOCOAKIN-RXN
+ATP + dGDP  ->  ADP + dGTP	guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I // purine deoxyribonucleosides salvage	EC-2.7.4.6	DGDPKIN-RXN
+meso-diaminopimelate + H+  ->  L-lysine + CO2	L-lysine biosynthesis VI	EC-4.1.1.20	DIAMINOPIMDECARB-RXN
+"L,L-diaminopimelate  <-->  meso-diaminopimelate"	L-lysine biosynthesis VI	EC-5.1.1.7	DIAMINOPIMEPIM-RXN
+"pyruvate + L-aspartate 4-semialdehyde  ->  (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + H2O + H+"	L-lysine biosynthesis VI	EC-4.3.3.7	DIHYDRODIPICSYN-RXN
+"a tetrahydrofolate + NADP+  <-  a 7,8-dihydrofolate + NADPH + H+"	folate transformations II (plants) // dTMP <i>de novo</i> biosynthesis (mitochondrial) // tetrahydrofolate biosynthesis II	EC-1.5.1.3	DIHYDROFOLATEREDUCT-RXN
+"L-glutamate + 7,8-dihydropteroate + ATP  ->  ADP + 7,8-dihydrofolate monoglutamate + phosphate + H+"	tetrahydrofolate biosynthesis II	EC-6.3.2.12	DIHYDROFOLATESYNTH-RXN
+"7,8-dihydroneopterin 3'-phosphate + H2O  ->  D-erythro-7,8-dihydroneopterin + phosphate"	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I // tetrahydrofolate biosynthesis II	EC-3.6.1	DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN
+(S)-dihydroorotate + H2O  <-  N-carbamoyl-L-aspartate + H+	UMP biosynthesis I	EC-3.5.2.3	DIHYDROOROT-RXN
+(S)-dihydroorotate[in] + an electron-transfer quinone[membrane]  ->  orotate[in] + an electron-transfer quinol[membrane]	UMP biosynthesis I	EC-1.3.5.2	DIHYDROOROTATE-DEHYDROGENASE-RXN
+"5,6-dihydrouracil + H2O  ->  3-ureidopropanoate + H+"	uracil degradation I (reductive)	EC-3.5.2.2	DIHYDROPYRIMIDINASE-RXN
+"(2R)-2,3-dihydroxy-3-methylbutanoate  ->  3-methyl-2-oxobutanoate + H2O"	L-valine biosynthesis	EC-4.2.1.9	DIHYDROXYISOVALDEHYDRAT-RXN
+"2,3-Dihydroxy-3-methylvalerate dehydratase"	L-isoleucine biosynthesis I (from threonine)	EC-4.2.1.9	DIHYDROXYMETVALDEHYDRAT-RXN
+D-ribulose 5-phosphate  ->  formate + 1-deoxy-L-glycero-tetrulose 4-phosphate + H+	flavin biosynthesis I (bacteria and plants)	EC-4.1.99.12	DIOHBUTANONEPSYN-RXN
+(R)-mevalonate diphosphate + ATP  ->  3-methylbut-3-en-1-yl diphosphate + CO2 + ADP + phosphate	mevalonate pathway I (eukaryotes and bacteria)	EC-4.1.1.33	DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN
+(R)-lactate + NAD+  <-->  pyruvate + NADH + H+	L-alanine degradation II (to D-lactate)	EC-1.1.1.28	DLACTDEHYDROGNAD-RXN
+D-serine  ->  pyruvate + ammonium	D-serine degradation	EC-4.3.1.18	DSERDEAM-RXN
+ATP + dUDP  ->  ADP + dUTP	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	EC-2.7.4.6	DUDPKIN-RXN
+dUTP + H2O  ->  dUMP + diphosphate + H+	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II // pyrimidine deoxyribonucleotides dephosphorylation // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	EC-3.6.1.23 // EC-3.6.1.9	DUTP-PYROP-RXN
+2-C-methyl-D-erythritol 4-phosphate + NADP+  <-->  1-deoxy-D-xylulose 5-phosphate + NADPH + H+	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	EC-1.1.1.267	DXPREDISOM-RXN
+pyruvate + D-glyceraldehyde 3-phosphate + H+  ->  1-deoxy-D-xylulose 5-phosphate + CO2	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	EC-2.2.1.7	DXS-RXN
+"a 2,3,4-saturated (3S)-3-hydroxyacyl-CoA  <-->  a (2E)-2-enoyl-CoA + H2O"	"fatty acid &beta;-oxidation II (plant peroxisome) // fatty acid &beta;-oxidation IV (unsaturated, even number)"	EC-4.2.1.17	ENOYL-COA-HYDRAT-RXN
+ethanolamine + ATP  ->  O-phosphoethanolamine + ADP + H+	choline biosynthesis I // phosphatidylethanolamine biosynthesis II	EC-2.7.1.82	ETHANOLAMINE-KINASE-RXN
+"beta-D-fructofuranose 1,6-bisphosphate  <-->  glycerone phosphate + D-glyceraldehyde 3-phosphate"	glycolysis I (from glucose 6-phosphate) // sucrose biosynthesis I (from photosynthesis) // glycolysis IV // Calvin-Benson-Bassham cycle // gluconeogenesis I	EC-4.1.2.13	F16ALDOLASE-RXN
+"beta-D-fructofuranose 1,6-bisphosphate + H2O  ->  beta-D-fructofuranose 6-phosphate + phosphate"	glycolysis I (from glucose 6-phosphate) // sucrose biosynthesis I (from photosynthesis) // Calvin-Benson-Bassham cycle // gluconeogenesis I	EC-3.1.3.11	F16BDEPHOS-RXN
+ATP + FMN + H+  <-->  FAD + diphosphate	flavin biosynthesis I (bacteria and plants)	EC-2.7.7.2	FADSYN-RXN
+"(2E,6E)-farnesol + NADP+  <-  (2E,6E)-farnesal + NADPH + H+"	farnesylcysteine salvage pathway	EC-1.1.1.216	FARNESOL-DEHYDROGENASE-RXN
+"(2E,6E)-farnesyl diphosphate + 3-methylbut-3-en-1-yl diphosphate  ->  geranylgeranyl diphosphate + diphosphate"	geranylgeranyl diphosphate biosynthesis	EC-2.5.1.29	FARNESYLTRANSTRANSFERASE-RXN
+ammonium + 6 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O  <-  nitrite + 6 reduced ferredoxin [iron-sulfur] cluster + 8 H+	nitrate reduction II (assimilatory)	EC-1.7.7.1	FERREDOXIN--NITRITE-REDUCTASE-RXN
+S-sulfanylglutathione + dioxygen  ->  S-sulfinatoglutathione + H+			FESGSHTHIO-RXN
+ATP + N2-formyl-N1-(5-phospho-beta-D-ribosyl)glycinamide + L-glutamine + H2O  ->  L-glutamate + ADP + 2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine + phosphate + H+	5-aminoimidazole ribonucleotide biosynthesis I	EC-6.3.5.3	FGAMSYN-RXN
+a tetrahydrofolate + L-glutamate + ATP  ->  a tetrahydrofolate + ADP + phosphate	folate polyglutamylation // tetrahydrofolate biosynthesis II	EC-6.3.2.17	FOLYLPOLYGLUTAMATESYNTH-RXN
+a tetrahydrofolate + ATP + formate  <-->  an N10-formyltetrahydrofolate + ADP + phosphate	folate transformations II (plants) // folate polyglutamylation // tetrahydrofolate biosynthesis II	EC-6.3.4.3	FORMATETHFLIG-RXN
+an N10-formyltetrahydrofolate + H2O  ->  a tetrahydrofolate + formate + H+	formaldehyde oxidation VII (THF pathway)	EC-3.5.1.10	FORMYLTHFDEFORMYL-RXN
+"geranyl diphosphate + 3-methylbut-3-en-1-yl diphosphate  ->  (2E,6E)-farnesyl diphosphate + diphosphate"	"<i>trans, trans</i>-farnesyl diphosphate biosynthesis // polyisoprenoid biosynthesis"	EC-2.5.1.10	FPPSYN-RXN
+beta-D-fructofuranose + ATP  ->  beta-D-fructofuranose 6-phosphate + ADP + H+	sucrose degradation III (sucrose invertase)	EC-2.7.1.4	FRUCTOKINASE-RXN
+4-fumaryl-acetoacetate + H2O  ->  fumarate + acetoacetate + H+	L-tyrosine degradation I	EC-3.7.1.2	FUMARYLACETOACETASE-RXN
+(S)-malate  <-->  fumarate + H2O	TCA cycle II (plants and fungi)	EC-4.2.1.2	FUMHYDR-RXN
+4-aminobutanoate + 2-oxoglutarate  <-->  succinate semialdehyde + L-glutamate	L-glutamate degradation IV // 4-aminobutanoate degradation I	EC-2.6.1.19	GABATRANSAM-RXN
+alpha-D-galactopyranose + ATP  <-->  alpha-D-galactose 1-phosphate + ADP + H+	D-galactose detoxification // UDP-galactose biosynthesis (salvage pathway from galactose using UDP-glucose) // D-galactose degradation I (Leloir pathway) // stachyose degradation	EC-2.7.1.6	GALACTOKIN-RXN
+"L-galactono-1,4-lactone + 2 oxidized c-type cytochrome  ->  2 reduced c-type cytochrome + L-ascorbate + 3 H+"	"L-ascorbate biosynthesis I (plants, L-galactose pathway)"	EC-1.3.2.3	GALACTONOLACTONE-DEHYDROGENASE-RXN
+UDP-alpha-D-glucose + alpha-D-galactose 1-phosphate  <-->  UDP-alpha-D-galactose + alpha-D-glucopyranose 1-phosphate	UDP-galactose biosynthesis (salvage pathway from galactose using UDP-glucose) // D-galactose degradation I (Leloir pathway) // stachyose degradation	EC-2.7.7.12	GALACTURIDYLYLTRANS-RXN
+D-glyceraldehyde 3-phosphate + NAD+ + phosphate  <-->  3-phospho-D-glyceroyl phosphate + NADH + H+	glycolysis I (from glucose 6-phosphate) // sucrose biosynthesis I (from photosynthesis) // glycolysis IV // gluconeogenesis I	EC-1.2.1.12	GAPOXNPHOSPHN-RXN
+an N10-formyltetrahydrofolate + N1-(5-phospho-beta-D-ribosyl)glycinamide  <-->  a tetrahydrofolate + N2-formyl-N1-(5-phospho-beta-D-ribosyl)glycinamide + H+	"tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate // 5-aminoimidazole ribonucleotide biosynthesis I"	EC-2.1.2.2	GART-RXN
+"glycine + a tetrahydrofolate + NAD+  <-->  a 5,10-methylenetetrahydrofolate + ammonium + CO2 + NADH"	glycine cleavage // photorespiration I // folate transformations II (plants) // glycine degradation	EC-1.4.1.27	GCVMULTI-RXN
+ATP + GDP  ->  ADP + GTP	guanosine ribonucleotides <i>de novo</i> biosynthesis	EC-2.7.4.6	GDPKIN-RXN
+GDP-alpha-D-mannose  ->  GDP-4-dehydro-alpha-D-rhamnose + H2O	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	EC-4.2.1.47	GDPMANDEHYDRA-RXN
+dGDP + oxidized thioredoxin + H2O  <-  GDP + reduced thioredoxin	guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I	EC-1.17.4.1	GDPREDUCT-RXN
+geraniol + NADP+  ->  geranial + NADPH + H+	geraniol and geranial biosynthesis	EC-1.1.1.183	GERANIOL-DEHYDROGENASE-RXN
+"D-glucopyranose 6-phosphate + NADP+  ->  6-phospho D-glucono-1,5-lactone + NADPH + H+"	pentose phosphate pathway (oxidative branch) I	EC-1.1.1.49	GLU6PDEHYDROG-RXN
+alpha-D-glucopyranose 1-phosphate + ATP + H+  ->  ADP-alpha-D-glucose + diphosphate	starch biosynthesis	EC-2.7.7.27	GLUC1PADENYLTRANS-RXN
+alpha-D-glucopyranose 1-phosphate + UTP + H+  <-->  UDP-alpha-D-glucose + diphosphate	UDP-galactose biosynthesis (salvage pathway from galactose using UDP-glucose) // UDP-&alpha;-D-glucose biosynthesis // stachyose degradation	EC-2.7.7.64 // EC-2.7.7.9	GLUC1PURIDYLTRANS-RXN
+ATP + D-gluconate  =  D-gluconate 6-phosphate + ADP + H+		EC-2.7.1.12	GLUCONOKIN-RXN
+"D-glucono-1,5-lactone + H2O  ->  D-gluconate + H+"		EC-3.1.1.17	GLUCONOLACT-RXN
+alpha-D-glucose 6-phosphate  <-->  beta-D-glucose 6-phosphate		EC-5.1.3.15	GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN
+tRNAglu + L-glutamate + ATP  ->  L-glutamyl-[tRNAGlu] + AMP + diphosphate	tetrapyrrole biosynthesis I (from glutamate)	EC-6.1.1.17	GLURS-RXN
+L-glutamate + NAD(P)+ + H2O  <-->  2-oxoglutarate + ammonium + NAD(P)H + H+		EC-1.4.1.3	GLUTAMATE-DEHYDROGENASE-NADP+-RXN
+L-glutamate + NAD+ + H2O  <-->  2-oxoglutarate + ammonium + NADH + H+	L-glutamate degradation I // L-alanine degradation II (to D-lactate)	EC-1.4.1.2	GLUTAMATE-DEHYDROGENASE-RXN
+N-acetyl-L-ornithine + L-glutamate  ->  L-ornithine + N-acetyl-L-glutamate	L-arginine biosynthesis II (acetyl cycle)	EC-2.3.1.35	GLUTAMATE-N-ACETYLTRANSFERASE-RXN
+2 L-glutamate + 2 oxidized ferredoxin [iron-sulfur] cluster  <-  2-oxoglutarate + L-glutamine + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+	L-glutamate biosynthesis V // ammonia assimilation cycle II // Inorganic Nitrogen Assimilation // Organic Nitrogen Assimilation	EC-1.4.7.1	GLUTAMATE-SYNTHASE-FERREDOXIN-RXN
+2 L-glutamate + NAD+  <-  L-glutamine + 2-oxoglutarate + NADH + H+	ammonia assimilation cycle I // Inorganic Nitrogen Assimilation // L-glutamate biosynthesis IV // Organic Nitrogen Assimilation	EC-1.4.1.14	GLUTAMATE-SYNTHASE-NADH-RXN
+phosphoribulosylformimino-AICAR-phosphate + L-glutamine  ->  L-glutamate + D-erythro-1-(imidazol-4-yl)-glycerol 3-phosphate + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide + H+	L-histidine biosynthesis	EC-4.3.2.10	GLUTAMIDOTRANS-RXN
+L-glutamine + H2O  ->  L-glutamate + ammonia + H+	L-glutamine degradation I // glutaminyl-tRNA<sup>gln</sup> biosynthesis via transamidation // L-citrulline biosynthesis	EC-3.5.1.38 // EC-3.5.1.2	GLUTAMIN-RXN
+ammonium + L-glutamate + ATP  ->  L-glutamine + ADP + phosphate + H+	ammonia assimilation cycle I // L-glutamine biosynthesis I // ammonia assimilation cycle II // L-arginine biosynthesis II (acetyl cycle) // ornithine-citrulline shuttle // Inorganic Nitrogen Assimilation // Organic Nitrogen Assimilation	EC-6.3.1.2	GLUTAMINESYN-RXN
+hydrogen peroxide + 2 glutathione  ->  glutathione disulfide + 2 H2O	reactive oxygen species degradation // glutathione-peroxide redox reactions	EC-1.11.1.9	GLUTATHIONE-PEROXIDASE-RXN
+2 glutathione + NADP+  <-  glutathione disulfide + NADPH + H+	glutathione-peroxide redox reactions	EC-1.8.1.7	GLUTATHIONE-REDUCT-NADPH-RXN
+glycine + gamma-L-glutamyl-L-cysteine + ATP  ->  ADP + glutathione + phosphate + H+	glutathione biosynthesis	EC-6.3.2.3	GLUTATHIONE-SYN-RXN
+L-glutamate + L-cysteine + ATP  ->  gamma-L-glutamyl-L-cysteine + ADP + phosphate + H+	glutathione biosynthesis	EC-6.3.2.2	GLUTCYSLIG-RXN
+L-glutamate + H+  ->  4-aminobutanoate + CO2	L-glutamate degradation IV	EC-4.1.1.15	GLUTDECARBOX-RXN
+L-glutamate + NADP+ + H2O  <-->  ammonium + 2-oxoglutarate + NADPH + H+		EC-1.4.1.4	GLUTDEHYD-RXN
+L-glutamate + ATP  ->  gamma-L-glutamyl 5-phosphate + ADP	L-ornithine biosynthesis II // L-proline biosynthesis I (from L-glutamate) // L-citrulline biosynthesis	EC-2.7.2.11	GLUTKIN-RXN
+(S)-4-amino-5-oxopentanoate + tRNAglu + NADP+  <-  L-glutamyl-[tRNAGlu] + NADPH + H+	tetrapyrrole biosynthesis I (from glutamate)	EC-1.2.1.70	GLUTRNAREDUCT-RXN
+L-glutamate 5-semialdehyde + NADP+ + phosphate  <-  gamma-L-glutamyl 5-phosphate + NADPH + H+	L-ornithine biosynthesis II // L-proline biosynthesis I (from L-glutamate) // L-citrulline biosynthesis	EC-1.2.1.41	GLUTSEMIALDEHYDROG-RXN
+D-glycerate + ATP  ->  3-phospho-D-glycerate + ADP + H+	photorespiration I	EC-2.7.1.31	GLY3KIN-RXN
+sn-glycerol 3-phosphate + NAD(P)+  <-  glycerone phosphate + NAD(P)H + H+	CDP-diacylglycerol biosynthesis II // CDP-diacylglycerol biosynthesis I	EC-1.1.1.94	GLYC3PDEHYDROGBIOSYN-RXN
+D-glycerate + NAD+  <-->  3-hydroxypyruvate + NADH + H+	photorespiration I	EC-1.1.1.29	GLYCERATE-DEHYDROGENASE-RXN
+glycerol + ATP  ->  sn-glycerol 3-phosphate + ADP + H+	glycerol degradation I	EC-2.7.1.30	GLYCEROL-KIN-RXN
+glycine + 2-oxoglutarate  <-->  glyoxylate + L-glutamate	photorespiration I // glycine biosynthesis	EC-2.6.1.4	GLYCINE-AMINOTRANSFERASE-RXN
+ADP-alpha-D-glucose + a (1->4)-alpha-D-glucan  <-->  ADP + a (1->4)-alpha-D-glucan	starch biosynthesis	EC-2.4.1.21	GLYCOGENSYN-RXN
+glycolate + NAD+  =  glyoxylate + NADH + H+		EC-1.1.1.26	GLYCOLATE-REDUCTASE-RXN
+"L-serine + a tetrahydrofolate  <-->  glycine + a 5,10-methylenetetrahydrofolate + H2O"	photorespiration I // folate transformations II (plants) // dTMP <i>de novo</i> biosynthesis (mitochondrial) // folate polyglutamylation // glycine biosynthesis // glycine degradation	EC-2.1.2.1	GLYOHMETRANS-RXN
+(R)-S-lactoylglutathione  <-  methylglyoxal + glutathione		EC-4.4.1.5	GLYOXI-RXN
+(R)-S-lactoylglutathione + H2O  ->  (R)-lactate + glutathione + H+		EC-3.1.2.6	GLYOXII-RXN
+(R)-lactate + H+  <-  methylglyoxal + H2O		EC-4.2.1.130	GLYOXIII-RXN
+glycolate + NADP+  <-  glyoxylate + NADPH + H+		EC-1.1.1.79	GLYOXYLATE-REDUCTASE-NADP+-RXN
+5-phospho-beta-D-ribosylamine + ATP + glycine  ->  ADP + N1-(5-phospho-beta-D-ribosyl)glycinamide + phosphate + H+	5-aminoimidazole ribonucleotide biosynthesis I	EC-6.3.4.13	GLYRIBONUCSYN-RXN
+ATP + dGMP  <-->  ADP + dGDP	purine deoxyribonucleosides salvage	EC-2.7.4.13 // EC-2.7.4.12	GMKALT-RXN
+XMP + L-glutamine + ATP + H2O  ->  L-glutamate + GMP + AMP + diphosphate + 2 H+	guanosine ribonucleotides <i>de novo</i> biosynthesis	EC-6.3.5.2	GMP-SYN-GLUT-RXN
+XMP + ammonia + ATP  ->  GMP + AMP + diphosphate + H+			GMP-SYN-NH3-RXN
+2-phosphoglycolate + H2O  ->  glycolate + phosphate	photorespiration I	EC-3.1.3.18	GPH-RXN
+prenyl diphosphate + 3-methylbut-3-en-1-yl diphosphate  ->  geranyl diphosphate + diphosphate	"geranyl diphosphate biosynthesis // linalool biosynthesis I // (3<i>R</i>)-linalool biosynthesis // <i>trans, trans</i>-farnesyl diphosphate biosynthesis // (3<i>S</i>)-linalool biosynthesis"	EC-2.5.1.1	GPPSYN-RXN
+(S)-4-amino-5-oxopentanoate  ->  5-aminolevulinate	tetrapyrrole biosynthesis I (from glutamate)	EC-5.4.3.8	GSAAMINOTRANS-RXN
+"GTP + H2O  ->  formate + 7,8-dihydroneopterin 3'-triphosphate + H+"	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I // tetrahydrofolate biosynthesis II	EC-3.5.4.16	GTP-CYCLOHYDRO-I-RXN
+"GTP + 4 H2O  ->  2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + formate + 2 phosphate + 3 H+"	flavin biosynthesis I (bacteria and plants)	EC-3.5.4.25	GTP-CYCLOHYDRO-II-RXN
+guanine + H+ + H2O  ->  xanthine + ammonium	guanosine nucleotides degradation II // Organic Nitrogen Assimilation	EC-3.5.4.3	GUANINE-DEAMINASE-RXN
+guanosine + H+ + H2O  ->  ammonium + xanthosine	guanosine nucleotides degradation I	EC-3.5.4.15	GUANOSINE-DEAMINASE-RXN
+guanosine + ATP  ->  GMP + ADP + H+	guanine and guanosine salvage III	EC-2.7.1.73	GUANOSINEKIN-RXN
+GMP + diphosphate  <-  guanine + 5-phospho-alpha-D-ribose 1-diphosphate	guanine and guanosine salvage II	EC-2.4.2.8	GUANPRIBOSYLTRAN-RXN
+ATP + GMP  <-->  ADP + GDP	guanosine ribonucleotides <i>de novo</i> biosynthesis	EC-2.7.4.8	GUANYL-KIN-RXN
+"D-erythro-7,8-dihydroneopterin  ->  glycolaldehyde + 6-(hydroxymethyl)-7,8-dihydropterin"	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I // tetrahydrofolate biosynthesis II	EC-4.1.2.25	H2NEOPTERINALDOL-RXN
+"7,8-dihydroneopterin 3'-triphosphate + H2O  ->  7,8-dihydroneopterin 3'-phosphate + diphosphate + H+"	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I // tetrahydrofolate biosynthesis II	EC-3.6.1.67	H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN
+"6-(hydroxymethyl)-7,8-dihydropterin + ATP  ->  (7,8-dihydropterin-6-yl)methyl diphosphate + AMP + H+"	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I // tetrahydrofolate biosynthesis II	EC-2.7.6.3	H2PTERIDINEPYROPHOSPHOKIN-RXN
+"(7,8-dihydropterin-6-yl)methyl diphosphate + 4-aminobenzoate  ->  7,8-dihydropteroate + diphosphate"	tetrahydrofolate biosynthesis II	EC-2.5.1.15	H2PTEROATESYNTH-RXN
+a D-hexose + ATP  ->  D-hexose 6-phosphate + ADP + H+		EC-2.7.1.1	HEXOKINASE-RXN
+histidinal + NAD+ + H2O  ->  L-histidine + NADH + 2 H+	L-histidine biosynthesis		HISTALDEHYD-RXN
+L-histidinol phosphate + 2-oxoglutarate  <-->  3-(imidazol-4-yl)-2-oxopropyl phosphate + L-glutamate	L-histidine biosynthesis	EC-2.6.1.9	HISTAMINOTRANS-RXN
+1-(5-phospho-beta-D-ribosyl)-AMP + H2O  ->  1-(5-phospho-beta-D-ribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide	L-histidine biosynthesis	EC-3.5.4.19	HISTCYCLOHYD-RXN
+L-histidinol phosphate + H2O  ->  histidinol + phosphate	L-histidine biosynthesis	EC-3.1.3.15	HISTIDPHOS-RXN
+histidinol + NAD+  <-->  histidinal + NADH + H+	L-histidine biosynthesis		HISTOLDEHYD-RXN
+1-(5-phospho-beta-D-ribosyl)-ATP + H2O  ->  1-(5-phospho-beta-D-ribosyl)-AMP + diphosphate + H+	L-histidine biosynthesis	EC-3.6.1.31	HISTPRATPHYD-RXN
+L-homocysteine + a 5-methyltetrahydrofolate  ->  L-methionine + a tetrahydrofolate	folate transformations II (plants)	EC-2.1.1.13	HOMOCYSMETB12-RXN
+homogentisate + dioxygen  ->  4-maleyl-acetoacetate + H+	L-tyrosine degradation I	EC-1.13.11.5	HOMOGENTISATE-12-DIOXYGENASE-RXN
+L-homoserine + NAD(P)+  <-  L-aspartate 4-semialdehyde + NAD(P)H + H+	L-homoserine biosynthesis	EC-1.1.1.3	HOMOSERDEHYDROG-RXN
+L-homoserine + ATP  ->  O-phospho-L-homoserine + ADP + H+	L-methionine biosynthesis II // L-threonine biosynthesis	EC-2.7.1.39	HOMOSERKIN-RXN
+(S)-3-hydroxy-3-methylglutaryl-CoA  ->  acetoacetate + acetyl-CoA	L-leucine degradation I	EC-4.1.3.4	HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN
+acetyl-CoA + acetoacetyl-CoA + H2O  ->  (S)-3-hydroxy-3-methylglutaryl-CoA + coenzyme A + H+	mevalonate pathway I (eukaryotes and bacteria)	EC-2.3.3.10	HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN
+D-glycerate + NAD(P)+  ->  3-hydroxypyruvate + NAD(P)H + H+	L-serine biosynthesis II	EC-1.1.1.81	HYDROXYPYRUVATE-REDUCTASE-RXN
+IMP + diphosphate  <-  hypoxanthine + 5-phospho-alpha-D-ribose 1-diphosphate		EC-2.4.2.8	HYPOXANPRIBOSYLTRAN-RXN
+"1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate + H+  ->  (1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate + CO2 + H2O"	L-tryptophan biosynthesis	EC-4.1.1.48	IGPSYN-RXN
+D-erythro-1-(imidazol-4-yl)-glycerol 3-phosphate  ->  3-(imidazol-4-yl)-2-oxopropyl phosphate + H2O	L-histidine biosynthesis	EC-4.2.1.19	IMIDPHOSDEHYD-RXN
+IMP + NAD+ + H2O  <-->  XMP + NADH + H+	guanosine ribonucleotides <i>de novo</i> biosynthesis // adenosine nucleotides degradation I	EC-1.1.1.205	IMP-DEHYDROG-RXN
+IMP + H2O  <-->  5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide	inosine-5'-phosphate biosynthesis II	EC-3.5.4.10	IMPCYCLOHYDROLASE-RXN
+(indol-3-yl)acetaldehyde + dioxygen + H2O  ->  (indol-3-yl)acetate + hydrogen peroxide + H+		EC-1.2.3.7	INDOLE-3-ACETALDEHYDE-OXIDASE-RXN
+diphosphate + H2O  ->  2 phosphate + H+		EC-3.6.1.1	INORGPYROPHOSPHAT-RXN
+inosine + H2O  ->  D-ribofuranose + hypoxanthine	adenosine nucleotides degradation I	EC-3.2.2.2	INOSINE-NUCLEOSIDASE-RXN
+3-methylbut-3-en-1-yl diphosphate  <-->  prenyl diphosphate	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II // mevalonate pathway I (eukaryotes and bacteria)	EC-5.3.3.2	IPPISOM-RXN
+chorismate  <-->  isochorismate	"2-carboxy-1,4-naphthoquinol biosynthesis"	EC-5.4.4.2	ISOCHORSYN-RXN
+D-threo-isocitrate  ->  glyoxylate + succinate	glyoxylate cycle	EC-4.1.3.1	ISOCIT-CLEAV-RXN
+D-threo-isocitrate + NADP+  <-->  2-oxoglutarate + CO2 + NADPH		EC-1.1.1.42	ISOCITDEH-RXN
+D-threo-isocitrate + NAD+  ->  2-oxoglutarate + CO2 + NADH	TCA cycle II (plants and fungi)	EC-1.1.1.286 // EC-1.1.1.41	ISOCITRATE-DEHYDROGENASE-NAD+-RXN
+3-methylbut-3-en-1-yl diphosphate + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O  <-  (E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+	methylerythritol phosphate pathway II	EC-1.17.7.4	ISPH2-RXN
+3-deoxy-D-manno-octulosonate 8-phosphate + H2O  ->  3-deoxy-alpha-D-manno-2-octulosonate + phosphate	CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	EC-3.1.3.45	KDO-8PPHOSPHAT-RXN
+D-arabinofuranose 5-phosphate + phosphoenolpyruvate + H2O  ->  3-deoxy-D-manno-octulosonate 8-phosphate + phosphate	CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	EC-2.5.1.55	KDO-8PSYNTH-RXN
+"a 2,3,4-saturated fatty acyl CoA + acetyl-CoA  <-  a 2,3,4-saturated 3-oxoacyl-CoA + coenzyme A"	fatty acid &beta;-oxidation II (plant peroxisome)	EC-2.3.1.16	KETOACYLCOATHIOL-RXN
+L-cysteine + hydrogen cyanide  ->  hydrogen sulfide + 3-cyano-L-alanine + H+	cyanide degradation // cyanide detoxification I	EC-4.4.1.9	L-3-CYANOALANINE-SYNTHASE-RXN
+beta-L-arabinopyranose + ATP  ->  beta-L-arabinose 1-phosphate + ADP + H+	UDP-&beta;-L-arabinose biosynthesis II (from &beta;-L-arabinose)	EC-2.7.1.46	L-ARABINOKINASE-RXN
+L-aspartate + dioxygen  ->  2-iminosuccinate + hydrogen peroxide + H+	NAD <i>de novo</i> biosynthesis I	EC-1.4.3.16	L-ASPARTATE-OXID-RXN
+<small>L</small>-gulonolactone oxidase			L-GULONOLACTONE-OXIDASE-RXN
+"5-amino-6-(D-ribitylamino)uracil + 1-deoxy-L-glycero-tetrulose 4-phosphate  ->  6,7-dimethyl-8-(1-D-ribityl)lumazine + phosphate + H+ + 2 H2O"	flavin biosynthesis I (bacteria and plants)	EC-2.5.1.78	LUMAZINESYN-RXN
+(S)-malate + NAD+  <-->  oxaloacetate + NADH + H+	"gluconeogenesis I // TCA cycle II (plants and fungi) // glyoxylate cycle // C4 photosynthetic carbon assimilation cycle, NAD-ME type"	EC-1.1.1.37	MALATE-DEH-RXN
+(S)-malate + NADP+  <-->  oxaloacetate + NADPH + H+	"C4 photosynthetic carbon assimilation cycle, NADP-ME type // C4 photosynthetic carbon assimilation cycle, PEPCK type"	EC-1.1.1.82	MALATE-DEHYDROGENASE-NADP+-RXN
+4-maleyl-acetoacetate  ->  4-fumaryl-acetoacetate	L-tyrosine degradation I	EC-5.2.1.2	MALEYLACETOACETATE-ISOMERASE-RXN
+(S)-malate + NADP+  ->  pyruvate + CO2 + NADPH	"C4 photosynthetic carbon assimilation cycle, NADP-ME type // gluconeogenesis I // C4 photosynthetic carbon assimilation cycle, PEPCK type"	EC-1.1.1.40	MALIC-NADP-RXN
+malonyl-CoA + acyl-carrier protein  ->  coenzyme A + malonyl-[acp]	fatty acid biosynthesis initiation (type II)	EC-2.3.1.39	MALONYL-COA-ACP-TRANSACYL-RXN
+malonyl-CoA + H+  ->  acetyl-CoA + CO2		EC-4.1.1.9	MALONYL-COA-DECARBOXYLASE-RXN
+acetyl-CoA + glyoxylate + H2O  ->  (S)-malate + coenzyme A + H+	glyoxylate cycle	EC-2.3.3.9	MALSYN-RXN
+(R)-mandelonitrile  ->  hydrogen cyanide + benzaldehyde		EC-4.1.2.10	MANDELONITRILE-LYASE-RXN
+D-mannopyranose 6-phosphate  <-  beta-D-fructofuranose 6-phosphate	GDP-mannose biosynthesis // mannitol biosynthesis	EC-5.3.1.8	MANNPISOM-RXN
+isobutyryl-CoA dehydrogenase	L-valine degradation I	EC-1.3.8.5	MEPROPCOA-FAD-RXN
+"a 5,10-methenyltetrahydrofolate + H2O  <-->  an N10-formyltetrahydrofolate + H+"	"formaldehyde oxidation VII (THF pathway) // tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate // folate transformations II (plants) // tetrahydrofolate biosynthesis II"	EC-3.5.4.9	METHENYLTHFCYCLOHYDRO-RXN
+L-methionine + H2O  ->  methanethiol + 2-oxobutanoate + ammonium	L-methionine degradation II	EC-4.4.1.11	METHIONINE-GAMMA-LYASE-RXN
+L-methionine + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + S-methyl-L-methionine	S-methyl-L-methionine cycle	EC-2.1.1.12	METHIONINE-S-METHYLTRANSFERASE-RXN
+propanoyl-CoA + acetyl-CoA  <-->  2-methylacetoacetyl-CoA + coenzyme A	L-isoleucine degradation I	EC-2.3.1.16	METHYLACETOACETYLCOATHIOL-RXN
+methylacrylyl-CoA hydratase	L-valine degradation I	EC-4.2.1.150	METHYLACYLYLCOA-HYDROXY-RXN
+3-methylcrotonyl-CoA + hydrogen carbonate + ATP  ->  3-methylglutaconyl-CoA + ADP + phosphate + H+	L-leucine degradation I	EC-6.4.1.4	METHYLCROTONYL-COA-CARBOXYLASE-RXN
+"a 5,10-methylenetetrahydrofolate + NADP+  <-->  a 5,10-methenyltetrahydrofolate + NADPH"	formaldehyde oxidation VII (THF pathway) // folate transformations II (plants)	EC-1.5.1.5	METHYLENETHFDEHYDROG-NADP-RXN
+(S)-3-hydroxy-3-methylglutaryl-CoA  <-  3-methylglutaconyl-CoA + H2O	L-leucine degradation I	EC-4.2.1.18	METHYLGLUTACONYL-COA-HYDRATASE-RXN
+S-methyl-5'-thioadenosine + H2O  ->  5-(methylsulfanyl)-D-ribose + adenine	<i>S</i>-methyl-5'-thioadenosine degradation I	EC-3.2.2.9 // EC-3.2.2.16	METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN
+(R)-mevalonate + ATP  ->  (R)-5-phosphomevalonate + ADP + H+	mevalonate pathway I (eukaryotes and bacteria)	EC-2.7.1.36	MEVALONATE-KINASE-RXN
+S-methyl-L-methionine + L-homocysteine  ->  2 L-methionine + H+	S-methyl-L-methionine cycle	EC-2.1.1.10	MMUM-RXN
+myo-inositol + ATP  ->  1D-myo-inositol 3-monophosphate + ADP + H+	1D-<i>myo</i>-inositol hexakisphosphate biosynthesis III (<i>Spirodela polyrrhiza</i>)	EC-2.7.1.64	MYO-INOSITOL-1-KINASE-RXN
+D-glucopyranose 6-phosphate  ->  1D-myo-inositol 3-monophosphate	<i>myo</i>-inositol biosynthesis // 1D-<i>myo</i>-inositol hexakisphosphate biosynthesis III (<i>Spirodela polyrrhiza</i>)	EC-5.5.1.4	MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN
+1D-myo-inositol 3-monophosphate + H2O  ->  myo-inositol + phosphate	<i>myo</i>-inositol biosynthesis	EC-3.1.3.25	MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN
+N-acetyl-L-glutamate 5-semialdehyde + NADP+ + phosphate  <-  N-acetylglutamyl-phosphate + NADPH + H+	L-ornithine biosynthesis I // L-arginine biosynthesis II (acetyl cycle)	EC-1.2.1.38	N-ACETYLGLUTPREDUCT-RXN
+acetyl-CoA + L-glutamate  ->  N-acetyl-L-glutamate + coenzyme A + H+	L-ornithine biosynthesis I // L-arginine biosynthesis II (acetyl cycle)	EC-2.3.1.1	N-ACETYLTRANSFER-RXN
+N-carbamoylputrescine + 2 H+ + H2O  ->  putrescine + CO2 + ammonium	superpathway of polyamine biosynthesis // putrescine biosynthesis II	EC-3.5.1.53	N-CARBAMOYLPUTRESCINE-AMIDASE-RXN
+ATP + NAD+  ->  ADP + NADP+ + H+	NAD(P)/NADPH interconversion // NADP biosynthesis	EC-2.7.1 // EC-2.7.1.23	NAD-KIN-RXN
+ATP + nicotinate adenine dinucleotide + L-glutamine + H2O  ->  L-glutamate + AMP + NAD+ + diphosphate + H+	NAD <i>de novo</i> biosynthesis I // NAD salvage pathway V (PNC V cycle)	EC-6.3.5.1	NAD-SYNTH-GLN-RXN
+ammonium + ATP + nicotinate adenine dinucleotide  ->  AMP + NAD+ + diphosphate + H+	NAD <i>de novo</i> biosynthesis I	EC-6.3.1.5	NAD-SYNTH-NH3-RXN
+NADH[mitochondrial lumen] + a ubiquinone[mitochondrial inner membrane] + 5 H+[mitochondrial lumen]  <-->  NAD+[mitochondrial lumen] + a ubiquinol[mitochondrial inner membrane] + 4 H+[mitochondrial intermembrane space]	NAD(P)/NADPH interconversion // aerobic respiration III (alternative oxidase pathway) // aerobic respiration I (cytochrome c)	EC-7.1.1.2	NADH-DEHYDROG-A-RXN
+ATP + NADH  ->  ADP + NADPH + H+	NAD(P)/NADPH interconversion	EC-2.7.1 // EC-2.7.1.86	NADH-KINASE-RXN
+NAD+ + H2O  ->  ADP-D-ribose + nicotinamide + H+		EC-3.2.2.6	NADNUCLEOSID-RXN
+NAD+ + H2O  ->  AMP + beta-nicotinamide D-ribonucleotide + 2 H+		EC-3.6.1.22	NADPYROPHOSPHAT-RXN
+"4-(2'-carboxyphenyl)-4-oxobutyryl-CoA + H+  ->  1,4-dihydroxy-2-naphthoyl-CoA + H2O"	"2-carboxy-1,4-naphthoquinol biosynthesis"	EC-4.1.3.36	NAPHTHOATE-SYN-RXN
+(2S)-naringenin + 2-oxoglutarate + dioxygen  ->  (+)-dihydrokaempferol + succinate + CO2	flavonoid biosynthesis // flavonoid biosynthesis (in equisetum)	EC-1.14.11.9	NARINGENIN-3-DIOXYGENASE-RXN
+(E)-4-coumaroyl-CoA + 3 malonyl-CoA + 3 H+  ->  naringenin chalcone + 3 CO2 + 4 coenzyme A	flavonoid biosynthesis // flavonoid biosynthesis (in equisetum)	EC-2.3.1.74	NARINGENIN-CHALCONE-SYNTHASE-RXN
+beta-nicotinate D-ribonucleotide + ATP + H+  ->  nicotinate adenine dinucleotide + diphosphate	NAD <i>de novo</i> biosynthesis I // NAD salvage pathway V (PNC V cycle)	EC-2.7.7.18	NICONUCADENYLYLTRAN-RXN
+nicotinamide + H2O  ->  ammonium + nicotinate	NAD salvage pathway V (PNC V cycle)	EC-3.5.1.19	NICOTINAMID-RXN
+nicotinate + 5-phospho-alpha-D-ribose 1-diphosphate + ATP + H2O  ->  beta-nicotinate D-ribonucleotide + ADP + diphosphate + phosphate	NAD salvage pathway V (PNC V cycle)	EC-6.3.4.21	NICOTINATEPRIBOSYLTRANS-RXN
+nitrite + NAD+ + H2O  <-  nitrate + NADH + H+	nitrate reduction II (assimilatory) // Inorganic Nitrogen Assimilation	EC-1.7.1.1	NITRATE-REDUCTASE-NADH-RXN
+2-succinylbenzoate + coenzyme A + ATP  ->  4-(2'-carboxyphenyl)-4-oxobutyryl-CoA + AMP + diphosphate	"2-carboxy-1,4-naphthoquinol biosynthesis"	EC-6.2.1.26	O-SUCCINYLBENZOATE-COA-LIG-RXN
+"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate  ->  2-succinylbenzoate + H2O"	"2-carboxy-1,4-naphthoquinol biosynthesis"	EC-4.2.1.113	O-SUCCINYLBENZOATE-COA-SYN-RXN
+"a 2,3,4-saturated (3S)-3-hydroxyacyl-CoA + NAD+  <-->  a 2,3,4-saturated 3-oxoacyl-CoA + NADH + H+"	fatty acid &beta;-oxidation II (plant peroxisome)	EC-1.1.1.35	OHACYL-COA-DEHYDROG-RXN
+4 porphobilinogen + H2O  ->  preuroporphyrinogen + 4 ammonium	tetrapyrrole biosynthesis I (from glutamate)	EC-2.5.1.61	OHMETHYLBILANESYN-RXN
+ATP + 4-amino-2-methyl-5-pyrimidinemethanol  ->  ADP + 4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine + H+	hydroxymethylpyrimidine salvage // thiamine diphosphate salvage IV (yeast)	EC-2.7.1.49	OHMETPYRKIN-RXN
+L-ornithine + carbamoyl phosphate  <-->  L-citrulline + phosphate + H+	L-arginine biosynthesis I (via L-ornithine) // L-citrulline degradation // L-citrulline biosynthesis // L-arginine biosynthesis II (acetyl cycle) // ornithine-citrulline shuttle // Organic Nitrogen Assimilation	EC-2.1.3.3	ORNCARBAMTRANSFER-RXN
+L-ornithine + H+  ->  putrescine + CO2	putrescine biosynthesis III	EC-4.1.1.17	ORNDECARBOX-RXN
+Ornithine--oxo-glutarate aminotransferase	L-proline biosynthesis III (from L-ornithine) // L-arginine degradation I (arginase pathway) // L-ornithine biosynthesis II // L-arginine degradation VI (arginase 2 pathway) // L-citrulline biosynthesis	EC-2.6.1.13	ORNITHINE-GLU-AMINOTRANSFERASE-RXN
+Ornithine--oxo-glutarate aminotransferase	Organic Nitrogen Assimilation	EC-2.6.1.13	ORNITHINE-GLU-AMINOTRANSFORASE-RXN
+orotidine 5'-phosphate + diphosphate  <-  5-phospho-alpha-D-ribose 1-diphosphate + orotate	UMP biosynthesis I	EC-2.4.2.10	OROPRIBTRANS-RXN
+orotidine 5'-phosphate + H+  ->  UMP + CO2	UMP biosynthesis I	EC-4.1.1.23	OROTPDECARB-RXN
+oxaloacetate + H+  ->  pyruvate + CO2		EC-4.1.1.112	OXALODECARB-RXN
+(R)-4'-phosphopantothenoyl-L-cysteine + H+  ->  CO2 + 4'-phosphopantetheine	coenzyme A biosynthesis I (bacteria)	EC-4.1.1.36	P-PANTOCYSDECARB-RXN
+(R)-4'-phosphopantothenate + L-cysteine + CTP  ->  (R)-4'-phosphopantothenoyl-L-cysteine + CMP + diphosphate + H+	coenzyme A biosynthesis I (bacteria)	EC-6.3.2.5	P-PANTOCYSLIG-RXN
+chorismate + L-glutamine  ->  4-amino-4-deoxychorismate + L-glutamate	4-aminobenzoate biosynthesis I // tetrahydrofolate biosynthesis II	EC-2.6.1.85	PABASYN-RXN
+palmitoyl-CoA + H2O  ->  palmitate + coenzyme A + H+	sporopollenin precursors biosynthesis // cutin biosynthesis // suberin monomers biosynthesis	EC-3.1.2.2	PALMITOYL-COA-HYDROLASE-RXN
+ATP + 4'-phosphopantetheine + H+  ->  3'-dephospho-CoA + diphosphate	coenzyme A biosynthesis I (bacteria)	EC-2.7.7.3	PANTEPADENYLYLTRAN-RXN
+beta-alanine + (R)-pantoate + ATP  ->  (R)-pantothenate + AMP + diphosphate + H+	phosphopantothenate biosynthesis I	EC-6.3.2.1	PANTOATE-BETA-ALANINE-LIG-RXN
+(R)-pantothenate + ATP  ->  (R)-4'-phosphopantothenate + ADP + H+	phosphopantothenate biosynthesis I	EC-2.7.1.33	PANTOTHENATE-KIN-RXN
+oxaloacetate + phosphate  <-  phosphoenolpyruvate + hydrogen carbonate	"CO<sub>2</sub> fixation into oxaloacetate (anaplerotic) // C4 photosynthetic carbon assimilation cycle, NADP-ME type // C4 photosynthetic carbon assimilation cycle, NAD-ME type // C4 photosynthetic carbon assimilation cycle, PEPCK type"	EC-4.1.1.31	PEPCARBOX-RXN
+pyruvate + ATP  <-  phosphoenolpyruvate + ADP + H+	glycolysis I (from glucose 6-phosphate) // glycolysis IV // Rubisco shunt	EC-2.7.1.40	PEPDEPHOS-RXN
+pyruvate + ATP + H2O  <-->  phosphoenolpyruvate + AMP + phosphate + 2 H+	glycolysis I (from glucose 6-phosphate) // gluconeogenesis I	EC-2.7.9.2	PEPSYNTH-RXN
+alpha-D-glucose 6-phosphate  <-->  beta-D-fructofuranose 6-phosphate	starch biosynthesis // glycolysis I (from glucose 6-phosphate) // sucrose biosynthesis I (from photosynthesis) // GDP-mannose biosynthesis // UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II // sucrose degradation III (sucrose invertase) // gluconeogenesis I	EC-5.3.1.9	PGLUCISOM-RXN
+3-phospho-D-glycerate + NAD+  <-->  3-phosphooxypyruvate + NADH + H+	L-serine biosynthesis I	EC-1.1.1.95	PGLYCDEHYDROG-RXN
+L-phenylalanine  ->  trans-cinnamate + ammonium	"rosmarinic acid biosynthesis I // phenylpropanoid biosynthesis, initial reactions // avenanthramide biosynthesis // suberin monomers biosynthesis"	EC-4.3.1.25 // EC-4.3.1.24	PHENYLALANINE-AMMONIA-LYASE-RXN
+3-phospho-D-glycerate + ATP  <-->  3-phospho-D-glyceroyl phosphate + ADP	glycolysis I (from glucose 6-phosphate) // sucrose biosynthesis I (from photosynthesis) // glycolysis IV // Calvin-Benson-Bassham cycle // gluconeogenesis I	EC-2.7.2.3	PHOSGLYPHOS-RXN
+alpha-D-mannose 1-phosphate  <-  D-mannopyranose 6-phosphate	GDP-mannose biosynthesis	EC-5.4.2.8	PHOSMANMUT-RXN
+alpha-D-glucopyranose 1-phosphate  <-->  D-glucopyranose 6-phosphate	starch biosynthesis // D-galactose degradation I (Leloir pathway) // dTDP-&beta;-L-rhamnose biosynthesis // UDP-&alpha;-D-glucose biosynthesis	EC-5.4.2.2	PHOSPHOGLUCMUT-RXN
+(R)-5-phosphomevalonate + ATP  ->  (R)-mevalonate diphosphate + ADP	mevalonate pathway I (eukaryotes and bacteria)	EC-2.7.4.2	PHOSPHOMEVALONATE-KINASE-RXN
+"D-ribulose 5-phosphate + ATP  ->  D-ribulose-1,5-bisphosphate + ADP + H+"	Calvin-Benson-Bassham cycle // Rubisco shunt	EC-2.7.1.19	PHOSPHORIBULOKINASE-RXN
+Q-cycle	cyclic electron flow // photosynthesis light reactions I (plastocyanin)	EC-7.1.1.6	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN
+pyridoxamine 5'-phosphate + dioxygen + H2O  ->  ammonium + hydrogen peroxide + pyridoxal 5'-phosphate	pyridoxal 5'-phosphate salvage II (plants)	EC-1.4.3.5	PMPOXI-RXN
+ATP + pyridoxine  ->  ADP + pyridoxine 5'-phosphate + H+	pyridoxal 5'-phosphate salvage II (plants)	EC-2.7.1.35	PNKIN-RXN
+pyridoxine 5'-phosphate + dioxygen  ->  hydrogen peroxide + pyridoxal 5'-phosphate	pyridoxal 5'-phosphate salvage II (plants)	EC-1.4.3.5	PNPOXI-RXN
+2 5-aminolevulinate  ->  porphobilinogen + H+ + 2 H2O	tetrapyrrole biosynthesis I (from glutamate)	EC-4.2.1.24	PORPHOBILSYNTH-RXN
+N-(5-phosphoribosyl)-anthranilate  ->  1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	L-tryptophan biosynthesis	EC-5.3.1.24	PRAISOM-RXN
+L-arogenate + oxaloacetate  <-->  prephenate + L-aspartate	L-tyrosine biosynthesis II // L-tyrosine biosynthesis III // L-phenylalanine biosynthesis II	EC-2.6.1.78	PREPHENATE-ASP-TRANSAMINE-RXN
+L-arogenate + 2-oxoglutarate  <-->  prephenate + L-glutamate	L-tyrosine biosynthesis II // L-tyrosine biosynthesis III // L-phenylalanine biosynthesis II	EC-2.6.1.79	PREPHENATE-TRANSAMINE-RXN
+prephenate + H+  =  3-phenyl-2-oxopropanoate + CO2 + H2O		EC-4.2.1.51	PREPHENATEDEHYDRAT-RXN
+1-(5-phospho-beta-D-ribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide  ->  phosphoribulosylformimino-AICAR-phosphate	L-histidine biosynthesis	EC-5.3.1.16	PRIBFAICARPISOM-RXN
+propanoyl-CoA + oxidized electron-transfer flavoprotein + H+  ->  acryloyl-CoA + reduced electron-transfer flavoprotein	&beta;-alanine biosynthesis II	EC-1.3.8.1	PROPCOASYN-RXN
+coenzyme A + propanoate + ATP  ->  propanoyl-CoA + AMP + diphosphate	&beta;-alanine biosynthesis II	EC-6.2.1.17	PROPIONATE--COA-LIGASE-RXN
+protoporphyrinogen IX + 3 dioxygen  ->  protoporphyrin IX + 3 hydrogen peroxide	"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent) // heme <i>b</i> biosynthesis I (aerobic)"	EC-1.3.3.4	PROTOPORGENOXI-RXN
+5-phospho-beta-D-ribosylamine + L-glutamate + diphosphate  <-->  5-phospho-alpha-D-ribose 1-diphosphate + L-glutamine + H2O	5-aminoimidazole ribonucleotide biosynthesis I	EC-2.4.2.14	PRPPAMIDOTRANS-RXN
+D-ribose 5-phosphate + ATP  ->  5-phospho-alpha-D-ribose 1-diphosphate + AMP + H+	PRPP biosynthesis	EC-2.7.6.1	PRPPSYN-RXN
+N-(5-phosphoribosyl)-anthranilate + diphosphate  <-  anthranilate + 5-phospho-alpha-D-ribose 1-diphosphate	L-tryptophan biosynthesis	EC-2.4.2.18	PRTRANS-RXN
+O-phospho-L-serine + 2-oxoglutarate  <-->  L-glutamate + 3-phosphooxypyruvate	L-serine biosynthesis I	EC-2.6.1.52	PSERTRANSAM-RXN
+pseudouridine + ATP  ->  pseudouridine 5'-phosphate + ADP + H+	pseudouridine degradation	EC-2.7.1.83	PSEUDOURIDINE-KINASE-RXN
+2 a plastoquinol[thylakoid membrane] + 4 H+[thylakoid lumen] + dioxygen[thylakoid lumen]  <-  hnu + 2 a plastoquinone[thylakoid membrane] + 4 H+ + 2 H2O[thylakoid lumen]	photosynthesis light reactions I (plastocyanin)	EC-1.10.3.9	PSII-RXN
+ATP + pyridoxamine  ->  ADP + pyridoxamine 5'-phosphate + H+	pyridoxal 5'-phosphate salvage II (plants)	EC-2.7.1.35	PYRAMKIN-RXN
+pyridoxine + NADP+  <-->  pyridoxal + NADPH + H+	pyridoxal 5'-phosphate salvage II (plants)	EC-1.1.1.65	PYRIDOXINE-4-DEHYDROGENASE-RXN
+pyridoxal + ATP  ->  ADP + pyridoxal 5'-phosphate + H+	pyridoxal 5'-phosphate salvage II (plants)	EC-2.7.1.35	PYRIDOXKIN-RXN
+4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine + ATP  ->  4-amino-2-methyl-5-(diphosphooxymethyl)pyrimidine + ADP	hydroxymethylpyrimidine salvage // thiamine diphosphate salvage IV (yeast) // 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis I	EC-2.7.4.7	PYRIMSYN3-RXN
+NAD+ + NADPH  <-->  NADH + NADP+	NAD(P)/NADPH interconversion	EC-1.6.1.1 // EC-1.6.1.3	PYRNUTRANSHYDROGEN-RXN
+1-pyrroline-5-carboxylate dehydrogenase	L-proline degradation I		PYRROLINECARBDEHYDROG-RXN
+L-proline + NAD(P)+  <-  (S)-1-pyrroline-5-carboxylate + NAD(P)H + 2 H+	L-proline biosynthesis III (from L-ornithine) // L-arginine degradation VI (arginase 2 pathway) // L-proline biosynthesis I (from L-glutamate)	EC-1.5.1.2	PYRROLINECARBREDUCT-RXN
+pyruvate + ATP + phosphate  <-->  phosphoenolpyruvate + AMP + diphosphate + H+	"C4 photosynthetic carbon assimilation cycle, NADP-ME type // C4 photosynthetic carbon assimilation cycle, NAD-ME type // C4 photosynthetic carbon assimilation cycle, PEPCK type"	EC-2.7.9.1	PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN
+2-iminosuccinate + glycerone phosphate  ->  quinolinate + phosphate + 2 H2O	NAD <i>de novo</i> biosynthesis I	EC-2.5.1.72	QUINOLINATE-SYNTHA-RXN
+beta-nicotinate D-ribonucleotide + CO2 + diphosphate  <-  5-phospho-alpha-D-ribose 1-diphosphate + quinolinate + 2 H+	NAD <i>de novo</i> biosynthesis I	EC-2.4.2.19	QUINOPRIBOTRANS-RXN
+"S-methyl-5-thio-D-ribulose 1-phosphate  ->  5-(methylsulfanyl)-2,3-dioxopentyl 1-phosphate + H2O"	<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation I	EC-4.2.1.109	R145-RXN
+"1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one + dioxygen  ->  4-(methylsulfanyl)-2-oxobutanoate + formate + H+"	<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation I	EC-1.13.11.54	R147-RXN
+cyanate + hydrogen carbonate + H+  ->  carbamate + CO2	cyanate degradation		R524-RXN
+"5-(methylsulfanyl)-2,3-dioxopentyl 1-phosphate  ->  2-hydroxy-5-(methylsulfanyl)-3-oxopent-1-enyl 1-phosphate + H+"	<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation I	EC-5.3.2.5	R82-RXN
+"2-hydroxy-5-(methylsulfanyl)-3-oxopent-1-enyl 1-phosphate + H2O  ->  1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one + phosphate"	<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation I	EC-3.1.3.87	R83-RXN
+D-ribose 5-phosphate  <-->  D-ribulose 5-phosphate	Calvin-Benson-Bassham cycle // pentose phosphate pathway (non-oxidative branch) I // Rubisco shunt	EC-5.3.1.6	RIB5PISOM-RXN
+"2 6,7-dimethyl-8-(1-D-ribityl)lumazine + H+  ->  5-amino-6-(D-ribitylamino)uracil + riboflavin"	flavin biosynthesis I (bacteria and plants)	EC-2.5.1.9	RIBOFLAVIN-SYN-RXN
+ATP + riboflavin  ->  ADP + FMN + H+	flavin biosynthesis I (bacteria and plants)	EC-2.7.1.26	RIBOFLAVINKIN-RXN
+"2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + H+ + H2O  ->  5-amino-6-(5-phospho-D-ribosylamino)uracil + ammonium"	flavin biosynthesis I (bacteria and plants)	EC-3.5.4.26	RIBOFLAVINSYNDEAM-RXN
+5-amino-6-(5-phospho-D-ribitylamino)uracil + NADP+  <-  5-amino-6-(5-phospho-D-ribosylamino)uracil + NADPH + H+	flavin biosynthesis I (bacteria and plants)	EC-1.1.1.193	RIBOFLAVINSYNREDUC-RXN
+D-ribofuranose + ATP  ->  D-ribofuranose 5-phosphate + ADP + H+		EC-2.7.1.15	RIBOKIN-RXN
+5-amino-6-(5-phospho-D-ribitylamino)uracil + H2O  ->  5-amino-6-(D-ribitylamino)uracil + phosphate	flavin biosynthesis I (bacteria and plants)	EC-3.1.3.104	RIBOPHOSPHAT-RXN
+"2 3-phospho-D-glycerate + 2 H+  <-  D-ribulose-1,5-bisphosphate + CO2 + H2O"	Calvin-Benson-Bassham cycle // Rubisco shunt	EC-4.1.1.39	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN
+D-ribulose 5-phosphate  <-->  D-xylulose 5-phosphate	Calvin-Benson-Bassham cycle // pentose phosphate pathway (non-oxidative branch) I // Rubisco shunt	EC-5.1.3.1	RIBULP3EPIM-RXN
+L-tryptophan + pyruvate  <-->  (indol-3-yl)pyruvate + L-alanine	indole-3-acetate biosynthesis I	EC-2.6.1.99	RXN-10139
+geranylgeranyl diphosphate + H2O  ->  geranylgeraniol + diphosphate		EC-3.1.7.5	RXN-10627
+"(9S,13S,15Z)-12-oxo-10,11-dihydrophyto-15-enoate + coenzyme A + ATP  ->  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-octanoyl-CoA + AMP + diphosphate"	jasmonic acid biosynthesis	EC-6.2.1	RXN-10695
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-octanoyl-CoA + dioxygen  ->  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-octa-2-enoyl)-CoA + hydrogen peroxide	jasmonic acid biosynthesis	EC-1.3.3.6	RXN-10696
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-octa-2-enoyl)-CoA + H2O  ->  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxyoctanoyl)-CoA	jasmonic acid biosynthesis	EC-4.2.1	RXN-10697
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxyoctanoyl)-CoA + NAD+  ->  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxooctanoyl)-CoA + NADH + H+	jasmonic acid biosynthesis	EC-1.1.1	RXN-10698
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-hexanoyl-CoA + acetyl-CoA  <-  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxooctanoyl)-CoA + coenzyme A	jasmonic acid biosynthesis	EC-2.3.1.16	RXN-10699
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-butanoyl-CoA + acetyl-CoA  <-  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxohexanoyl)-CoA + coenzyme A	jasmonic acid biosynthesis	EC-2.3.1.16	RXN-10700
+(+)-7-epi-jasmonoyl-CoA + acetyl-CoA  <-  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxobutanoyl)-CoA + coenzyme A	jasmonic acid biosynthesis	EC-2.3.1.16	RXN-10701
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxyhexanoyl)-CoA + NAD+  ->  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxohexanoyl)-CoA + NADH + H+	jasmonic acid biosynthesis	EC-1.1.1	RXN-10702
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxybutanoyl)-CoA + NAD+  ->  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxobutanoyl)-CoA + NADH + H+	jasmonic acid biosynthesis	EC-1.1.1	RXN-10703
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxyhexanoyl)-CoA  <-  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-hexa-2-enoyl)-CoA + H2O	jasmonic acid biosynthesis	EC-4.2.1	RXN-10704
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxybutanoyl)-CoA  <-  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-buta-2-enoyl)-CoA + H2O	jasmonic acid biosynthesis	EC-4.2.1	RXN-10705
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-hexanoyl-CoA + dioxygen  ->  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-hexa-2-enoyl)-CoA + hydrogen peroxide	jasmonic acid biosynthesis	EC-1.3.3.6	RXN-10706
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-butanoyl-CoA + dioxygen  ->  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-buta-2-enoyl)-CoA + hydrogen peroxide	jasmonic acid biosynthesis	EC-1.3.3.6	RXN-10707
+(+)-7-epi-jasmonoyl-CoA + H2O  ->  (+)-7-epi-jasmonate + coenzyme A + H+	jasmonic acid biosynthesis	EC-3.1.2.20	RXN-10708
+NAD(P)H + H+ + dioxygen  ->  hydrogen peroxide + NAD(P)+		EC-1.6.3.1	RXN-10745
+"spermidine + dioxygen + H2O  ->  propane-1,3-diamine + 4-aminobutanal + hydrogen peroxide"	spermine and spermidine degradation II	EC-1.5.3.14	RXN-10747
+ADP-D-ribose + H2O  ->  AMP + alpha-D-ribose-1-phosphate + 2 H+			RXN-10763
+(-)-methyl jasmonate + H2O  ->  (-)-jasmonate + methanol + H+		EC-3.1.1.1	RXN-10767
+(-)-jasmonate + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + (-)-methyl jasmonate		EC-2.1.1.141	RXN-10768
+ADP-alpha-D-glucose + H2O  =  AMP + alpha-D-glucopyranose 1-phosphate + 2 H+			RXN-10770
+L-phenylalanine + 2-oxoglutarate  <-->  3-phenyl-2-oxopropanoate + L-glutamate		EC-2.6.1.1 // EC-2.6.1.27 // EC-2.6.1.57	RXN-10814
+2 S-sulfanylglutathione + a reduced two electron carrier  <-->  bisorganyltrisulfane + hydrogen sulfide + an oxidized electron carrier			RXN-10851
+1D-myo-inositol 4-monophosphate + H2O  ->  myo-inositol + phosphate	"D-<i>myo</i>-inositol (1,4,5)-trisphosphate degradation"	EC-3.1.3.25	RXN-10952
+"ATP + phytate  ->  ADP + 1D-myo-inositol 1-diphosphate 2,3,4,5,6-pentakisphosphate"	inositol diphosphates biosynthesis	EC-2.7.4.24	RXN-10972
+"1D-myo-inositol 1-diphosphate 2,3,4,5,6-pentakisphosphate + ATP  ->  1D-myo-inositol 1,5-bis(diphosphate) 2,3,4,6-tetrakisphosphate + ADP"	inositol diphosphates biosynthesis	EC-2.7.4.21 // EC-2.7.4.24	RXN-10974
+(E)-4-coumaroyl-CoA + NADPH + H+  ->  4-coumaraldehyde + coenzyme A + NADP+	monolignol biosynthesis	EC-1.2.1.44	RXN-1101
+4-coumaryl alcohol + NADP+  <-  4-coumaraldehyde + NADPH + H+	monolignol biosynthesis	EC-1.1.1.195	RXN-1102
+"a 2,3,4-saturated fatty acyl CoA + dioxygen  ->  a (2E)-2-enoyl-CoA + hydrogen peroxide"	fatty acid &beta;-oxidation II (plant peroxisome)	EC-1.3.3.6	RXN-11026
+4-coumarate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  trans-caffeate + oxidized [NADPH-hemoprotein reductase] + H2O	free phenylpropanoid acid biosynthesis // suberin monomers biosynthesis	EC-1.14.14.96	RXN-1103
+trans-caffeate + S-adenosyl-L-methionine  ->  ferulate + S-adenosyl-L-homocysteine + H+	free phenylpropanoid acid biosynthesis // suberin monomers biosynthesis	EC-2.1.1.68	RXN-1104
+feruloyl-CoA + NADPH + H+  ->  coniferaldehyde + coenzyme A + NADP+	monolignol biosynthesis	EC-1.2.1.44	RXN-1106
+(22S)-22-hydroxy-5alpha-campestan-3-one + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  3-dehydro-6-deoxoteasterone + oxidized [NADPH-hemoprotein reductase] + H2O	brassinolide biosynthesis II	EC-1.14.14.147	RXN-11101
+(S)-methylmalonate-semialdehyde + coenzyme A + NAD+ + H2O  ->  propanoyl-CoA + hydrogen carbonate + NADH + H+	L-valine degradation I	EC-1.2.1.27	RXN-11213
+sinapyl alcohol + NADP+  <-  sinapaldehyde + NADPH + H+	monolignol biosynthesis	EC-1.1.1.195	RXN-1125
+trans-caffeate + coenzyme A + ATP  ->  (E)-caffeoyl-CoA + AMP + diphosphate	caffeoylglucarate biosynthesis // suberin monomers biosynthesis	EC-6.2.1.12	RXN-1126
+benzyl benzoate + H2O  =  benzoate + benzyl alcohol + H+			RXN-11272
+"9,15,9'-tri-cis-zeta-carotene  <-->  9,9'-di-cis-zeta-carotene"	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)	EC-5.2.1.12	RXN-11354
+"15-cis-phytoene + 2 a plastoquinone  ->  9,15,9'-tri-cis-zeta-carotene + 2 a plastoquinol"	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)	EC-1.3.5.5	RXN-11355
+"9,9'-di-cis-zeta-carotene + an electron-transfer quinone  ->  7,9,9'-cis-neurosporene + an electron-transfer quinol"	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)		RXN-11356
+"9,9&prime;-<em>di</em><em>cis</em>-&zeta;-carotene desaturase"	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)		RXN-11357
+coniferaldehyde + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  5-hydroxy-coniferaldehyde + oxidized [NADPH-hemoprotein reductase] + H2O	ferulate and sinapate biosynthesis // monolignol biosynthesis	EC-1.14.14	RXN-1142
+5-hydroxy-coniferaldehyde + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + sinapaldehyde + H+	ferulate and sinapate biosynthesis // monolignol biosynthesis	EC-2.1.1.68	RXN-1143
+gibberellin A1 + 2-oxoglutarate + dioxygen  ->  gibberellin A8 + succinate + CO2		EC-1.14.11.13	RXN-115
+stachyose + H2O  ->  raffinose + alpha-D-galactopyranose	stachyose degradation	EC-3.2.1.22	RXN-11501
+raffinose + H2O  ->  alpha-D-galactopyranose + sucrose	stachyose degradation	EC-3.2.1	RXN-11502
+petiveriin  =  phenylmethanesulfenate + 2-aminoprop-2-enoate		EC-4.4.1.4	RXN-11524
+"(22S)-22-hydroxycampesterol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (22R,23R)-22,23-dihydroxycampesterol + oxidized [NADPH-hemoprotein reductase] + H2O"		EC-1.14.14.147	RXN-11529
+"(22S)-22-hydroxy-campest-4-en-3-one + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (22R,23R)-22,23-dihydroxy-campest-4-en-3-one + oxidized [NADPH-hemoprotein reductase] + H2O"	brassinolide biosynthesis II	EC-1.14.14.147	RXN-11530
+3-epi-6-deoxocathasterone + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  6-deoxotyphasterol + oxidized [NADPH-hemoprotein reductase] + H2O	brassinolide biosynthesis II	EC-1.14.14.147	RXN-11531
+3-epi-6-deoxocathasterone + an oxidized electron carrier  <-  (22S)-22-hydroxy-5alpha-campestan-3-one + a reduced two electron carrier	brassinolide biosynthesis II	EC-1.1.99	RXN-11532
+"(22R,23R)-22,23-dihydroxycampesterol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (22R,23R)-22,23-dihydroxy-campest-4-en-3-one + oxidized [NADPH-hemoprotein reductase] + 2 H2O"		EC-1.14.19.79	RXN-11533
+"3-dehydro-6-deoxoteasterone + NADP+  <-  (22R,23R)-22,23-dihydroxy-campest-4-en-3-one + NADPH + H+"	brassinolide biosynthesis II	EC-1.3.1.22	RXN-11534
+"(2E,6E)-farnesyl diphosphate + H2O  ->  (3R,6E)-nerolidol + diphosphate"	"(3<i>E</i>)-4,8-dimethylnona-1,3,7-triene biosynthesis I"	EC-4.2.3.49	RXN-11575
+tricetin 3&prime;-<em>O</em>-methyltransferase			RXN-11582
+6 reduced ferredoxin [iron-sulfur] cluster + 2 nitrite + 6 reduced ferredoxin [iron-sulfur] cluster  ->  6 oxidized ferredoxin [iron-sulfur] cluster + 2 ammonia + 6 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	Inorganic Nitrogen Assimilation	EC-1.7.7	RXN-1161
+"CTP + (2E,6E)-farnesol  ->  CDP + (2E,6E)-farnesyl phosphate + H+"	farnesylcysteine salvage pathway	EC-2.7.1.216	RXN-11625
+"(2E,6E)-farnesyl phosphate + CTP  ->  (2E,6E)-farnesyl diphosphate + CDP"	farnesylcysteine salvage pathway	EC-2.7.4.32	RXN-11626
+"trans-resveratrol + S-adenosyl-L-methionine  ->  3-methoxy-4',5-dihydroxy-trans-stilbene + S-adenosyl-L-homocysteine + H+"			RXN-11895
+solavetivol monooxygenase			RXN-11907
+"4alpha-hydroxymethyl,4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(241)-en-3beta-ol + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  4alpha-formyl,4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(241)-en-3beta-ol + 2 ferricytochrome b5 + 2 H2O"			RXN-11925
+"24-methylenecycloartanol + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  4alpha-hydroxymethyl,4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(241)-en-3beta-ol + 2 ferricytochrome b5 + H2O"			RXN-11926
+"4alpha-formyl,4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(241)-en-3beta-ol + 2 ferrocytochrome b5 + dioxygen + H+  ->  4alpha-carboxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(241)-en-3beta-ol + 2 ferricytochrome b5 + H2O"			RXN-11927
+"4alpha-carboxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(241)-en-3beta-ol + NAD+  ->  cycloeucalenone + CO2 + NADH"	phytosterol biosynthesis (plants)	EC-1.1.1.418	RXN-11928
+cycloeucalenol + NADP+  <-  cycloeucalenone + NADPH + H+	phytosterol biosynthesis (plants)	EC-1.1.1.270	RXN-11929
+"24-methylidenelophenol + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  4alpha-hydroxymethyl-ergosta-7,24(241)-dien-3beta-ol + 2 ferricytochrome b5 + H2O"			RXN-11930
+"4alpha-hydroxymethyl-ergosta-7,24(241)-dien-3beta-ol + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  4alpha-formyl-ergosta-7,24(241)-dien-3beta-ol + 2 ferricytochrome b5 + 2 H2O"			RXN-11931
+"4alpha-formyl-ergosta-7,24(241)-dien-3beta-ol + 2 ferrocytochrome b5 + dioxygen + H+  ->  4alpha-carboxy-ergosta-7,24(241)-dien-3beta-ol + 2 ferricytochrome b5 + H2O"			RXN-11932
+"4alpha-carboxy-ergosta-7,24(241)-dien-3beta-ol + NAD+  ->  episterone + CO2 + NADH"	phytosterol biosynthesis (plants)	EC-1.1.1.418	RXN-11933
+episterone + NADPH + H+  ->  episterol + NADP+	phytosterol biosynthesis (plants)	EC-1.1.1	RXN-11934
+"(24Z)-24-ethylidenelophenol + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  (24Z)-4alpha-hydroxymethyl-stigmasta-7,24(241)-dien-3beta-ol + 2 ferricytochrome b5 + H2O"			RXN-11935
+"(24Z)-4alpha-hydroxymethyl-stigmasta-7,24(241)-dien-3beta-ol + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  (24Z)-4alpha-formyl-stigmasta-7,24(241)-dien-3beta-ol + 2 ferricytochrome b5 + 2 H2O"			RXN-11936
+"(24Z)-4alpha-formyl-stigmasta-7,24(241)-dien-3beta-ol + 2 ferrocytochrome b5 + dioxygen + H+  ->  (24Z)-4alpha-carboxy-stigmasta-7,24(241)-dien-3beta-ol + 2 ferricytochrome b5 + H2O"			RXN-11937
+"(24Z)-4alpha-carboxy-stigmasta-7,24(241)-dien-3beta-ol + NAD+  ->  avenastenone + CO2 + NADH"	phytosterol biosynthesis (plants)	EC-1.1.1.418	RXN-11938
+avenasterol + NADP+  <-  avenastenone + NADPH + H+	phytosterol biosynthesis (plants)	EC-1.1.1.270	RXN-11939
+ATP + UMP  ->  ADP + UDP	UTP and CTP <i>de novo</i> biosynthesis // pyrimidine ribonucleotides interconversion	EC-2.7.4.22 // EC-2.7.4.14	RXN-12002
+spermidine + dioxygen + H2O  ->  putrescine + 3-aminopropanal + hydrogen peroxide	spermine and spermidine degradation III	EC-1.5.3.17	RXN-12089
+"alpha-linolenate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (12Z,15Z)-9,10-epoxyoctadeca-12,15-dienoate + oxidized [NADPH-hemoprotein reductase] + H2O"	poly-hydroxy fatty acids biosynthesis	EC-1.14.14	RXN-12137
+"alpha-linolenate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (9Z,15Z)-12,13-epoxy-octadeca-9,15-dienoate + oxidized [NADPH-hemoprotein reductase] + H2O"	poly-hydroxy fatty acids biosynthesis	EC-1.14.14	RXN-12138
+"alpha-linolenate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (9Z,12Z)-15,16-epoxyoctadeca-9,12-dienoate + oxidized [NADPH-hemoprotein reductase] + H2O"	poly-hydroxy fatty acids biosynthesis	EC-1.14.14	RXN-12139
+"(9Z,12Z)-15,16-epoxyoctadeca-9,12-dienoate + H2O  ->  15,16-DiHODE"	poly-hydroxy fatty acids biosynthesis	EC-3.3.2.10	RXN-12140
+"(12Z,15Z)-9,10-epoxyoctadeca-12,15-dienoate + H2O  ->  9,10-DiHODE"	poly-hydroxy fatty acids biosynthesis	EC-3.3.2.10	RXN-12141
+"(9Z,15Z)-12,13-epoxy-octadeca-9,15-dienoate + H2O  ->  12,13-DiHODE"	poly-hydroxy fatty acids biosynthesis	EC-3.3.2.10	RXN-12142
+coenzyme A + 7-hydroxylaurate + ATP  ->  7-hydroxylauroyl-CoA + AMP + diphosphate	sporopollenin precursors biosynthesis	EC-6.2.1.2 // EC-6.2.1.3	RXN-12184
+laurate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  7-hydroxylaurate + oxidized [NADPH-hemoprotein reductase] + H2O	sporopollenin precursors biosynthesis	EC-1.14.14.130	RXN-12186
+CTP + H2O  ->  CDP + phosphate + H+	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I // UTP and CTP dephosphorylation I // pyrimidine ribonucleotides interconversion	EC-3.6.1.15	RXN-12195
+UTP + H2O  ->  UDP + phosphate + H+	UTP and CTP dephosphorylation I // pyrimidine ribonucleotides interconversion	EC-3.6.1.15	RXN-12196
+UDP + H2O  ->  UMP + phosphate + H+	UTP and CTP dephosphorylation I // pyrimidine ribonucleotides interconversion	EC-3.6.1.6	RXN-12197
+CDP + H2O  ->  CMP + phosphate + H+	UTP and CTP dephosphorylation I // pyrimidine ribonucleotides interconversion	EC-3.6.1.6	RXN-12198
+UTP + 2 H2O  ->  UMP + 2 phosphate + 2 H+	UTP and CTP dephosphorylation I // UTP and CTP dephosphorylation II // pyrimidine ribonucleotides interconversion	EC-3.6.1.5	RXN-12199
+CTP + 2 H2O  ->  CMP + 2 phosphate + 2 H+	UTP and CTP dephosphorylation I // UTP and CTP dephosphorylation II // pyrimidine ribonucleotides interconversion	EC-3.6.1.5	RXN-12200
+(Z)-[(4-hydroxyphenyl)acetaldehyde oxime]  ->  (4-hydroxyphenyl)acetonitrile + H2O	dhurrin biosynthesis		RXN-12240
+"9,9'-di-cis-zeta-carotene + 2 an electron-transfer quinone  ->  prolycopene + 2 an electron-transfer quinol"	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)	EC-1.3.5.6	RXN-12242
+15-<em>cis</em>-phytoene desaturase	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)		RXN-12243
+15-<em>cis</em>-phytoene desaturase	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)		RXN-12244
+"2 (2E,6E)-farnesyl diphosphate  ->  presqualene diphosphate + diphosphate"	epoxysqualene biosynthesis	EC-2.5.1.103	RXN-12263
+(Z)-but-2-enal + NADPH + H+  ->  1-butanal + NADP+	detoxification of reactive carbonyls in chloroplasts	EC-1.3.1	RXN-12292
+"ATP + (2E,6E)-farnesol  ->  ADP + (2E,6E)-farnesyl phosphate + H+"		EC-2.7.1.216	RXN-12304
+ATP + geranylgeraniol  ->  ADP + all-trans-geranyl-geranyl monophosphate + H+		EC-2.7.1.216	RXN-12325
+15-cis-phytoene + 2 an oxidized electron carrier  ->  all-trans-zeta-carotene + 2 a reduced two electron carrier		EC-1.3.99.29	RXN-12410
+(+)-7-epi-jasmonoyl-L-isoleucine + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (+)-7-epi-12-hydroxyjasmonoyl-L-isoleucine + oxidized [NADPH-hemoprotein reductase] + H2O	jasmonoyl-L-isoleucine inactivation	EC-1.14.14.48	RXN-12421
+hydrogen peroxide + 2 L-ascorbate  ->  dehydroascorbate + L-ascorbate + 2 H2O	ascorbate glutathione cycle	EC-1.11.1.11	RXN-12440
+2 Fe2+ + 2 dioxygen  ->  2 superoxide + 2 Fe3+			RXN-12541
+pyridoxal 5&prime;-phosphate synthase (glutamine hydrolyzing)			RXN-12590
+(R)-NADHX  ->  (S)-NADHX	NADH repair (eukaryotes)	EC-5.1.99.6	RXN-12752
+NADH + H2O  ->  (S)-NADHX	NADH repair (eukaryotes)		RXN-12753
+NADH + H2O  ->  (R)-NADHX	NADH repair (eukaryotes)		RXN-12754
+dehydroascorbate hydrolase			RXN-12861
+dehydroascorbate + H2O + H+  ->  dehydroascorbate (bicyclic form)			RXN-12862
+"2 dehydroascorbate + dioxygen  ->  2 cyclic-2,3-O-oxalyl-L-threonate"			RXN-12869
+"cyclic-2,3-O-oxalyl-L-threonate  ->  cyclic- 3,4-O-oxalyl-L-threonate"			RXN-12872
+2 oxidized c-type cytochrome + L-ascorbate  ->  dehydroascorbate + 2 reduced c-type cytochrome + 2 H+			RXN-12876
+ammonia + 2-oxoglutarate + 2 reduced ferredoxin [iron-sulfur] cluster + 3 H+  ->  L-glutamate + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O			RXN-12878
+ent-isokaurene + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-isokauren-2beta-ol + oxidized [NADPH-hemoprotein reductase] + H2O			RXN-12879
+"(-)-9&beta;-pimara-7,15-diene monooxygenase"	momilactone A biosynthesis		RXN-12880
+"(-)-9&beta;-pimara-7,15-dien-19-ol dehydrogenase"	momilactone A biosynthesis		RXN-12881
+"(-)-9&beta;-pimara-7,15-dien-19-al monooxygenase"	momilactone A biosynthesis		RXN-12882
+"ent-cassa-12,15-diene + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-11beta-hydroxy-ent-cassa-12,15-diene + oxidized [NADPH-hemoprotein reductase] + H2O"	"phytocassanes biosynthesis, shared reactions"	EC-1.14.14.112	RXN-12884
+cyanate + hydrogen carbonate + 3 H+  ->  2 CO2 + ammonium	cyanate degradation	EC-4.2.1.104	RXN-12893
+2-oxoglutaramate + H2O  ->  2-oxoglutarate + ammonium	<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation I	EC-3.5.1.3 // EC-3.5.1.111	RXN-13072
+ATP + (S)-NADPHX  ->  ADP + NADPH + phosphate + H+	NADPH repair (eukaryotes)	EC-4.2.1.93	RXN-13139
+"2,2'-dihydroxybiphenyl-3-monooxygenase"		EC-1.14.13.44	RXN-13150
+"(2R,3S)-3-isopropylmalate + NAD+  ->  4-methyl-2-oxopentanoate + CO2 + NADH"	L-leucine biosynthesis	EC-1.1.1.85	RXN-13158
+S-sulfanylglutathione + dioxygen + H2O  ->  sulfite + glutathione + 2 H+		EC-1.13.11.18	RXN-13161
+"2 (2E,6E)-farnesyl diphosphate + NAD(P)H + H+  =  squalene + NAD(P)+ + 2 diphosphate"	epoxysqualene biosynthesis	EC-2.5.1.21	RXN-13162
+"(2R,3S)-3-isopropylmalate  <-->  (2S)-2-isopropylmalate"	L-leucine biosynthesis	EC-4.2.1.33	RXN-13163
+violaxanthin + 2 L-ascorbate  ->  zeaxanthin + 2 dehydroascorbate + 2 H2O	"violaxanthin, antheraxanthin and zeaxanthin interconversion"	EC-1.23.5.1	RXN-13185
+ent-kaur-16-en-19-oate + 3 reduced [NADPH-hemoprotein reductase] + 3 dioxygen  ->  gibberellin A12 + 3 oxidized [NADPH-hemoprotein reductase] + 4 H2O + H+	gibberellin A<sub>12</sub> biosynthesis	EC-1.14.14.107	RXN-13189
+ent-kaurene + 3 reduced [NADPH-hemoprotein reductase] + 3 dioxygen  ->  ent-kaur-16-en-19-oate + 3 oxidized [NADPH-hemoprotein reductase] + 4 H2O + H+	gibberellin A<sub>12</sub> biosynthesis // steviol biosynthesis	EC-1.14.14.86	RXN-13190
+"magnesium-protoporphyrin IX 13-monomethyl ester + 3 NADPH + 2 H+ + 3 dioxygen  ->  3,8-divinyl protochlorophyllide a + 3 NADP+ + 5 H2O"	"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)"	EC-1.14.13.81	RXN-13191
+zeaxanthin + 4 reduced ferredoxin [iron-sulfur] cluster + 4 H+ + 2 dioxygen  ->  violaxanthin + 4 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	"violaxanthin, antheraxanthin and zeaxanthin interconversion"	EC-1.14.15.21	RXN-13193
+alpha-linolenate + dioxygen  ->  13(S)-HpOTre	traumatin and (<i>Z</i>)-3-hexen-1-yl acetate biosynthesis // jasmonic acid biosynthesis	EC-1.13.11.12	RXN-1321
+stearate + acyl-carrier protein + ATP  ->  stearoyl-[acp] + AMP + diphosphate	heptadecane biosynthesis	EC-6.2.1.20	RXN-13268
+2 geranylgeranyl diphosphate  ->  15-cis-phytoene + 2 diphosphate	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)	EC-2.5.1.32	RXN-13323
+late4-aminobutyrate--glyoxy transaminase		EC-2.6.1.96	RXN-13328
+chlorophyllide a + 2 NADPH + 2 dioxygen + 2 H+  ->  chlorophyllide b + 2 NADP+ + 3 H2O	chlorophyll cycle	EC-1.14.13.122	RXN-13398
+(-)-secoisolariciresinol + 2 NAD+  ->  (-)-matairesinol + 2 NADH + 2 H+	matairesinol biosynthesis	EC-1.1.1.331	RXN-13433
+"(2Z)-2-hydroxypenta-2,4-dienoate  <-->  (3E)-2-oxopent-3-enoate"		EC-5.3.2.6	RXN-13459
+L-ornithine + carbamoyl phosphate  <-  L-citrulline + phosphate + H+	ornithine-citrulline shuttle	EC-2.1.3.3	RXN-13482
+11-oxo-beta-amyrin + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  30-hydroxy-11-oxo-beta-amyrin + oxidized [NADPH-hemoprotein reductase] + H2O			RXN-13492
+30-hydroxy-11-oxo-beta-amyrin + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  glycyrrhetaldehyde + oxidized [NADPH-hemoprotein reductase] + 2 H2O			RXN-13493
+glycyrrhetaldehyde + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  glycyrrhetinate + oxidized [NADPH-hemoprotein reductase] + H2O + H+			RXN-13494
+vectoral H<SUP>+</SUP> export			RXN-13519
+vectoral H<SUP>+</SUP> export			RXN-13519
+beta-carotene  ->  9-cis-beta-carotene	5-deoxystrigol biosynthesis	EC-5.2.1.14	RXN-13641
+9-cis-beta-carotene + dioxygen  ->  9-cis-10'-apo-beta-carotenal + beta-ionone	5-deoxystrigol biosynthesis	EC-1.13.11.68	RXN-13642
+carlactone + an oxidized electron carrier + dioxygen  ->  carlactone carboxylate + a reduced two electron carrier + H+	5-deoxystrigol biosynthesis		RXN-13644
+carlactone carboxylate + an oxidized electron carrier + H+  ->  (+)-5-deoxystrigol + a reduced two electron carrier	5-deoxystrigol biosynthesis		RXN-13645
+"L-gulono-1,4-lactone + dioxygen  ->  hydrogen peroxide + L-ascorbate + H+"		EC-1.1.3.8	RXN-13689
+L-aspartate + 2-oxoglutarate  <-->  oxaloacetate + L-glutamate	"C4 photosynthetic carbon assimilation cycle, NAD-ME type // C4 photosynthetic carbon assimilation cycle, PEPCK type"	EC-2.6.1.1	RXN-13697
+L-glutamate + pyruvate  <-->  2-oxoglutarate + L-alanine	"C4 photosynthetic carbon assimilation cycle, NAD-ME type // C4 photosynthetic carbon assimilation cycle, PEPCK type"	EC-2.6.1.2	RXN-13698
+"(2E,6E)-farnesol + NAD+  =  (2E,6E)-farnesal + NADH + H+"		EC-1.1.1.354	RXN-13748
+pheophorbide a + H2O + H+  =  C-132-carboxypyropheophorbide a + methanol			RXN-13938
+C-132-carboxypyropheophorbide a  ->  CO2 + pyropheophorbide a			RXN-13939
+"(S)-2,3,4,5-tetrahydrodipicolinate + NAD(P)+ + H2O  <-  (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + NAD(P)H + H+"	L-lysine biosynthesis VI	EC-1.17.1.8	RXN-14014
+UMP + H2O  ->  uridine + phosphate	UTP and CTP dephosphorylation I	EC-3.1.3.5	RXN-14025
+CMP + H2O  ->  cytidine + phosphate	UTP and CTP dephosphorylation I	EC-3.1.3.91 // EC-3.1.3.5	RXN-14026
+pyridoxamine 5'-phosphate + H2O  ->  pyridoxamine + phosphate	pyridoxal 5'-phosphate salvage II (plants)	EC-3.1.3.74	RXN-14046
+L-glutamate 5-semialdehyde + NAD+ + H2O  ->  L-glutamate + NADH + 2 H+	L-arginine degradation I (arginase pathway) // L-proline degradation I	EC-1.2.1.88	RXN-14116
+pyridoxine 5'-phosphate + H2O  ->  pyridoxine + phosphate	pyridoxal 5'-phosphate salvage II (plants)	EC-3.1.3.74	RXN-14181
+UDP-alpha-D-glucose + esculetin  ->  esculin + UDP + H+		EC-2.4.1	RXN-14182
+dCDP + H2O  =  dCMP + phosphate + H+		EC-3.6.1.6	RXN-14187
+carbamate + ATP  <-->  carbamoyl phosphate + ADP	L-citrulline degradation		RXN-14196
+chrysin 6-hydroxylase	baicalein metabolism	EC-1.14.13	RXN-14237
+ATP + UTP + ammonia  ->  ADP + CTP + phosphate + H+			RXN-14325
+eridictyol 4-reductase	luteolinidin 5-<i>O</i>-glucoside biosynthesis	EC-1.1.1.234	RXN-14422
+luteoforol oxygenase	luteolinidin 5-<i>O</i>-glucoside biosynthesis	EC-1.14.20	RXN-14423
+UDP-alpha-D-glucose + luteolinidin  ->  luteolinidin 5-O-beta-D-glucoside + UDP + 2 H+	luteolinidin 5-<i>O</i>-glucoside biosynthesis	EC-2.4.1	RXN-14424
+apiforol + NADP+  <-  (2S)-naringenin + NADPH + H+	apigeninidin 5-<i>O</i>-glucoside biosynthesis	EC-1.1.1.234	RXN-14425
+apiforol oxygenase	apigeninidin 5-<i>O</i>-glucoside biosynthesis	EC-1.14.20	RXN-14426
+UDP-alpha-D-glucose + apigeninidin  ->  apigeninidin 5-O-beta-D-glucoside + UDP + H+	apigeninidin 5-<i>O</i>-glucoside biosynthesis	EC-2.4.1	RXN-14427
+keto-D-fructose  ->  beta-D-fructofuranose			RXN-14515
+apigenin + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + genkwanin		EC-2.1.1	RXN-14661
+alpha-D-galactose 6-phosphate  <-->  beta-D-galactose 6-phosphate		EC-5.1.3	RXN-14816
+aldehydo-D-ribose  <-->  D-ribofuranose			RXN-14882
+L-proline[in] + an electron-transfer quinone[membrane]  ->  (S)-1-pyrroline-5-carboxylate[in] + an electron-transfer quinol[membrane] + H+[in]	L-citrulline biosynthesis // L-proline degradation I	EC-1.5.5.2	RXN-14903
+"2-methyl-6-geranylgeranyl-1,4-benzoquinol + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + 2,3-dimethyl-6-geranylgeranyl-1,4-benzoquinol + H+"	vitamin E biosynthesis (tocotrienols)	EC-2.1.1.295	RXN-14917
+gamma-tocotrienol + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + alpha-tocotrienol + H+	vitamin E biosynthesis (tocotrienols)	EC-2.1.1.95	RXN-14918
+delta-tocotrienol + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + beta-tocotrienol + H+	vitamin E biosynthesis (tocotrienols)	EC-2.1.1.95	RXN-14919
+"delta-tocotrienol  <-  2-methyl-6-geranylgeranyl-1,4-benzoquinol"	vitamin E biosynthesis (tocotrienols)	EC-5.5.1.24	RXN-14921
+"gamma-tocotrienol  <-  2,3-dimethyl-6-geranylgeranyl-1,4-benzoquinol"	vitamin E biosynthesis (tocotrienols)	EC-5.5.1.24	RXN-14922
+(R)-2-hydroxyglutarate + an oxidized electron carrier  ->  2-oxoglutarate + a reduced two electron carrier		EC-1.1.99.39	RXN-14932
+succinate[mitochondrial lumen] + an electron-transfer quinone[mitochondrial inner membrane]  <-->  fumarate[mitochondrial lumen] + an electron-transfer quinol[mitochondrial inner membrane]	TCA cycle II (plants and fungi)	EC-1.3.5.1	RXN-14971
+"5-phospho-alpha-D-ribose 1,2-cyclic phosphate + H2O  ->  D-ribofuranose 2,5-bisphosphate + H+"		EC-3.1.4.57	RXN-14995
+oleoyl-CoA + 1-oleoyl-sn-glycerol 3-phosphate  =  bisoleoyl phosphatidate + coenzyme A		EC-2.3.1.51	RXN-15043
+oleoyl-CoA + sn-glycerol 3-phosphate  ->  1-oleoyl-sn-glycerol 3-phosphate + coenzyme A		EC-2.3.1.15	RXN-15045
+(Z)-2-aminobutenoate  ->  2-iminobutanoate	L-isoleucine biosynthesis I (from threonine) // L-methionine degradation II		RXN-15121
+L-threonine  ->  (Z)-2-aminobutenoate + H2O	L-isoleucine biosynthesis I (from threonine)		RXN-15122
+2-iminobutanoate + H2O  ->  2-oxobutanoate + ammonium	L-isoleucine biosynthesis I (from threonine) // L-methionine degradation II	EC-3.5.99.10	RXN-15123
+2-aminoprop-2-enoate  ->  2-iminopropanoate	L-methionine biosynthesis II // D-serine degradation		RXN-15124
+L-serine  =  2-aminoprop-2-enoate + H2O			RXN-15125
+2-iminopropanoate + H2O  ->  pyruvate + ammonium	L-methionine biosynthesis II // D-serine degradation	EC-3.5.99.10	RXN-15127
+L-cystathionine  ->  2-aminoprop-2-enoate + L-homocysteine	L-methionine biosynthesis II		RXN-15131
+L-homocysteine  ->  hydrogen sulfide + (Z)-2-aminobutenoate			RXN-15148
+S-sulfanylglutathione + glutathione  <-->  hydrogen sulfide + glutathione disulfide			RXN-15348
+"cyanidin 3,7-diglucoside acyltransferase"	"cyanidin 3,7-diglucoside polyacylation biosynthesis"	EC-2.3.1	RXN-15372
+ent-sandaracopimaradiene + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-sandaracopimaradien-3beta-ol + oxidized [NADPH-hemoprotein reductase] + H2O	oryzalexin D and E biosynthesis	EC-1.14.14.70	RXN-15379
+ent-sandaracopimaradien-3beta-ol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  oryzalexin D + oxidized [NADPH-hemoprotein reductase] + H2O	oryzalexin D and E biosynthesis	EC-1.14.14.123	RXN-15382
+beta-amyrin + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  maniladiol + oxidized [NADPH-hemoprotein reductase] + H2O		EC-1.14.14.63	RXN-15385
+16&beta;-hydroxy-&beta;-amyrin epoxidase		EC-1.14.14	RXN-15386
+ent-sandaracopimaradiene + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  7beta-hydroxy-ent-sandaracopimaradiene + oxidized [NADPH-hemoprotein reductase] + H2O	oryzalexin D and E biosynthesis	EC-1.14.14	RXN-15394
+"ent-11beta-hydroxy-ent-cassa-12,15-diene  ->  ent-3beta-hydroxy-cassa-12,15-diene-11-one"	"phytocassanes biosynthesis, shared reactions"		RXN-15432
+"ent-3beta-hydroxy-cassa-12,15-diene-11-one + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-cassa-12,15-diene-2beta,3beta-diol-11-one + oxidized [NADPH-hemoprotein reductase] + H2O"	"phytocassanes biosynthesis, shared reactions"	EC-1.14.14	RXN-15433
+9beta-stemod-13(17)-ene + 3 reduced [NADPH-hemoprotein reductase] + 3 dioxygen  ->  9beta-stemod-13(17)-en-19-oate + 3 oxidized [NADPH-hemoprotein reductase] + 4 H2O	diterpene phytoalexins precursors biosynthesis	EC-1.14.14.111	RXN-15437
+<i>syn</i>-stemod-13(17)-ene monooxygnease	diterpene phytoalexins precursors biosynthesis		RXN-15438
+<i>syn</i>-stemod-13(17)-19-ol monooxygenase	diterpene phytoalexins precursors biosynthesis		RXN-15439
+<i>syn</i>-stemod-13(17)-en-19-al monooxygenase	diterpene phytoalexins precursors biosynthesis		RXN-15440
+7&beta;-hydroxy-sandaracopimradiene hydroxylase	oryzalexin D and E biosynthesis	EC-1.14.14	RXN-15441
+"germacra-1(10),4,11(13)-trien-12-oate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  6alpha-hydroxy-germacra-1(10),4,11(13)-trien-12-oate + oxidized [NADPH-hemoprotein reductase] + H2O"			RXN-15458
+"6alpha-hydroxy-germacra-1(10),4,11(13)-trien-12-oate + H+  ->  (+)-costunolide (12,6alpha) + H2O"			RXN-15459
+"ent-cassa-12,15-diene + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-cassa-12,15-dien-2beta-ol + oxidized [NADPH-hemoprotein reductase] + H2O"	"phytocassanes biosynthesis, shared reactions"		RXN-15462
+"ent-3beta-hydroxycassa-12,15-dien-2-one + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-cassa-12,15-diene-2beta,3beta-diol-11-one + oxidized [NADPH-hemoprotein reductase] + H2O"	"phytocassanes biosynthesis, shared reactions"	EC-1.14.14	RXN-15463
+oryzalexin A/C synthase	"oryzalexin A, B, and C biosynthesis"	EC-1.1.1	RXN-15464
+oryzalexin A/C synthase	"oryzalexin A, B, and C biosynthesis"	EC-1.1.1	RXN-15465
+oryzalexin D + NAD(P)+  ->  oryzalexin B + NAD(P)H + H+	"oryzalexin A, B, and C biosynthesis"	EC-1.1.1	RXN-15466
+oryzalexin A + NAD(P)+  ->  oryzalexin C + NAD(P)H + H+	"oryzalexin A, B, and C biosynthesis"	EC-1.1.1	RXN-15467
+oxidized ferredoxin [iron-sulfur] cluster[out] + e-[membrane]  ->  reduced ferredoxin [iron-sulfur] cluster[out]			RXN-15468
+oxidized plastocyanin[thylakoid lumen] + reduced ferredoxin [iron-sulfur] cluster  <-  hnu + reduced plastocyanin[thylakoid lumen] + oxidized ferredoxin [iron-sulfur] cluster	cyclic electron flow // photosynthesis light reactions I (plastocyanin)	EC-1.97.1.12	RXN-15479
+2-phospho-D-glycerate  <-->  3-phospho-D-glycerate	glycolysis I (from glucose 6-phosphate)	EC-5.4.2.11	RXN-15513
+"(+)-costunolide (12,6alpha) + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  parthenolide + oxidized [NADPH-hemoprotein reductase] + H2O"	3&beta;-hydroxysesquiterpene lactone biosynthesis	EC-1.14.14	RXN-15531
+parthenolide 3-hydroxylase	3&beta;-hydroxysesquiterpene lactone biosynthesis	EC-1.14.14	RXN-15532
+D-serine  ->  2-aminoprop-2-enoate + H2O	D-serine degradation		RXN-15581
+Fe3+[out] + e-[membrane]  ->  Fe2+[out]			RXN-15596
+monodehydroascorbate radical[in] + e-[membrane]  ->  L-ascorbate[in]			RXN-15597
+Fe3+[out] + L-ascorbate[in]  ->  monodehydroascorbate radical[in] + Fe2+[out]		EC-7.2.1.3	RXN-15598
+L-glutamine + 4-(methylsulfanyl)-2-oxobutanoate  <-->  2-oxoglutaramate + L-methionine	<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation I	EC-2.6.1.117	RXN-15650
+sn-glycerol 3-phosphate[in] + an electron-transfer quinone[membrane]  ->  glycerone phosphate[in] + an electron-transfer quinol[membrane]	glycerol-3-phosphate shuttle // glycerophosphodiester degradation // glycerol degradation I	EC-1.1.5.3	RXN-15745
+oxidized c-type cytochrome[out] + e-[membrane]  ->  reduced c-type cytochrome[out]			RXN-15815
+linoleoyl-CoA + a glycerolipid  <-  a [glycerolipid]-linoleate + coenzyme A	linoleate biosynthesis I (plants)	EC-2.3.1.23	RXN-16045
+a [glycerolipid]-linoleate + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  a [glycerolipid]-alpha-linolenate + 2 ferricytochrome b5 + 2 H2O	&alpha;-linolenate biosynthesis I (plants and red algae)	EC-1.14.19.25	RXN-16046
+butan-1-ol + NAD+  <-->  1-butanal + NADH + H+		EC-1.1.1	RXN-161
+18-hydroxyoleoyl-CoA + sn-glycerol 3-phosphate  =  1-(18-hydroxyoleoyl)-sn-glycrol 3-phosphate + coenzyme A		EC-2.3.1.15	RXN-16117
+2 ethylsulfenate  ->  diethyl thiosulfinate + H2O			RXN-16200
+stearate + coenzyme A + ATP  ->  stearoyl-CoA + AMP + diphosphate	stearate biosynthesis II (bacteria and plants)	EC-6.2.1.3	RXN-16380
+16-hydroxypalmitate + coenzyme A + ATP  ->  16-hydroxypalmitoyl-CoA + AMP + diphosphate	sporopollenin precursors biosynthesis // cutin biosynthesis // suberin monomers biosynthesis	EC-6.2.1.3	RXN-16389
+laurate + coenzyme A + ATP  ->  lauroyl-CoA + AMP + diphosphate	palmitate biosynthesis II (type II fatty acid synthase)	EC-6.2.1.2 // EC-6.2.1.3	RXN-16393
+palmitate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  16-hydroxypalmitate + oxidized [NADPH-hemoprotein reductase] + H2O	sporopollenin precursors biosynthesis // cutin biosynthesis // suberin monomers biosynthesis	EC-1.14.14.80	RXN-16398
+stearate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  18-hydroxystearate + oxidized [NADPH-hemoprotein reductase] + H2O	sporopollenin precursors biosynthesis	EC-1.14.14.80	RXN-16399
+oleate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  18-hydroxyoleate + oxidized [NADPH-hemoprotein reductase] + H2O	sporopollenin precursors biosynthesis // cutin biosynthesis // suberin monomers biosynthesis	EC-1.14.14.80	RXN-16400
+18-hydroxystearate + coenzyme A + ATP  ->  18-hydroxystearoyl-CoA + AMP + diphosphate	sporopollenin precursors biosynthesis	EC-6.2.1.3	RXN-16401
+18-hydroxyoleate + coenzyme A + ATP  ->  18-hydroxyoleoyl-CoA + AMP + diphosphate	sporopollenin precursors biosynthesis	EC-6.2.1.3	RXN-16402
+"16-hydroxypalmitoyl-CoA + 2 NADPH + 2 H+  ->  1,16-hexadecane-diol + coenzyme A + 2 NADP+"	sporopollenin precursors biosynthesis	EC-1.2.1.84	RXN-16403
+"18-hydroxystearoyl-CoA + 2 NADPH + 2 H+  ->  1,18-octadecane-diol + coenzyme A + 2 NADP+"	sporopollenin precursors biosynthesis	EC-1.2.1.84	RXN-16405
+"2-(2,8-dihydroxytridecyl)-6-oxopyran-4-olate + NADP+  <-  2-(8-hydroxy-2-oxotridecyl)-6-oxopyran-4-olate + NADPH + H+"	sporopollenin precursors biosynthesis	EC-1.1.1	RXN-16406
+7-hydroxylauroyl-CoA + 3 malonyl-CoA + 2 H+  ->  2-(8-hydroxy-2-oxotridecyl)-6-oxopyran-4-olate + 3 CO2 + 4 coenzyme A	sporopollenin precursors biosynthesis		RXN-16407
+18-hydroxyoleate + NADP+  ->  18-oxo-oleate + NADPH + H+	cutin biosynthesis // suberin monomers biosynthesis	EC-1.1.1	RXN-16416
+"18-oxo-oleate + NADP+ + H2O  ->  alpha,omega-9Z-octadecenedioate + NADPH + 2 H+"	cutin biosynthesis // suberin monomers biosynthesis	EC-1.2.1	RXN-16417
+"alpha,omega-9Z-octadecenedioate + coenzyme A + ATP  ->  omega-carboxy-(9Z)-octadec-9-enoyl-CoA + AMP + diphosphate"	suberin monomers biosynthesis	EC-6.2.1.3	RXN-16418
+S-sulfinatoglutathione + H2O  ->  sulfite + glutathione + H+			RXN-16574
+aldehydo-D-arabinose 5-phosphate  <-->  D-arabinofuranose 5-phosphate	CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis		RXN-16804
+hydrogen carbonate + ATP  ->  carboxyphosphate + ADP			RXN-16909
+"phosphorylated phosphoglucomutase + alpha-D-glucopyranose 1-phosphate  <-->  alpha-D-glucose 1,6-bisphosphate + phosphoglucomutase"			RXN-16997
+"alpha-D-glucose 1,6-bisphosphate + phosphoglucomutase  <-->  D-glucopyranose 6-phosphate + phosphorylated phosphoglucomutase"			RXN-16998
+demethylphylloquinone + NADPH + H+  ->  demethylphylloquinol + NADP+	phylloquinol biosynthesis	EC-1.6.5.12	RXN-17007
+"1,4-dihydroxy-2-naphthoate + an oxidized electron carrier  ->  2-carboxy-1,4-naphthoquinone + a reduced two electron carrier"	superpathway of phylloquinol biosynthesis // phylloquinol biosynthesis		RXN-17066
+1-oleoyl-2-palmitoyl-phosphatidylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-oleoyl-2-(3E)-hexadecenoyl-phosphatidylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	phospholipid desaturation	EC-1.14.19.43	RXN-1725
+pheophorbide a + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  epoxypheophorbide a + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O	chlorophyll <i>a</i> degradation I // chlorophyll <i>a</i> degradation II		RXN-17252
+epoxypheophorbide a + H2O  ->  red chlorophyll catabolite	chlorophyll <i>a</i> degradation I // chlorophyll <i>a</i> degradation II		RXN-17253
+1-oleoyl-2-(3E)-hexadecenoyl-phosphatidylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-linoleoyl-2-(3E)-hexadecenoyl-phosphatidylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	phospholipid desaturation	EC-1.14.19.23	RXN-1726
+1-linoleoyl-2-(3E)-hexadecenoyl-phosphatidylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-alpha-linolenoyl-2-(3E)-hexadecenoyl-phosphatidylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	phospholipid desaturation	EC-1.14.19.35	RXN-1727
+1-18:1-2-16:0-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:1-2-16:1-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.42	RXN-1728
+4 coniferyl alcohol + dioxygen  ->  4 coniferyl alcohol radical + 2 H2O	matairesinol biosynthesis // sesamin biosynthesis	EC-1.10.3.2	RXN-17351
+2 coniferyl alcohol + hydrogen peroxide  ->  2 coniferyl alcohol radical + 2 H2O	matairesinol biosynthesis // sesamin biosynthesis	EC-1.11.1.7	RXN-17352
+2 coniferyl alcohol radical  ->  (-)-pinoresinol	matairesinol biosynthesis		RXN-17353
+carbamoyl phosphate  ->  cyanate + phosphate + H+			RXN-17753
+glyoxylate[in] + 2 H+[in] + 2 e-[membrane]  ->  glycolate[in]			RXN-17757
+phosphoribulosylformimino-AICAR-phosphate + ammonia  ->  D-erythro-1-(imidazol-4-yl)-glycerol 3-phosphate + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide + H2O			RXN-17900
+carbonic acid  <-->  hydrogen carbonate + H+			RXN-18031
+(E)-(4-hydroxyphenyl)acetaldehyde oxime  ->  (Z)-[(4-hydroxyphenyl)acetaldehyde oxime]	dhurrin biosynthesis		RXN-18144
+2-dehydro-3-deoxy-D-octonate  <-->  3-deoxy-alpha-D-manno-2-octulosonate			RXN-18392
+71-dihydroxychlorophyllide a  ->  chlorophyllide b + H2O	chlorophyll cycle		RXN-18400
+(+)-7-epi-12-hydroxyjasmonoyl-L-isoleucine + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (+)-7-epi-12-oxojasmonoyl-L-isoleucine + oxidized [NADPH-hemoprotein reductase] + 2 H2O	jasmonoyl-L-isoleucine inactivation		RXN-18479
+(+)-7-epi-12-oxojasmonoyl-L-isoleucine + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (+)-7-epi-12-hydroxy-12-oxojasmonoyl-L-isoleucine + oxidized [NADPH-hemoprotein reductase] + H2O + H+	jasmonoyl-L-isoleucine inactivation		RXN-18480
+(+)-7-epi-12-hydroxyjasmonoyl-L-isoleucine + H2O  ->  cis-tuberonic acid + L-isoleucine	jasmonoyl-L-isoleucine inactivation	EC-3.5.1.127	RXN-18481
+UDP-alpha-D-glucose + cis-tuberonic acid  ->  cis-tuberonic acid glucoside + UDP + H+	jasmonoyl-L-isoleucine inactivation	EC-2.4.1	RXN-18482
+propanoyl-CoA + butan-1-ol  ->  butyl propanoate + coenzyme A	volatile esters biosynthesis (during fruit ripening)	EC-2.3.1.84	RXN-18668
+propanoyl-CoA + ethanol  ->  ethyl propanoate + coenzyme A	volatile esters biosynthesis (during fruit ripening)	EC-2.3.1.84	RXN-18670
+GDP-alpha-D-mannose  <-->  GDP-beta-L-galactose		EC-5.1.3.18	RXN-1882
+"L-galactopyranose + NAD+  ->  L-galactono-1,4-lactone + NADH + H+"	"L-ascorbate biosynthesis I (plants, L-galactose pathway)"	EC-1.1.1.316	RXN-1884
+"ent-cassa-12,15-dien-2beta-ol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-cassa-12,15-dien-2-one + oxidized [NADPH-hemoprotein reductase] + 2 H2O"	"phytocassanes biosynthesis, shared reactions"		RXN-18941
+"ent-cassa-12,15-dien-2-one + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-3beta-hydroxycassa-12,15-dien-2-one + oxidized [NADPH-hemoprotein reductase] + H2O"	"phytocassanes biosynthesis, shared reactions"		RXN-18942
+"ent-cassa-12,15-dien-2beta-ol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-cassa-12,15-dien-2beta,3beta-diol + oxidized [NADPH-hemoprotein reductase] + H2O"	"phytocassanes biosynthesis, shared reactions"		RXN-18945
+"ent-cassa-12,15-dien-2beta,3beta-diol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  ent-3beta-hydroxycassa-12,15-dien-2-one + oxidized [NADPH-hemoprotein reductase] + 2 H2O"	"phytocassanes biosynthesis, shared reactions"		RXN-18946
+gamma-L-glutamyl 5-phosphate  ->  5-oxo-L-proline + phosphate + H+			RXN-19022
+carbamate + H2O + H+  <-->  ammonium + hydrogen carbonate			RXN-19659
+"24-methylenecycloartanol + 6 ferrocytochrome b5 + 3 dioxygen + 5 H+  ->  4alpha-carboxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(241)-en-3beta-ol + 6 ferricytochrome b5 + 4 H2O"	phytosterol biosynthesis (plants)	EC-1.14.18.10	RXN-19720
+"(24Z)-24-ethylidenelophenol + 6 ferrocytochrome b5 + 3 dioxygen + 5 H+  ->  (24Z)-4alpha-carboxy-stigmasta-7,24(241)-dien-3beta-ol + 6 ferricytochrome b5 + 4 H2O"	phytosterol biosynthesis (plants)	EC-1.14.18.11	RXN-19723
+"24-methylidenelophenol + 6 ferrocytochrome b5 + 3 dioxygen + 5 H+  ->  4alpha-carboxy-ergosta-7,24(241)-dien-3beta-ol + 6 ferricytochrome b5 + 4 H2O"	phytosterol biosynthesis (plants)	EC-1.14.18.11	RXN-19724
+NADP+[out] + H+[out] + 2 e-[membrane]  ->  NADPH[out]			RXN-19772
+benzoyl-CoA + H2O  =  benzoate + coenzyme A + H+			RXN-2005
+ammonia + 2-oxoglutarate + NADPH + 2 H+  ->  L-glutamate + NADP+ + H2O			RXN-20084
+chalinasterol + NADPH + H+  ->  campesterol + NADP+	phytosterol biosynthesis (plants)	EC-1.3.1	RXN-20131
+isofucosterol + NADPH + H+  ->  sitosterol + NADP+	phytosterol biosynthesis (plants)	EC-1.3.1	RXN-20132
+NADPH + H2O  ->  (S)-NADPHX	NADPH repair (eukaryotes)		RXN-20457
+24-epi-campesterol + NADP+  <-  chalinasterol + NADPH + H+	phytosterol biosynthesis (plants)	EC-1.3.1.71	RXN-22207
+chorismate + ammonia + H+  ->  4-amino-4-deoxychorismate + H2O			RXN-22713
+ATP + L-aspartate + ammonia  ->  AMP + L-asparagine + diphosphate			RXN-22734
+2 ATP + hydrogen carbonate + ammonia  ->  2 ADP + carbamoyl phosphate + phosphate + H+		EC-6.3.4.16	RXN-22735
+carboxyphosphate + ammonia  ->  carbamate + phosphate + H+			RXN-22736
+L-citrulline + H2O  ->  L-ornithine + carbamate			RXN-23370
+trans-5-O-(4-coumaroyl)shikimate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  5-O-caffeoylshikimate + oxidized [NADPH-hemoprotein reductase] + H2O	avenanthramide biosynthesis // chlorogenic acid biosynthesis II // monolignol biosynthesis	EC-1.14.14.96	RXN-2581
+(E)-4-coumaroyl-CoA + L-quinate  ->  trans-5-O-(4-coumaroyl)-D-quinate + coenzyme A	chlorogenic acid biosynthesis II // monolignol biosynthesis	EC-2.3.1.133	RXN-2601
+coniferyl alcohol + NADP+  <-->  coniferaldehyde + NADPH + H+	monolignol biosynthesis	EC-1.1.1.195 // EC-1.1.1.194	RXN-2602
+(E)-caffeoyl-CoA + shikimate  <-  5-O-caffeoylshikimate + coenzyme A	avenanthramide biosynthesis // monolignol biosynthesis	EC-2.3.1.133	RXN-2621
+chlorogenate + coenzyme A  <-->  (E)-caffeoyl-CoA + L-quinate	caffeoylglucarate biosynthesis // monolignol biosynthesis	EC-2.3.1	RXN-2622
+"all-trans-nonaprenyl diphosphate + homogentisate + H+  ->  2-methyl-6-all-trans-nonaprenyl-1,4-benzoquinol + CO2 + diphosphate"	plastoquinol-9 biosynthesis I	EC-2.5.1.117	RXN-2761
+"2-methyl-6-all-trans-nonaprenyl-1,4-benzoquinol + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + plastoquinol-9 + H+"	plastoquinol-9 biosynthesis I	EC-2.1.1.295	RXN-2762
+"formaldehyde + a tetrahydrofolate  ->  a 5,10-methylenetetrahydrofolate + H2O"	formaldehyde oxidation VII (THF pathway)		RXN-2881
+(indol-3-yl)acetate + L-alanine + ATP  ->  (indol-3-yl)acetyl-L-alanine + AMP + diphosphate + H+	indole-3-acetate inactivation VIII	EC-6.3	RXN-2944
+(indol-3-yl)acetate + L-leucine + ATP  ->  (indol-3-yl)acetyl-L-leucine + AMP + diphosphate + H+	indole-3-acetate inactivation VIII	EC-6.3	RXN-2945
+S-(hydroxymethyl)glutathione  <-  formaldehyde + glutathione	formaldehyde oxidation II (glutathione-dependent)	EC-4.4.1.22	RXN-2961
+S-(hydroxymethyl)glutathione + NAD(P)+  ->  S-formylglutathione + NAD(P)H + H+	formaldehyde oxidation II (glutathione-dependent)	EC-1.1.1.284	RXN-2962
+(indol-3-yl)acetyl-L-alanine + H2O  ->  (indol-3-yl)acetate + L-alanine	indole-3-acetate activation I	EC-3.5.1	RXN-2981
+(indol-3-yl)acetyl-L-leucine + H2O  ->  (indol-3-yl)acetate + L-leucine	indole-3-acetate activation I	EC-3.5.1	RXN-2982
+alpha-D-galacturonate 1-phosphate + UTP + H+  ->  UDP-alpha-D-galacturonate + diphosphate	UDP-&alpha;-D-galacturonate biosynthesis II (from D-galacturonate)		RXN-3
+(E)-4-coumaroyl-CoA + 3 malonyl-CoA + NADPH + 4 H+  ->  isoliquiritigenin + 4 coenzyme A + 3 CO2 + NADP+ + H2O	flavonoid biosynthesis	EC-2.3.1.170	RXN-3142
+isoliquiritigenin  =  (2S)-liquiritigenin		EC-5.5.1.6	RXN-3221
+hydrogen peroxide + 2 L-ascorbate + 2 H+  ->  2 monodehydroascorbate radical + 2 H2O	ascorbate glutathione cycle		RXN-3521
+monodehydroascorbate reductase (NADPH)	ascorbate glutathione cycle	EC-1.6.5	RXN-3522
+2 monodehydroascorbate radical  ->  dehydroascorbate + L-ascorbate + 2 H+	ascorbate glutathione cycle		RXN-3523
+4 L-ascorbate + dioxygen + 4 H+  ->  4 monodehydroascorbate radical + 2 H2O		EC-1.10.3.3	RXN-3541
+cycloartenol + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + 24-methylenecycloartanol + H+	phytosterol biosynthesis (plants)	EC-2.1.1.41	RXN-4021
+"4&alpha;-methyl-5&alpha;-ergosta-8,14,24(28)-trien-3&beta;-ol &Delta;<sup>14</sup> reductase"	phytosterol biosynthesis (plants)	EC-1.3.1.70	RXN-4144
+24-methylidenelophenol  <-->  4alpha-methylfecosterol	phytosterol biosynthesis (plants)	EC-5.3.3.5	RXN-4161
+avenasterol + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  5-dehydroavenasterol + 2 ferricytochrome b5 + 2 H2O	phytosterol biosynthesis (plants)	EC-1.14.19.20	RXN-4209
+isofucosterol + NADP+  <-  5-dehydroavenasterol + NADPH + H+	phytosterol biosynthesis (plants)	EC-1.3.1.21	RXN-4210
+isofucosterol  ->  Delta24-25-sitosterol			RXN-4221
+chalinasterol  =  24-methyldesmosterol			RXN-4222
+Delta24-25-sitosterol + NADPH + H+  ->  sitosterol + NADP+			RXN-4224
+campesterol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (22S)-22-hydroxycampesterol + oxidized [NADPH-hemoprotein reductase] + H2O	brassinolide biosynthesis II	EC-1.14.14.178	RXN-4225
+(22S)-22-hydroxycampesterol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (22S)-22-hydroxy-campest-4-en-3-one + oxidized [NADPH-hemoprotein reductase] + 2 H2O	brassinolide biosynthesis II	EC-1.14.19.79	RXN-4226
+6-deoxocathasterone + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (22S)-22-hydroxy-5alpha-campestan-3-one + oxidized [NADPH-hemoprotein reductase] + 2 H2O		EC-1.14.19.79	RXN-4228
+(22S)-22-hydroxy-5alpha-campestan-3-one + NADP+  <-  (22S)-22-hydroxy-campest-4-en-3-one + NADPH + H+	brassinolide biosynthesis II	EC-1.3.1.22	RXN-4229
+sitosterol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  stigmasterol + oxidized [NADPH-hemoprotein reductase] + 2 H2O	phytosterol biosynthesis (plants)	EC-1.14.19.41	RXN-4243
+prenyl diphosphate + ATP  ->  N6-(Delta2-isopentenyl)-adenosine 5'-triphosphate + diphosphate	<i>trans</i>-zeatin biosynthesis	EC-2.5.1.112	RXN-4303
+N6-(Delta2-isopentenyl)-adenosine 5'-triphosphate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  trans-zeatin riboside triphosphate + oxidized [NADPH-hemoprotein reductase] + H2O	<i>trans</i>-zeatin biosynthesis	EC-1.14.14	RXN-4304
+prenyl diphosphate + ADP  ->  N6-(Delta2-isopentenyl)-adenosine 5'-diphosphate + diphosphate	<i>trans</i>-zeatin biosynthesis	EC-2.5.1.112	RXN-4305
+N6-(Delta2-isopentenyl)-adenosine 5'-diphosphate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  trans-zeatin riboside diphosphate + oxidized [NADPH-hemoprotein reductase] + H2O	<i>trans</i>-zeatin biosynthesis	EC-1.14.14	RXN-4306
+prenyl diphosphate + AMP  ->  N6-prenyladenosine 5'-phosphate + diphosphate	<i>trans</i>-zeatin biosynthesis	EC-2.5.1.27	RXN-4307
+N6-prenyladenosine 5'-phosphate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  trans-zeatin riboside monophosphate + oxidized [NADPH-hemoprotein reductase] + H2O	<i>trans</i>-zeatin biosynthesis	EC-1.14.14	RXN-4308
+trans-zeatin riboside triphosphate + H2O  ->  trans-zeatin riboside diphosphate + phosphate + H+	<i>trans</i>-zeatin biosynthesis		RXN-4310
+trans-zeatin riboside diphosphate + H2O  ->  trans-zeatin riboside monophosphate + phosphate + H+	<i>trans</i>-zeatin biosynthesis		RXN-4312
+N6-prenyladenosine 5'-phosphate + H2O  ->  D-ribofuranose 5-phosphate + N6-dimethylallyladenine	<i>trans</i>-zeatin biosynthesis	EC-3.2.2	RXN-4313
+trans-zeatin riboside monophosphate + H2O  ->  trans-zeatin + D-ribofuranose 5-phosphate	<i>trans</i>-zeatin biosynthesis		RXN-4314
+N6-dimethylallyladenine + an oxidized electron carrier + H2O  ->  trans-zeatin + a reduced two electron carrier	<i>trans</i>-zeatin biosynthesis		RXN-4317
+cis-zeatin riboside + H2O  ->  D-ribofuranose + cis-zeatin	<i>cis</i>-zeatin biosynthesis		RXN-4541
+UDP-alpha-D-glucose + trans-zeatin  ->  trans-zeatin-O-glucoside + UDP + H+	cytokinin-<i>O</i>-glucosides biosynthesis	EC-2.4.1.203	RXN-4723
+UDP-alpha-D-glucose + dihydrozeatin  ->  dihydrozeatin-9-N-glucoside + UDP + H+	cytokinins 9-<i>N</i>-glucoside biosynthesis	EC-2.4.1	RXN-4725
+UDP-alpha-D-glucose + trans-zeatin-O-glucoside  ->  trans-zeatin-O-glucoside-7-N-glucoside + UDP + H+	cytokinins 7-<i>N</i>-glucoside biosynthesis	EC-2.4.1	RXN-4736
+"(-)-ent-copalyl diphosphate  ->  ent-cassa-12,15-diene + diphosphate"	diterpene phytoalexins precursors biosynthesis	EC-4.2.3.28	RXN-4881
+"9alpha-copalyl diphosphate  ->  (-)-9beta-pimara-7,15-diene + diphosphate"	diterpene phytoalexins precursors biosynthesis	EC-4.2.3.35	RXN-4883
+(-)-ent-copalyl diphosphate  ->  ent-sandaracopimaradiene + diphosphate	diterpene phytoalexins precursors biosynthesis	EC-4.2.3.29	RXN-4884
+<i>ent</i>-kaurenol 19-dehydrogenase	gibberellin A<sub>12</sub> biosynthesis // steviol biosynthesis		RXN-5242
+(+)-dihydrokaempferol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (+)-taxifolin + oxidized [NADPH-hemoprotein reductase] + H2O + H+	syringetin biosynthesis	EC-1.14.14.82	RXN-525
+(+)-taxifolin + 2-oxoglutarate + dioxygen  ->  quercetin + succinate + CO2 + H2O	flavonoid biosynthesis (in equisetum)	EC-1.14.20.6	RXN-527
+magnesium-protoporphyrin IX 13-monomethyl ester + NADPH + dioxygen + H+  ->  131-hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester + NADP+ + H2O	"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)"		RXN-5282
+131-hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester + NADPH + H+ + dioxygen  ->  131-oxo-magnesium-protoporphyrin IX 13-monomethyl ester + NADP+ + 2 H2O	"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)"		RXN-5283
+"131-oxo-magnesium-protoporphyrin IX 13-monomethyl ester + NADPH + dioxygen  ->  3,8-divinyl protochlorophyllide a + NADP+ + 2 H2O"	"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)"		RXN-5284
+L-serine + H+  ->  ethanolamine + CO2	choline biosynthesis II // choline biosynthesis I // phosphatidylethanolamine biosynthesis II	EC-4.1.1	RXN-5641
+N-methylethanolamine phosphate + S-adenosyl-L-methionine  ->  N-dimethylethanolamine phosphate + S-adenosyl-L-homocysteine + H+	phosphatidylcholine biosynthesis IV // choline biosynthesis I // phosphatidylcholine biosynthesis II	EC-2.1.1.103	RXN-5642
+N-dimethylethanolamine phosphate + S-adenosyl-L-methionine  ->  phosphocholine + S-adenosyl-L-homocysteine + H+	choline biosynthesis I // phosphatidylcholine biosynthesis II	EC-2.1.1.103	RXN-5643
+phosphocholine + H2O  ->  choline + phosphate	choline biosynthesis I	EC-3.1.3.75	RXN-5647
+L-arogenate + NADP+  ->  L-tyrosine + CO2 + NADPH	L-tyrosine biosynthesis II	EC-1.3.1.78	RXN-5682
+ethanolamine + S-adenosyl-L-methionine  ->  N-monomethylethanolamine + S-adenosyl-L-homocysteine + H+	choline biosynthesis II	EC-2.1.1	RXN-5761
+N-monomethylethanolamine + S-adenosyl-L-methionine  ->  N-dimethylethanolamine + S-adenosyl-L-homocysteine + H+	choline biosynthesis II	EC-2.1.1	RXN-5762
+N-dimethylethanolamine + S-adenosyl-L-methionine  ->  choline + S-adenosyl-L-homocysteine + H+	choline biosynthesis II	EC-2.1.1	RXN-5763
+NADP+ + H2O  ->  NAD+ + phosphate	NAD(P)/NADPH interconversion	EC-3.1.3.108	RXN-5822
+2 L-tyrosine + dioxygen  ->  2 L-dopa			RXN-5861
+alpha-carotene + NADPH + H+ + dioxygen  ->  zeinoxanthin + NADP+ + H2O	lutein biosynthesis	EC-1.14.99	RXN-5961
+zeinoxanthin + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  lutein + oxidized [NADPH-hemoprotein reductase] + H2O	lutein biosynthesis	EC-1.14.14.158	RXN-5962
+(S)-2-acetolactate + an oxidized electron carrier + H+  ->  diacetyl + CO2 + a reduced two electron carrier			RXN-6081
+pyruvate + H+  ->  acetaldehyde + CO2	pyruvate fermentation to ethanol II	EC-4.1.1.1	RXN-6161
+(S)-2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline + H+  ->  (S)-(+)-allantoin + CO2	urate conversion to allantoin I	EC-4.1.1.97	RXN-6201
+betaine aldehyde hydrate  <-->  betaine aldehyde + H2O	glycine betaine biosynthesis III (plants)		RXN-6268
+"propane-1,3-diamine + H2O + dioxygen  ->  3-aminopropanal + ammonium + hydrogen peroxide"	&beta;-alanine biosynthesis I	EC-1.4.3.22	RXN-6381
+3-aminopropanal + NAD(P)+ + H2O  ->  beta-alanine + NAD(P)H + 2 H+	&beta;-alanine biosynthesis I	EC-1.2.1.8	RXN-6382
+3-hydroxypropanoyl-CoA  <-->  acryloyl-CoA + H2O	&beta;-alanine biosynthesis II	EC-4.2.1.116	RXN-6383
+3-hydroxypropanoyl-CoA + H2O  ->  3-hydroxypropanoate + coenzyme A + H+	&beta;-alanine biosynthesis II	EC-3.1.2.4	RXN-6384
+"spermine + dioxygen + H2O  ->  N-(3-aminopropyl)-4-aminobutanal + propane-1,3-diamine + hydrogen peroxide"	spermine and spermidine degradation II	EC-1.5.3.14	RXN-6421
+N-(3-aminopropyl)-4-aminobutanal  ->  1-(3-aminopropyl)-pyrrolinium + H2O	spermine and spermidine degradation II		RXN-6424
+"1-(3-aminopropyl)-pyrrolinium  ->  1,5-diazabicyclononane + H+"	spermine and spermidine degradation II		RXN-6425
+indole + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  indolin-2-one + oxidized [NADPH-hemoprotein reductase] + H2O	DIBOA-glucoside biosynthesis	EC-1.14.14.153	RXN-6681
+indolin-2-one + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  3-hydroxyindolin-2-one + oxidized [NADPH-hemoprotein reductase] + H2O	DIBOA-glucoside biosynthesis	EC-1.14.14.157	RXN-6682
+3-hydroxyindolin-2-one + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  HBOA + oxidized [NADPH-hemoprotein reductase] + H2O	DIBOA-glucoside biosynthesis	EC-1.14.14.109	RXN-6683
+HBOA + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  DIBOA + oxidized [NADPH-hemoprotein reductase] + H2O + H+	DIBOA-glucoside biosynthesis	EC-1.14.14.110	RXN-6684
+DIBOA-beta-D-glucoside + 2-oxoglutarate + dioxygen  ->  TRIBOA-beta-D-glucoside + succinate + CO2	DIMBOA-glucoside biosynthesis	EC-1.14.11.59	RXN-6685
+TRIBOA-beta-D-glucoside + S-adenosyl-L-methionine  ->  DIMBOA-beta-D-glucoside + S-adenosyl-L-homocysteine + H+	DIMBOA-glucoside biosynthesis	EC-2.1.1.241	RXN-6687
+salicylate + S-adenosyl-L-methionine  ->  methylsalicylate + S-adenosyl-L-homocysteine	volatile benzenoid biosynthesis I (ester formation) // methylsalicylate biosynthesis	EC-2.1.1.274	RXN-6723
+benzoyl-CoA + benzyl alcohol  ->  benzyl benzoate + coenzyme A	volatile esters biosynthesis (during fruit ripening) // volatile benzenoid biosynthesis I (ester formation)	EC-2.3.1.196	RXN-6724
+2 a ubiquinol[mitochondrial inner membrane] + dioxygen[mitochondrial lumen]  ->  2 a ubiquinone[mitochondrial inner membrane] + 2 H2O[mitochondrial lumen]	aerobic respiration III (alternative oxidase pathway)	EC-1.10.3.11	RXN-6883
+4-aminobutanoate + pyruvate  <-->  succinate semialdehyde + L-alanine	4-aminobutanoate degradation IV // L-glutamate degradation IV	EC-2.6.1.96	RXN-6902
+"9'-cis-neoxanthin + dioxygen  ->  2-cis,4-trans-xanthoxin + (3S,5R,6R)-3,5-dihydroxy-6,7-didehydro-5,6-dihydro-12'-apo-beta-caroten-12'-al"	abscisic acid biosynthesis	EC-1.13.11.51	RXN-698
+UDP-alpha-D-glucose + DIBOA  ->  DIBOA-beta-D-glucoside + UDP	DIBOA-glucoside biosynthesis	EC-2.4.1.202	RXN-7021
+"chalinasterol + NADP+  <-  ergosta-5,7,24(28)-trien-3beta-ol + NADPH + H+"	phytosterol biosynthesis (plants)	EC-1.3.1.21	RXN-707
+24-methyldesmosterol + NADPH + H+  ->  campesterol + NADP+			RXN-708
+campesterol  ->  campest-4-en-3beta-ol	brassinolide biosynthesis II	EC-5.3.3.1	RXN-709
+campest-4-en-3beta-ol + NAD+  ->  campest-4-en-3-one + NADH + H+	brassinolide biosynthesis II	EC-1.1.1.357	RXN-710
+(5alpha)-campestan-3-one + NADP+  <-  campest-4-en-3-one + NADPH + H+	brassinolide biosynthesis II	EC-1.3.1.22	RXN-711
+campestanol + an oxidized electron carrier  <-  (5alpha)-campestan-3-one + a reduced two electron carrier	brassinolide biosynthesis II	EC-1.1	RXN-712
+6-oxocampestanol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  cathasterone + oxidized [NADPH-hemoprotein reductase] + H2O		EC-1.14.14.178	RXN-715
+"D-myo-inositol (1,4,5,6)-tetrakisphosphate + ATP  ->  D-myo-inositol 1,3,4,5,6-pentakisphosphate + ADP + H+"	"lipid-dependent phytate biosynthesis I (via Ins(1,4,5)P<sub>3</sub>)"	EC-2.7.1.151	RXN-7162
+"ATP + D-myo-inositol 1,3,4,5,6-pentakisphosphate  ->  ADP + phytate + H+"	"lipid-dependent phytate biosynthesis I (via Ins(1,4,5)P<sub>3</sub>) // 1D-<i>myo</i>-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3) // inositol diphosphates biosynthesis // 1D-<i>myo</i>-inositol hexakisphosphate biosynthesis III (<i>Spirodela polyrrhiza</i>)"	EC-2.7.1.158	RXN-7163
+"D-myo-inositol (1,4,5,6)-tetrakisphosphate + ATP  ->  D-myo-inositol (1,2,4,5,6)-pentakisphosphate + ADP + H+"	"lipid-dependent phytate biosynthesis I (via Ins(1,4,5)P<sub>3</sub>)"	EC-2.7.1	RXN-7182
+"D-myo-inositol (1,3,4,5)-tetrakisphosphate + ATP  ->  D-myo-inositol 1,3,4,5,6-pentakisphosphate + ADP + H+"	"1D-<i>myo</i>-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)"	EC-2.7.1.151	RXN-7184
+castasterone + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  brassinolide + oxidized [NADPH-hemoprotein reductase] + H2O	brassinolide biosynthesis II	EC-1.14.14.180	RXN-720
+"1D-myo-inositol 3-monophosphate + ATP  ->  D-myo-inositol (3,4)-bisphosphate + ADP + H+"	1D-<i>myo</i>-inositol hexakisphosphate biosynthesis III (<i>Spirodela polyrrhiza</i>)		RXN-7202
+"D-myo-inositol (3,4)-bisphosphate + ATP  ->  D-myo-inositol (3,4,6)-trisphosphate + ADP + H+"	1D-<i>myo</i>-inositol hexakisphosphate biosynthesis III (<i>Spirodela polyrrhiza</i>)		RXN-7203
+"D-myo-inositol (3,4,6)-trisphosphate + ATP  ->  D-myo-inositol (3,4,5,6)-tetrakisphosphate + ADP + H+"	1D-<i>myo</i>-inositol hexakisphosphate biosynthesis III (<i>Spirodela polyrrhiza</i>)		RXN-7204
+"phytate + H2O  ->  D-myo-inositol (1,2,3,5,6) pentakisphosphate + phosphate"	phytate degradation I	EC-3.1.3.62 // EC-3.1.3.26	RXN-7241
+"D-myo-inositol (1,2,3,5,6) pentakisphosphate + H2O  ->  D-myo-inositol (1,2,5,6) tetrakisphosphate + phosphate"	phytate degradation I	EC-3.1.3.62	RXN-7242
+"D-myo-inositol (1,2,4,5,6)-pentakisphosphate + H2O  ->  D-myo-inositol (1,2,5,6) tetrakisphosphate + phosphate"	phytate degradation I	EC-3.1.3.62	RXN-7243
+"D-myo-inositol (1,2,5,6) tetrakisphosphate + H2O  ->  D-myo-inositol (1,2,6) trisphosphate + phosphate"	phytate degradation I	EC-3.1.3.62	RXN-7244
+"D-myo-inositol (1,2,6) trisphosphate + H2O  ->  D-myo-inositol (1,2) bisphosphate + phosphate"	phytate degradation I	EC-3.1.3.62	RXN-7245
+"D-myo-inositol (1,2) bisphosphate + H2O  ->  1D-myo-inositol 2-phosphate + phosphate"	phytate degradation I	EC-3.1.3.62	RXN-7246
+"D-myo-inositol (1,2,3,5,6) pentakisphosphate + H2O  ->  D-myo-inositol (1,2,3,6) tetrakisphosphate + phosphate"	phytate degradation I		RXN-7247
+"D-myo-inositol (1,2,3,6) tetrakisphosphate + H2O  ->  D-myo-inositol (1,2,3) trisphosphate + phosphate"	phytate degradation I		RXN-7248
+"D-myo-inositol (1,2,3,6) tetrakisphosphate + H2O  ->  D-myo-inositol (1,2,6) trisphosphate + phosphate"	phytate degradation I		RXN-7249
+"D-myo-inositol (1,2,3) trisphosphate + H2O  ->  D-myo-inositol (1,2) bisphosphate + phosphate"	phytate degradation I	EC-3.1.3.62	RXN-7250
+"D-myo-inositol (1,2) bisphosphate + H2O  ->  1D-myo-inositol 1-monophosphate + phosphate"	phytate degradation I	EC-3.1.3	RXN-7251
+1D-myo-inositol 2-phosphate + H2O  ->  myo-inositol + phosphate	phytate degradation I	EC-3.1.3.25	RXN-7253
+beta-L-arabinose 1-phosphate + UTP + H+  ->  UDP-beta-L-arabinopyranose + diphosphate	UDP-&beta;-L-arabinose biosynthesis II (from &beta;-L-arabinose)	EC-2.7.7.37	RXN-7401
+UDP-alpha-D-glucose + (S)-4-hydroxymandelonitrile  ->  UDP + dhurrin + H+	dhurrin biosynthesis	EC-2.4.1.85	RXN-743
+(+)-7-epi-jasmonate  <-->  (-)-jasmonate	jasmonic acid biosynthesis		RXN-745
+"2-carboxy-1,4-naphthoquinone + phytyl diphosphate + H+  ->  demethylphylloquinone + CO2 + diphosphate"	phylloquinol biosynthesis	EC-2.5.1.130	RXN-7568
+demethylphylloquinol methyltransferase	phylloquinol biosynthesis	EC-2.1.1.329	RXN-7569
+"(3S)-2,3-epoxy-2,3-dihydrosqualene  ->  beta-amyrin"	"avenacin biosynthesis, initial reactions"	EC-5.4.99.39	RXN-7570
+<i>ent</i>-kaurenal 19-hydroxylase	gibberellin A<sub>12</sub> biosynthesis // steviol biosynthesis		RXN-7580
+IMP + H2O  ->  inosine + phosphate	adenosine nucleotides degradation I	EC-3.1.3.99 // EC-3.1.3.5	RXN-7607
+GMP + H2O  ->  guanosine + phosphate	guanosine nucleotides degradation II // guanosine nucleotides degradation I	EC-3.1.3.5	RXN-7609
+"(R)-3-(3,4-dihydroxyphenyl)lactate + NAD(P)+  <-  3-(3,4-dihydroxyphenyl)pyruvate + NAD(P)H + H+"	rosmarinic acid biosynthesis II	EC-1.1.1.237	RXN-7632
+"(E)-caffeoyl-CoA + (R)-3-(3,4-dihydroxyphenyl)lactate  ->  (R)-rosmarinate + coenzyme A"	rosmarinic acid biosynthesis II	EC-2.3.1.140	RXN-7633
+(2S)-naringenin + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  apigenin + oxidized [NADPH-hemoprotein reductase] + 2 H2O + H+	tricin biosynthesis // luteolin biosynthesis	EC-1.14.19.76	RXN-7650
+naringenin 3'-hydroxylase	flavonoid biosynthesis (in equisetum) // luteolin biosynthesis	EC-1.14.14.82	RXN-7652
+geranylgeranyl diphosphate + NADPH + H+  ->  dihydrogeranylgeranyl diphosphate + NADP+	phytyl diphosphate biosynthesis		RXN-7658
+dihydrogeranylgeranyl diphosphate + NADPH + H+  ->  tetrahydrogeranylgeranyl diphosphate + NADP+	phytyl diphosphate biosynthesis		RXN-7659
+tetrahydrogeranylgeranyl diphosphate + NADPH + H+  ->  phytyl diphosphate + NADP+	phytyl diphosphate biosynthesis		RXN-7660
+chlorophyllide b + phytyl diphosphate + 2 H+  ->  chlorophyll b + diphosphate	chlorophyll cycle	EC-2.5.1.62	RXN-7674
+chlorophyllide a + NADPH + dioxygen + H+  ->  71-hydroxychlorophyllide a + NADP+ + H2O	chlorophyll cycle		RXN-7676
+71-hydroxychlorophyllide a + NADPH + dioxygen + H+  ->  71-dihydroxychlorophyllide a + NADP+ + H2O	chlorophyll cycle		RXN-7677
+71-hydroxychlorophyll a + NAD(P)+  <-  chlorophyll b + NAD(P)H	chlorophyll cycle	EC-1.1.1.294	RXN-7678
+2 oxidized ferredoxin [iron-sulfur] cluster + chlorophyll a + H2O  <-  71-hydroxychlorophyll a + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+	chlorophyll cycle	EC-1.17.7.2	RXN-7679
+hypoxanthine + NAD+ + H2O  ->  xanthine + NADH + H+	adenosine nucleotides degradation I // Organic Nitrogen Assimilation	EC-1.17.1.4	RXN-7682
+phytol + CTP  ->  phytyl monophosphate + CDP + H+	phytol salvage pathway	EC-2.7.1.182	RXN-7683
+(2S)-naringenin + 2-oxoglutarate + dioxygen  ->  apigenin + succinate + CO2 + H2O + H+	flavonoid biosynthesis (in equisetum) // luteolin biosynthesis	EC-1.14.20.5	RXN-7686
+NADPH + H2O  ->  NADH + phosphate	NAD(P)/NADPH interconversion	EC-3.1.3.108	RXN-7703
+campestanol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  6-deoxocathasterone + oxidized [NADPH-hemoprotein reductase] + H2O	brassinolide biosynthesis II	EC-1.14.14.178	RXN-773
+"L,L-diaminopimelate + 2-oxoglutarate  <-->  (S)-2,3,4,5-tetrahydrodipicolinate + L-glutamate + H2O + H+"	L-lysine biosynthesis VI	EC-2.6.1.83	RXN-7737
+chlorophyll a + H2O  ->  chlorophyllide a + phytol + H+	chlorophyll <i>a</i> degradation I	EC-3.1.1.14	RXN-7738
+chlorophyllide a + 2 H+  ->  pheophorbide a + Mg2+	chlorophyll <i>a</i> degradation I	EC-4.99.1.10	RXN-7739
+6-deoxocathasterone + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  6-deoxoteasterone + oxidized [NADPH-hemoprotein reductase] + H2O	brassinolide biosynthesis II	EC-1.14.14.147	RXN-774
+pheophorbide a + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  red chlorophyll catabolite + 2 oxidized ferredoxin [iron-sulfur] cluster	chlorophyll <i>a</i> degradation II // chlorophyll <i>a</i> degradation I	EC-1.14.15.17	RXN-7740
+primary fluorescent chlorophyll catabolite + 2 oxidized ferredoxin [iron-sulfur] cluster  <-  red chlorophyll catabolite + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+	chlorophyll <i>a</i> degradation I // chlorophyll <i>a</i> degradation II	EC-1.3.7.12	RXN-7741
+tyrosine <em>N</em>-monooxygenase	dhurrin biosynthesis		RXN-7748
+"<i>N</i>,<i>N</i>-dihydroxy-L-tyrosine carboxy-lyase"	dhurrin biosynthesis		RXN-7749
+6-deoxoteasterone + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  3-dehydro-6-deoxoteasterone + oxidized [NADPH-hemoprotein reductase] + 2 H2O	brassinolide biosynthesis II	EC-1.14.19.79	RXN-775
+6-deoxotyphasterol + an oxidized electron carrier  <-  3-dehydro-6-deoxoteasterone + a reduced two electron carrier	brassinolide biosynthesis II	EC-1.1.99	RXN-776
+6-deoxotyphasterol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  6-deoxocastasterone + oxidized [NADPH-hemoprotein reductase] + H2O	brassinolide biosynthesis II	EC-1.14.14	RXN-777
+GDP-alpha-D-mannose  ->  GDP-beta-L-galactose	"VTC2 cycle // L-ascorbate biosynthesis I (plants, L-galactose pathway) // GDP-L-galactose biosynthesis"	EC-5.1.3.18	RXN-7772
+(2S)-eriodictyol + 2-oxoglutarate + dioxygen  ->  (+)-taxifolin + succinate + CO2	flavonoid biosynthesis (in equisetum)	EC-1.14.11.9	RXN-7775
+6-deoxocastasterone + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  6alpha-hydroxy-6-deoxocastasterone + oxidized [NADPH-hemoprotein reductase] + H2O	brassinolide biosynthesis II		RXN-778
+6alpha-hydroxy-6-deoxocastasterone + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  castasterone + oxidized [NADPH-hemoprotein reductase] + 2 H2O	brassinolide biosynthesis II		RXN-779
+(2S)-2-isopropyl-3-oxosuccinate + H+  ->  4-methyl-2-oxopentanoate + CO2	L-leucine biosynthesis		RXN-7800
+UDP-alpha-D-glucose + pelargonidin-3-O-beta-D-glucoside  ->  pelargonin + UDP + H+	salvianin biosynthesis // pelargonidin conjugates biosynthesis	EC-2.4.1	RXN-7828
+stearoyl-[acp] + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  oleoyl-[acp] + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	oleate biosynthesis I (plants)	EC-1.14.19.2	RXN-7903
+zeaxanthin + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+ + dioxygen  ->  antheraxanthin + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O	"violaxanthin, antheraxanthin and zeaxanthin interconversion"		RXN-7978
+antheraxanthin + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+ + dioxygen  ->  violaxanthin + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O	"violaxanthin, antheraxanthin and zeaxanthin interconversion"		RXN-7979
+mugineate + 2-oxoglutarate + dioxygen  ->  3-epihydroxymugineate + succinate + CO2	hydroxylated mugineic acid phytosiderophore biosynthesis	EC-1.14.11.25	RXN-7982
+violaxanthin + L-ascorbate  ->  antheraxanthin + dehydroascorbate + H2O	"violaxanthin, antheraxanthin and zeaxanthin interconversion"		RXN-7984
+violaxanthin de-epoxidase	"violaxanthin, antheraxanthin and zeaxanthin interconversion"		RXN-7985
+histidinol + 2 NAD+ + H2O  ->  L-histidine + 2 NADH + 3 H+	L-histidine biosynthesis	EC-1.1.1.23	RXN-8001
+(4R)-4-hydroxy-D-proline + a reduced two electron carrier + dioxygen  =  1-pyrroline-4-hydroxy-2-carboxylate + an oxidized electron carrier + 2 H2O + H+		EC-1.14.19	RXN-8003
+15-<i>cis</i>-phytoene desaturase			RXN-8023
+all-trans phytofluene + an oxidized electron carrier  ->  all-trans-zeta-carotene + a reduced two electron carrier			RXN-8024
+beta-carotene + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  beta-cryptoxanthin + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O	zeaxanthin biosynthesis		RXN-8025
+beta-cryptoxanthin + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  zeaxanthin + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O	zeaxanthin biosynthesis		RXN-8026
+prolycopene  ->  all-trans-lycopene	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)	EC-5.2.1.13	RXN-8042
+neoxanthin isomerase	neoxanthin biosynthesis	EC-5.2.1	RXN-8074
+monodemalonylsalvianin + malonyl-CoA  ->  salvianin + coenzyme A	salvianin biosynthesis	EC-2.3.1.214	RXN-8139
+UDP-alpha-D-glucose + pelargonidin 3-O-beta-D-caffeoylglucoside  ->  bisdemalonylsalvianin + UDP	salvianin biosynthesis	EC-2.4.1	RXN-8140
+"UDP-alpha-D-glucose + cyanidin-3-O-beta-D-glucoside  ->  cyanidin 3,5-di-O-beta-D-glucoside + UDP"	shisonin biosynthesis	EC-2.4.1.298	RXN-8169
+shisonin + malonyl-CoA  ->  malonylshisonin + coenzyme A	shisonin biosynthesis	EC-2.3.1.172	RXN-8171
+UDP-alpha-D-glucose + cyanidin 3-O-[6-O-(4-coumaroyl)]-beta-D-glucoside  ->  shisonin + UDP	shisonin biosynthesis	EC-2.4.1	RXN-8205
+delphinidin 3-<i>O</i>-glucoside 5-<i>O</i>-glucosyltransferase	gentiodelphin biosynthesis	EC-2.4.1.298	RXN-8228
+"UDP-alpha-D-glucose + delphinidin 3,5-di-O-beta-D-glucoside  ->  delphinidin 3,3',5-tri-O-beta-D-glucoside + UDP + H+"	gentiodelphin biosynthesis	EC-2.4.1.238	RXN-8231
+"(E)-caffeoyl-CoA + delphinidin 3,3',5-tri-O-beta-D-glucoside  ->  albireodelphin + coenzyme A"	gentiodelphin biosynthesis	EC-2.3.1	RXN-8232
+"(E)-caffeoyl-CoA + delphinidin 3,5-di-O-beta-D-glucoside  ->  delphinidin 3-O-glucosyl-5-O-caffeoylglucoside + coenzyme A"	gentiodelphin biosynthesis	EC-2.3.1.153	RXN-8233
+UDP-alpha-D-glucose + delphinidin 3-O-glucosyl-5-O-caffeoylglucoside  ->  albireodelphin + UDP + H+	gentiodelphin biosynthesis	EC-2.4.1.298	RXN-8234
+(E)-caffeoyl-CoA + albireodelphin  ->  gentiodelphin + coenzyme A	gentiodelphin biosynthesis	EC-2.3.1	RXN-8235
+"UDP-alpha-D-glucose + quercetin-3-O-beta-D-glucoside  ->  quercetin 3,7-O-diglucoside + UDP"		EC-2.4.1	RXN-8271
+1-18:1-2-16:0-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:2-2-16:0-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.23	RXN-8294
+1-18:2-2-16:0-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:3-2-16:0-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8295
+1-18:1-2-16:1-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:2-2-16:1-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.23	RXN-8296
+1-18:2-2-16:1-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:3-2-16:1-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8297
+1-18:1-2-16:2-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:2-2-16:2-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.23	RXN-8298
+1-18:2-2-16:2-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:3-2-16:2-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8299
+1-18:1-2-16:3-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:2-2-16:3-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.23	RXN-8300
+1-18:2-2-16:3-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:3-2-16:3-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8301
+1-18:1-2-16:1-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:1-2-16:2-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.23	RXN-8302
+1-18:1-2-16:2-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:1-2-16:3-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8303
+1-18:2-2-16:0-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:2-2-16:1-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.42	RXN-8304
+1-18:2-2-16:1-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:2-2-16:2-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.23	RXN-8305
+1-18:2-2-16:2-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:2-2-16:3-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8306
+1-18:3-2-16:0-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:3-2-16:1-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.42	RXN-8307
+1-18:3-2-16:1-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:3-2-16:2-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.23	RXN-8308
+1-18:3-2-16:2-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:3-2-16:3-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8309
+1-18:2-2-18:2-digalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:3-2-18:2-digalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8310
+1-18:2-2-18:2-digalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:2-2-18:3-digalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8313
+1-oleoyl-2-palmitoyl-phosphatidylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-linoleoyl-2-palmitoyl-phosphatidylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	phospholipid desaturation	EC-1.14.19.23	RXN-8316
+1-linoleoyl-2-palmitoyl-phosphatidylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-alpha-linolenoyl-2-palmitoyl-phosphatidylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	phospholipid desaturation	EC-1.14.19.35	RXN-8317
+1-linoleoyl-2-palmitoyl-phosphatidylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-linoleoyl-2-(3E)-hexadecenoyl-phosphatidylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	phospholipid desaturation	EC-1.14.19.43	RXN-8318
+1-alpha-linolenoyl-2-palmitoyl-phosphatidylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-alpha-linolenoyl-2-(3E)-hexadecenoyl-phosphatidylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	phospholipid desaturation	EC-1.14.19.43	RXN-8319
+L-cysteine + MoO2(OH)-molybdopterin cofactor + a reduced two electron carrier  ->  L-alanine + MoO2(S)-molybdopterin cofactor + an oxidized electron carrier + H2O		EC-2.8.1.9	RXN-8351
+24-epi-campesterol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  brassicasterol + oxidized [NADPH-hemoprotein reductase] + 2 H2O	phytosterol biosynthesis (plants)	EC-1.14.19.41	RXN-8352
+24-methyldesmosterol + NADPH + H+  ->  24-epi-campesterol + NADP+		EC-1.3.1	RXN-8353
+pheophytin a + H2O  ->  pheophorbide a + phytol + 2 H+	chlorophyll <i>a</i> degradation II	EC-3.1.1.14	RXN-8357
+1-palmitoyl-2-oleoyl-phosphatidylcholine + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  1-palmitoyl-2-linoleoyl-phosphatidylcholine + 2 ferricytochrome b5 + 2 H2O	phospholipid desaturation	EC-1.14.19.22	RXN-8360
+1-18:1-2-16:0-digalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:2-2-16:0-digalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.23	RXN-8363
+1-18:2-2-16:0-digalactosyldiacylglycerol + a reduced two electron carrier + dioxygen  ->  1-18:3-2-16:0-digalactosyldiacylglycerol + an oxidized electron carrier + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8364
+1-18:2-2-18:2-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:3-2-18:2-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8366
+1-18:2-2-18:2-monogalactosyldiacylglycerol + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  1-18:2-2-18:3-monogalactosyldiacylglycerol + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	glycolipid desaturation	EC-1.14.19.35	RXN-8367
+chlorophyll a + 3 H+  ->  pheophytin a + Mg2+	chlorophyll <i>a</i> degradation II	EC-4.99.1.10	RXN-8378
+"L-dopa + dioxygen  ->  4,5-seco-dopa + H+"		EC-1.13.11.29	RXN-8460
+"4,5-seco-dopa  ->  betalamate + H+ + H2O"			RXN-8461
+UDP-alpha-D-glucose + crocetin  ->  beta-D-glucosyl crocetin + UDP	crocetin esters biosynthesis	EC-2.4.1.271	RXN-8471
+UDP-alpha-D-glucose + beta-D-glucosyl crocetin  ->  crocin-3 + UDP + H+	crocetin esters biosynthesis	EC-2.4.1.330	RXN-8472
+UDP-alpha-D-glucose + beta-D-glucosyl crocetin  ->  bis(beta-D-glucosyl) crocetin + UDP	crocetin esters biosynthesis	EC-2.4.1.271	RXN-8473
+UDP-alpha-D-glucose + bis(beta-D-glucosyl) crocetin  ->  crocin-2 + UDP + H+	crocetin esters biosynthesis	EC-2.4.1.330	RXN-8474
+gentiobiosyl crocetin glucosyltransferase	crocetin esters biosynthesis	EC-2.4.1.271	RXN-8475
+UDP-alpha-D-glucose + crocin-2  ->  crocin-1 + UDP + H+	crocetin esters biosynthesis	EC-2.4.1.330	RXN-8476
+L-dopa + betalamate  ->  dopaxanthin + H+ + H2O			RXN-8491
+alpha-linolenate + dioxygen  ->  9(S)-HpOTre	9-lipoxygenase and 9-hydroperoxide lyase pathway	EC-1.13.11.58	RXN-8497
+"abieta-7,13-dien-18-ol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  abieta-7,13-dien-18,18-diol + oxidized [NADPH-hemoprotein reductase] + H2O"			RXN-8508
+geranylgeranyl diphosphate  ->  9alpha-copalyl diphosphate	diterpene phytoalexins precursors biosynthesis	EC-5.5.1.14	RXN-8528
+"(2E,6E)-farnesyl diphosphate + H2O  ->  (3S,6E)-nerolidol + diphosphate"	"(3<i>E</i>)-4,8-dimethylnona-1,3,7-triene biosynthesis I"	EC-4.2.3.48	RXN-8616
+geranyl diphosphate + H2O  ->  geraniol + diphosphate	geraniol and geranial biosynthesis	EC-3.1.7.11	RXN-8618
+oxalosuccinate + H+  <-->  2-oxoglutarate + CO2			RXN-8642
+2 coniferyl alcohol radical  ->  (+)-pinoresinol	matairesinol biosynthesis // sesamin biosynthesis		RXN-8677
+(+)-lariciresinol + NADP+  <-  (+)-pinoresinol + NADPH + H+	matairesinol biosynthesis	EC-1.23.1.1	RXN-8678
+(-)-secoisolariciresinol + NADP+  <-  (+)-lariciresinol + NADPH + H+	matairesinol biosynthesis	EC-1.23.1.2	RXN-8679
+"(-)-secoisolariciresinol + NAD+  ->  (3R,4R)-3,4-bis(4-hydroxy-3-methoxybenzyl)tetrahydro-2-furanol + NADH + H+"	matairesinol biosynthesis		RXN-8680
+"(3R,4R)-3,4-bis(4-hydroxy-3-methoxybenzyl)tetrahydro-2-furanol + NAD+  ->  (-)-matairesinol + NADH + H+"	matairesinol biosynthesis		RXN-8681
+(-)-lariciresinol + NADP+  <-  (-)-pinoresinol + NADPH + H+	matairesinol biosynthesis	EC-1.23.1.3	RXN-8683
+(+)-secoisolariciresinol + NADP+  <-  (-)-lariciresinol + NADPH + H+	matairesinol biosynthesis	EC-1.23.1.4	RXN-8684
+(+)-pinoresinol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (+)-piperitol + oxidized [NADPH-hemoprotein reductase] + 2 H2O	sesamin biosynthesis	EC-1.14.19.74	RXN-8695
+(+)-piperitol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (+)-sesamin + oxidized [NADPH-hemoprotein reductase] + 2 H2O	sesamin biosynthesis	EC-1.14.19.74	RXN-8696
+succinate semialdehyde + coenzyme A + NADP+  <-->  succinyl-CoA + NADPH + H+		EC-1.2.1.76	RXN-8891
+2-aminoprop-2-enoate + H2O  ->  pyruvate + ammonium			RXN-8899
+(+)-trans-isoalliin  =  (E)-prop-1-en-1-SO-peroxol + 2-aminoprop-2-enoate		EC-4.4.1.4	RXN-8909
+"(+)-germacrene A + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  germacra-1(10),4,11(13)-trien-12-ol + oxidized [NADPH-hemoprotein reductase] + H2O"	costunolide biosynthesis I		RXN-8962
+"germacra-1(10),4,11(13)-trien-12-ol + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  germacra-1(10),4,11(13)-trien-12-al + oxidized [NADPH-hemoprotein reductase] + 2 H2O"	costunolide biosynthesis I		RXN-8969
+germacrene A alcohol dehydrogenase	costunolide biosynthesis I		RXN-8970
+"germacra-1(10),4,11(13)-trien-12-oate + reduced [NADPH-hemoprotein reductase] + dioxygen + H+  ->  (+)-costunolide (12,6alpha) + oxidized [NADPH-hemoprotein reductase] + 2 H2O"	costunolide biosynthesis I	EC-1.14.14.150	RXN-8971
+3-isopropylmalate dehydratase	L-leucine biosynthesis		RXN-8991
+"3,5-dihydroxyanisole + S-adenosyl-L-methionine  ->  3,5-dimethoxyphenol + S-adenosyl-L-homocysteine + H+"		EC-2.1.1	RXN-9021
+geranial  <-->  neral	geraniol and geranial biosynthesis		RXN-9193
+9alpha-copalyl diphosphate  ->  9beta-stemod-13(17)-ene + diphosphate	diterpene phytoalexins precursors biosynthesis	EC-4.2.3.34	RXN-9291
+"(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxycyclohex-3-ene-1-carboxylate  ->  (1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate + pyruvate"	"2-carboxy-1,4-naphthoquinol biosynthesis"	EC-4.2.99.20	RXN-9310
+"1,4-dihydroxy-2-naphthoyl-CoA + H2O  ->  1,4-dihydroxy-2-naphthoate + coenzyme A + H+"	"2-carboxy-1,4-naphthoquinol biosynthesis"	EC-3.1.2.28	RXN-9311
+acetoacetyl-[acyl-carrier protein] reductase	"palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-1.1.1.100	RXN-9514
+crotonyl-[acyl-carrier protein] reductase (NADP)	"palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-1.3.1.104 // EC-1.3.1.10 // EC-1.3.1.39	RXN-9515
+3-oxo-hexanoyl-[acyl-carrier protein] synthase	"palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-2.3.1.179 // EC-2.3.1.41	RXN-9516
+3-hydroxyhexanoyl-[acyl-carrier protein] reductase	"palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-1.1.1.100	RXN-9518
+(3R)-3-hydroxyhexanoyl-[acp]  ->  (2E)-hex-2-enoyl-[acp] + H2O	"palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-4.2.1.59	RXN-9520
+<i>trans</i> hex-2-enoyl-[acp] reductase	"palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-1.3.1.104 // EC-1.3.1.10 // EC-1.3.1.39	RXN-9521
+3-oxo-octanoyl-[acyl-carrier protein] synthase	"palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-2.3.1.179 // EC-2.3.1.41	RXN-9523
+3-oxo-octanoyl-[acyl-carrier protein] reductase	"palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-1.1.1.100	RXN-9524
+<i>trans</i> oct-2-enoyl-[acyl-carrier protein] reductase	"palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria) // octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	EC-1.3.1.104 // EC-1.3.1.10 // EC-1.3.1.39	RXN-9526
+3-oxo-decanoyl-[acyl-carrier protein] synthase	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III	EC-2.3.1.179 // EC-2.3.1.41	RXN-9527
+3-oxo-decanoyl-[acyl-carrier protein] reductase	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria)	EC-1.1.1.100	RXN-9528
+<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]reductase	palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria)	EC-1.3.1.104 // EC-1.3.1.10 // EC-1.3.1.39	RXN-9530
+3-oxo-dodecanoyl-[acyl-carrier protein] synthase	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III	EC-2.3.1.179 // EC-2.3.1.41	RXN-9531
+3-oxo-dodecanoyl-[acyl-carrier protein] reductase	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria)	EC-1.1.1.100	RXN-9532
+(3R)-3-hydroxydodecanoyl-[acp]  ->  (2E)-dodec-2-enoyl-[acp] + H2O	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria)	EC-4.2.1.59	RXN-9533
+<i>trans</i> dodec-2-enoyl-[acyl-carrier protein] reductase	palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria)	EC-1.3.1.104 // EC-1.3.1.10 // EC-1.3.1.39	RXN-9534
+dodecanoyl-[acp] + malonyl-[acp] + H+  ->  3-oxotetradecanoyl-[acp] + CO2 + acyl-carrier protein	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III	EC-2.3.1.41 // EC-2.3.1.179	RXN-9535
+3-oxo-meristoyl-[acyl-carrier protein] reductase	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria)	EC-1.1.1.100	RXN-9536
+(3R)-3-hydroxytetradecanoyl-[acp]  ->  (2E)-tetradec-2-enoyl-[acp] + H2O	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria)	EC-4.2.1.59	RXN-9537
+<i>trans</i> tetradec-2-enoyl-[acyl-carrier-protein] reductase	palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria)	EC-1.3.1.104 // EC-1.3.1.10 // EC-1.3.1.39	RXN-9538
+3-oxo-palmitoyl-[acyl-carrier protein] synthase	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III	EC-2.3.1.179 // EC-2.3.1.41	RXN-9539
+3-oxo-palmitoyl-[acyl-carrier protein] reductase	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III	EC-1.1.1.100	RXN-9540
+stearoyl-[acp] + H2O  ->  stearate + acyl-carrier protein + H+	stearate biosynthesis II (bacteria and plants)	EC-3.1.2.14	RXN-9548
+palmitoyl-[acp] + H2O  ->  palmitate + acyl-carrier protein + H+	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III	EC-3.1.2.14	RXN-9549
+dhurrin + H2O  ->  (S)-4-hydroxymandelonitrile + D-glucopyranose	dhurrin degradation	EC-3.2.1	RXN-9588
+oleoyl-CoA + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  linoleoyl-CoA + 2 ferricytochrome b5 + 2 H2O		EC-1.14.19.6	RXN-9601
+"D-ribulose-1,5-bisphosphate cleaving dioxygenase"	photorespiration I	EC-1.13.11	RXN-961
+CDP-choline + H2O  ->  CMP + phosphocholine + 2 H+		EC-3.6.1.53	RXN-9614
+palmitate + coenzyme A + ATP  ->  palmitoyl-CoA + AMP + diphosphate	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III	EC-6.2.1.3	RXN-9623
+stearoyl-CoA + H2O  ->  stearate + coenzyme A + H+	sporopollenin precursors biosynthesis	EC-3.1.2.2	RXN-9624
+lauroyl-CoA + H2O  ->  laurate + coenzyme A + H+	&omega;-hydroxylation of caprate and laurate // sporopollenin precursors biosynthesis	EC-3.1.2.2	RXN-9627
+3-oxo-stearoyl-[acyl-carrier protein] synthase	stearate biosynthesis II (bacteria and plants)	EC-2.3.1.41	RXN-9632
+3-oxo-stearoyl-[acyl-carrier protein] reductase	stearate biosynthesis II (bacteria and plants)	EC-1.1.1.100	RXN-9633
+(3R)-3-hydroxyoctadecanoyl-[acp]  ->  (2E)-octadec-2-enoyl-[acp] + H2O	stearate biosynthesis II (bacteria and plants)	EC-4.2.1.59	RXN-9634
+<i>trans</i>-octadec-2-enoyl-[acyl-carrier-protein] reductase	stearate biosynthesis II (bacteria and plants)	EC-1.3.1.9	RXN-9635
+oleate + coenzyme A + ATP  ->  oleoyl-CoA + AMP + diphosphate	oleate biosynthesis I (plants)	EC-6.2.1.3	RXN-9644
+butanoyl-[acp] + malonyl-CoA + H+  ->  3-oxohexanoyl-[acp] + CO2 + coenzyme A	tetradecanoate biosynthesis (mitochondria)	EC-2.3.1.41	RXN-9648
+octanoyl-[acp] + malonyl-CoA + H+  ->  3-oxodecanoyl-[acp] + CO2 + coenzyme A	tetradecanoate biosynthesis (mitochondria)	EC-2.3.1.41	RXN-9651
+decanoyl-[acp] + malonyl-CoA + H+  ->  3-oxododecanoyl-[acp] + CO2 + coenzyme A	tetradecanoate biosynthesis (mitochondria)	EC-2.3.1.41	RXN-9652
+dodecanoyl-[acp] + malonyl-CoA + H+  ->  3-oxotetradecanoyl-[acp] + CO2 + coenzyme A	tetradecanoate biosynthesis (mitochondria)	EC-2.3.1.41	RXN-9653
+(3R)-3-hydroxydecanoyl-[acp]  ->  (2E)-dec-2-enoyl-[acp] + H2O	palmitate biosynthesis II (type II fatty acid synthase) // palmitate biosynthesis III // tetradecanoate biosynthesis (mitochondria)	EC-4.2.1.59	RXN-9655
+crotonyl-[acp] reductase	palmitate biosynthesis II (type II fatty acid synthase)	EC-1.3.1.9	RXN-9657
+<i>trans</i> hex-2-enoyl-[acp]-reductase	palmitate biosynthesis II (type II fatty acid synthase)	EC-1.3.1.9	RXN-9658
+<i>trans</i> oct-2-enoyl-[acp] reductase	palmitate biosynthesis II (type II fatty acid synthase)	EC-1.3.1.9	RXN-9659
+<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]-reductase	palmitate biosynthesis II (type II fatty acid synthase)	EC-1.3.1.9	RXN-9660
+<i>trans</i> dodec-2-enoyl-[acp] reductase	palmitate biosynthesis II (type II fatty acid synthase)	EC-1.3.1.9	RXN-9661
+<i>trans</i> tetradec-2-enoyl-[acp] reductase	palmitate biosynthesis II (type II fatty acid synthase)	EC-1.3.1.9	RXN-9662
+<i>trans</i> hexadecenoyl-[acp] reductase	palmitate biosynthesis II (type II fatty acid synthase)	EC-1.3.1.9	RXN-9663
+a [glycerolipid]-linoleate + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  a [glycerolipid]-alpha-linolenate + 2 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	&alpha;-linolenate biosynthesis I (plants and red algae)	EC-1.14.19.35	RXN-9667
+a [glycerolipid]-oleate + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  a [glycerolipid]-linoleate + 2 ferricytochrome b5 + 2 H2O	linoleate biosynthesis I (plants)	EC-1.14.19.22	RXN-9669
+oleoyl-CoA + a glycerolipid  ->  a [glycerolipid]-oleate + coenzyme A	dimorphecolate biosynthesis // linoleate biosynthesis I (plants)	EC-2.3.1.23	RXN-9670
+glycolate + dioxygen  ->  glyoxylate + hydrogen peroxide	photorespiration I	EC-1.1.3.15	RXN-969
+2-iminosuccinate + H+ + H2O  ->  oxaloacetate + ammonium			RXN-9771
+(indol-3-yl)acetate + S-adenosyl-L-methionine  ->  methyl (indol-3-yl)acetate + S-adenosyl-L-homocysteine	methyl indole-3-acetate interconversion	EC-2.1.1.278	RXN-9825
+2 reduced ferredoxin [iron-sulfur] cluster + oxidized thioredoxin + 2 H+  ->  2 oxidized ferredoxin [iron-sulfur] cluster + reduced thioredoxin		EC-1.8.7.2	RXN-9944
+isocitrate dehydrogenase (NADP<small><sup>+</sup></small>)			RXN-9951
+D-gluconate 6-phosphate + NADP+  ->  D-ribulose 5-phosphate + CO2 + NADPH	pentose phosphate pathway (oxidative branch) I	EC-1.1.1.44	RXN-9952
+Mg-protoporphyrin IX + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + magnesium-protoporphyrin IX 13-monomethyl ester	"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)"	EC-2.1.1.11	RXN-MG-PROTOPORPHYRIN-METHYLESTER-SYN
+"phytate + H2O  ->  D-myo-inositol (1,2,4,5,6)-pentakisphosphate + phosphate"	phytate degradation I	EC-3.1.3.62 // EC-3.1.3.8	RXN0-1001
+GTP + H2O  =  GDP + phosphate		EC-3.6.5.1	RXN0-1021
+ADP-D-ribose + H2O  ->  AMP + D-ribofuranose 5-phosphate + 2 H+		EC-3.6.1.13 // EC-3.6.1.53	RXN0-1441
+coproporphyrinogen III + dioxygen + 2 H+  ->  protoporphyrinogen IX + 2 CO2 + 2 H2O	"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent) // heme <i>b</i> biosynthesis I (aerobic)"	EC-1.3.3.3	RXN0-1461
+4 Fe2+ + 4 H+ + dioxygen  ->  4 Fe3+ + 2 H2O		EC-1.16.3.1	RXN0-1483
+3-methylbutanoyl-CoA + oxidized electron-transfer flavoprotein + H+  ->  3-methylcrotonyl-CoA + reduced electron-transfer flavoprotein	L-leucine degradation I	EC-1.3.8.4	RXN0-2301
+"(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate  ->  indole + D-glyceraldehyde 3-phosphate"	DIBOA-glucoside biosynthesis // L-tryptophan biosynthesis	EC-4.1.2.8	RXN0-2381
+L-serine + indole  ->  L-tryptophan + H2O	L-tryptophan biosynthesis	EC-4.2.1.122	RXN0-2382
+"a 5,10-methylenetetrahydrofolate + L-glutamate + ATP  ->  a 5,10-methylenetetrahydrofolate + ADP + phosphate"	folate polyglutamylation	EC-6.3.2.17	RXN0-2921
+"2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol  ->  2-C-methyl-D-erythritol-2,4-cyclodiphosphate + CMP"	methylerythritol phosphate pathway I // methylerythritol phosphate pathway II	EC-4.6.1.12	RXN0-302
+xanthosine + H2O  ->  xanthine + D-ribofuranose	guanosine nucleotides degradation I // adenosine nucleotides degradation I	EC-3.2.2.1	RXN0-363
+guanosine hydrolase	guanine and guanosine salvage II // guanosine nucleotides degradation II	EC-3.2.2.1	RXN0-366
+O-phospho-L-serine + H2O  ->  L-serine + phosphate	L-serine biosynthesis I	EC-3.1.3.3	RXN0-5114
+Zn2+[in] + ATP + H2O  ->  Zn2+[out] + ADP + phosphate + H+		EC-7.2.2.12	RXN0-5205
+cyanase	cyanate degradation // L-citrulline degradation		RXN0-5222
+a ubiquinone[membrane] + 2 H+[in] + 2 e-[membrane]  ->  a ubiquinol[membrane]			RXN0-5244
+fumarate[in] + 2 H+[in] + 2 e-[membrane]  ->  succinate[in]			RXN0-5245
+NAD+[in] + H+[in] + 2 e-[membrane]  ->  NADH[in]			RXN0-5248
+glycerone phosphate[in] + 2 H+[in] + 2 e-[membrane]  ->  sn-glycerol 3-phosphate[in]			RXN0-5257
+an electron-transfer quinone[membrane] + 2 H+[in] + 2 e-[membrane]  ->  an electron-transfer quinol[membrane]			RXN0-5259
+dioxygen[in] + 4 H+[in] + 4 e-[membrane]  ->  2 H2O[in]			RXN0-5265
+D-glycerate + NAD+  <-->  (2R)-tartronate semialdehyde + NADH + H+		EC-1.1.1.60	RXN0-5289
+beta-D-ribofuranose  <-->  aldehydo-D-ribose			RXN0-5305
+D-ribofuranose 5-phosphate + uracil  <-  pseudouridine 5'-phosphate + H2O	pseudouridine degradation	EC-4.2.1.70	RXN0-5398
+1D-myo-inositol 1-monophosphate + H2O  ->  myo-inositol + phosphate	phytate degradation I	EC-3.1.3.25	RXN0-5408
+formate + CTP + H+  ->  dCTP + CO2 + H2O	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	EC-1.1.98.6	RXN0-723
+formate + UTP + H+  ->  dUTP + CO2 + H2O	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II	EC-1.1.98.6	RXN0-724
+"(E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O  <-  2-C-methyl-D-erythritol-2,4-cyclodiphosphate + 2 reduced ferredoxin [iron-sulfur] cluster + H+"	methylerythritol phosphate pathway II	EC-1.17.7.1	RXN0-882
+prenyl diphosphate + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O  <-  (E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + 2 reduced ferredoxin [iron-sulfur] cluster + 2 H+	methylerythritol phosphate pathway II	EC-1.17.7.4	RXN0-884
+xanthine + NAD+ + H2O  <-->  urate + NADH + H+	guanosine nucleotides degradation II // guanosine nucleotides degradation I // adenosine nucleotides degradation I // Organic Nitrogen Assimilation	EC-1.17.1.4	RXN0-901
+methyl (indol-3-yl)acetate + H2O  ->  (indol-3-yl)acetate + methanol	methyl indole-3-acetate interconversion	EC-3.1.1.1	RXN0A-10711
+chlorophyllide a + NADP+  <-  protochlorophyllide a + hnu + NADPH + H+		EC-1.3.1.33	RXN1F-10
+gibberellin A12 + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  gibberellin A53 + oxidized [NADPH-hemoprotein reductase] + H2O	gibberellin biosynthesis III (early C-13 hydroxylation)	EC-1.14.14	RXN1F-143
+all-trans-lycopene  ->  delta-carotene	&alpha;-carotene biosynthesis	EC-5.5.1.18	RXN1F-147
+delta-carotene  ->  alpha-carotene	&alpha;-carotene biosynthesis // lutein biosynthesis	EC-5.5.1.19	RXN1F-148
+all-trans-lycopene  ->  gamma-carotene	&beta;-carotene biosynthesis	EC-5.5.1.19	RXN1F-150
+gamma-carotene  ->  beta-carotene	&beta;-carotene biosynthesis	EC-5.5.1.19	RXN1F-151
+beta-carotene + 4 reduced ferredoxin [iron-sulfur] cluster + 4 H+ + 2 dioxygen  ->  zeaxanthin + 4 oxidized ferredoxin [iron-sulfur] cluster + 2 H2O	zeaxanthin biosynthesis	EC-1.14.15.24	RXN1F-152
+violaxanthin  <-->  trans-neoxanthin	neoxanthin biosynthesis	EC-5.3.99.9	RXN1F-155
+<i>ent</i>-7&alpha;-hydroxykaur-16-en-19-oate monooxygenase	gibberellin A<sub>12</sub> biosynthesis		RXN1F-160
+GA<sub>12</sub>-aldehyde monooxygenase	gibberellin A<sub>12</sub> biosynthesis		RXN1F-161
+gibberellin A12 + 2-oxoglutarate + dioxygen  ->  gibberellin A15 (open lactone form) + CO2 + succinate	"gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)"	EC-1.14.11	RXN1F-162
+gibberellin A15 (open lactone form) + 2-oxoglutarate + dioxygen  ->  gibberellin A24 + succinate + CO2 + H2O	"gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)"	EC-1.14.20	RXN1F-163
+gibberellin A24 + 2-oxoglutarate + dioxygen  ->  gibberellin A9 + 2 CO2 + succinate + H+	"gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)"	EC-1.14.11	RXN1F-164
+gibberellin A9 + 2-oxoglutarate + dioxygen  ->  gibberellin A4 + succinate + CO2	"gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)"	EC-1.14.11	RXN1F-165
+gibberellin A53 + 2-oxoglutarate + dioxygen  ->  gibberellin44 (open lactone form) + CO2 + succinate	gibberellin biosynthesis III (early C-13 hydroxylation)	EC-1.14.11	RXN1F-167
+gibberellin44 (open lactone form) + 2-oxoglutarate + dioxygen  ->  gibberellin A19 + succinate + CO2 + H2O	gibberellin biosynthesis III (early C-13 hydroxylation)	EC-1.14.11.12	RXN1F-168
+gibberellin A19 + 2-oxoglutarate + dioxygen  ->  gibberellin A20 + 2 CO2 + succinate + H+	gibberellin biosynthesis III (early C-13 hydroxylation)	EC-1.14.11	RXN1F-169
+gibberellin A20 + 2-oxoglutarate + dioxygen  ->  gibberellin A1 + succinate + CO2	gibberellin biosynthesis III (early C-13 hydroxylation)	EC-1.14.11.15	RXN1F-170
+"13(S)-HpOTre  ->  (9Z,13S,15Z)-12,13-epoxyoctadeca-9,11,15-trienoate + H2O"	jasmonic acid biosynthesis	EC-4.2.1.92	RXN1F-19
+ATP + protoporphyrin IX + Mg2+ + H2O  ->  Mg-protoporphyrin IX + ADP + phosphate + 3 H+	"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)"	EC-6.6.1.1	RXN1F-20
+choline + 2 reduced ferredoxin [iron-sulfur] cluster + dioxygen + 2 H+  ->  betaine aldehyde hydrate + 2 oxidized ferredoxin [iron-sulfur] cluster + H2O	glycine betaine biosynthesis III (plants)	EC-1.14.15.7	RXN1F-357
+UDP-alpha-D-glucose + kaempferol  ->  kaempferol 3-O-beta-D-glucoside + UDP + H+	flavonol glucosylation I	EC-2.4.1.91	RXN1F-461
+UDP-alpha-D-glucose + quercetin  ->  UDP + quercetin-3-O-beta-D-glucoside + H+	flavonol glucosylation I	EC-2.4.1.91	RXN1F-462
+chlorophyllide a + phytyl diphosphate + H+  <-  chlorophyll a + diphosphate	chlorophyll cycle	EC-2.5.1.62	RXN1F-66
+"protochlorophyllide a + NADP+  <-  3,8-divinyl protochlorophyllide a + NADPH + H+"		EC-1.3.1.75	RXN1F-72
+(+)-dihydrokaempferol + 2-oxoglutarate + dioxygen  ->  kaempferol + succinate + CO2 + H2O + H+	flavonoid biosynthesis (in equisetum)	EC-1.14.20.6	RXN1F-93
+L-saccharopine + NADP+ + H2O  =  L-glutamate + (S)-2-amino-6-oxohexanoate + NADPH + H+		EC-1.5.1.10	RXN3O-127
+"episterol + 2 ferrocytochrome b5 + dioxygen + 2 H+  ->  ergosta-5,7,24(28)-trien-3beta-ol + 2 ferricytochrome b5 + 2 H2O"	phytosterol biosynthesis (plants)	EC-1.14.19.20	RXN3O-218
+GDP-beta-L-galactose + alpha-D-mannose 1-phosphate  ->  GDP-alpha-D-mannose + beta-L-galactose 1-phosphate	VTC2 cycle	EC-2.7.7.69	RXN4FS-12
+squalene synthase	epoxysqualene biosynthesis		RXN66-281
+acetaldehyde + NAD+ + H2O  ->  acetate + NADH + 2 H+	ethanol degradation II	EC-1.2.1.3	RXN66-3
+prephytoene diphosphate  ->  15-cis-phytoene + diphosphate	<i>trans</i>-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)		RXNARA-8002
+(indol-3-yl)pyruvate + NADPH + dioxygen + H+  ->  (indol-3-yl)acetate + CO2 + NADP+ + H2O	indole-3-acetate biosynthesis I	EC-1.14.13.168	RXNDQC-2
+GDP-beta-L-galactose + phosphate  ->  GDP + beta-L-galactose 1-phosphate + H+	"L-ascorbate biosynthesis I (plants, L-galactose pathway)"	EC-2.7.7.69	RXNQT-4141
+beta-L-galactose 1-phosphate + H2O  ->  L-galactopyranose + phosphate	"L-ascorbate biosynthesis I (plants, L-galactose pathway)"	EC-3.1.3.93	RXNQT-4142
+UMP + H2O  ->  uridine + phosphate	pyrimidine salvage pathway	EC-3.1.3.5	RXNQT-4150
+acid phosphatase	thiamine diphosphate biosynthesis IV (eukaryotes) // thiamine diphosphate salvage IV (yeast)	EC-3.1.3.100	RXNQT-4191
+"3'-phosphoadenylyl-sulfate + 4-(methylsulfanyl)butyl-desulfoglucosinolate  =  adenosine 3',5'-bisphosphate + glucoerucin + H+"		EC-2.8.2.38	RXNQT-4329
+"3'-phosphoadenylyl-sulfate + 5-(methylsulfanyl)pentyl-desulfoglucosinolate  =  adenosine 3',5'-bisphosphate + glucoberteroin + H+"		EC-2.8.2.38	RXNQT-4330
+"3'-phosphoadenylyl-sulfate + 6-(methylsulfanyl)hexyl-desulfoglucosinolate  =  adenosine 3',5'-bisphosphate + 6-(methylsulfanyl)hexyl-glucosinolate + H+"		EC-2.8.2.38	RXNQT-4331
+"3'-phosphoadenylyl-sulfate + 7-(methylsulfanyl)heptyl-desulfoglucosinolate  =  adenosine 3',5'-bisphosphate + 7-(methylsulfanyl)heptyl-glucosinolate + H+"		EC-2.8.2.38	RXNQT-4332
+"3'-phosphoadenylyl-sulfate + 8-(methylsulfanyl)octyl-desulfoglucosinolate  =  adenosine 3',5'-bisphosphate + 8-(methylsulfanyl)octyl-glucosinolate + H+"		EC-2.8.2.38	RXNQT-4333
+methylsalicylate + H2O  ->  salicylate + methanol + H+	methylsalicylate degradation	EC-3.1.1.1	RXNQT-4366
+UDP-alpha-D-glucose + brassinolide  ->  brassinolide-23-O-glucoside + UDP + H+	brassinosteroids inactivation	EC-2.4.1	RXNQT-4397
+ATP + L-methionine + H2O  ->  S-adenosyl-L-methionine + phosphate + diphosphate	S-adenosyl-L-methionine biosynthesis // L-methionine degradation I (to L-homocysteine) // 2'-deoxymugineic acid phytosiderophore biosynthesis // ethene biosynthesis I (plants) // <i>S</i>-adenosyl-L-methionine salvage II	EC-2.5.1.6	S-ADENMETSYN-RXN
+S-formylglutathione + H2O  ->  formate + glutathione + H+	formaldehyde oxidation II (glutathione-dependent)	EC-3.1.2.12	S-FORMYLGLUTATHIONE-HYDROLASE-RXN
+ATP + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + L-aspartate  ->  ADP + 5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole + phosphate + H+	inosine-5'-phosphate biosynthesis II	EC-6.3.2.6	SAICARSYN-RXN
+S-adenosyl-L-methionine + H+  ->  S-adenosyl 3-(methylsulfanyl)propylamine + CO2	spermidine biosynthesis I // spermine biosynthesis	EC-4.1.1.50	SAMDECARB-RXN
+pyruvate + L-serine  <-->  L-alanine + 3-hydroxypyruvate	L-serine biosynthesis II	EC-2.6.1.51	SERINE--PYRUVATE-AMINOTRANSFERASE-RXN
+palmitoyl-CoA + L-serine + H+  ->  3-dehydrosphinganine + CO2 + coenzyme A	sphingolipid biosynthesis (plants)	EC-2.3.1.50	SERINE-C-PALMITOYLTRANSFERASE-RXN
+L-serine + acetyl-CoA  ->  O-acetyl-L-serine + coenzyme A	L-cysteine biosynthesis I	EC-2.3.1.30	SERINE-O-ACETTRAN-RXN
+shikimate + NADP+  <-  3-dehydroshikimate + NADPH + H+	chorismate biosynthesis from 3-dehydroquinate	EC-1.1.1.25	SHIKIMATE-5-DEHYDROGENASE-RXN
+shikimate + ATP  ->  shikimate 3-phosphate + ADP + H+	chorismate biosynthesis from 3-dehydroquinate	EC-2.7.1.71	SHIKIMATE-KINASE-RXN
+D-sorbitol 6-phosphate + H2O  ->  D-sorbitol + phosphate		EC-3.1.3.50	SORBITOL-6-PHOSPHATASE-RXN
+putrescine + S-adenosyl 3-(methylsulfanyl)propylamine  <-->  spermidine + S-methyl-5'-thioadenosine + H+	spermidine biosynthesis I	EC-2.5.1.16	SPERMIDINESYN-RXN
+spermidine + S-adenosyl 3-(methylsulfanyl)propylamine  ->  spermine + S-methyl-5'-thioadenosine + H+	superpathway of polyamine biosynthesis II // spermine biosynthesis	EC-2.5.1.22	SPERMINE-SYNTHASE-RXN
+(S)-1-pyrroline-5-carboxylate + H+ + H2O  <-->  L-glutamate 5-semialdehyde	L-proline biosynthesis III (from L-ornithine) // L-arginine degradation VI (arginase 2 pathway) // L-proline biosynthesis I (from L-glutamate) // L-citrulline biosynthesis // L-proline degradation I		SPONTPRO-RXN
+"squalene + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  (3S)-2,3-epoxy-2,3-dihydrosqualene + oxidized [NADPH-hemoprotein reductase] + H2O"	epoxysqualene biosynthesis	EC-1.14.14.17	SQUALENE-MONOOXYGENASE-RXN
+succinate + coenzyme A + ATP  <-->  succinyl-CoA + ADP + phosphate	TCA cycle II (plants and fungi)	EC-6.2.1.5	SUCCCOASYN-RXN
+succinate semialdehyde + NAD+ + H2O  ->  succinate + NADH + 2 H+	4-aminobutanoate degradation IV // L-glutamate degradation IV // 4-aminobutanoate degradation I	EC-1.2.1.24	SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN
+sucrose 6F-phosphate + H2O  ->  sucrose + phosphate	sucrose biosynthesis I (from photosynthesis)	EC-3.1.3.24	SUCROSE-PHOSPHATASE-RXN
+UDP-alpha-D-glucose + beta-D-fructofuranose 6-phosphate  ->  sucrose 6F-phosphate + UDP + H+	sucrose biosynthesis I (from photosynthesis)	EC-2.4.1.14	SUCROSE-PHOSPHATE-SYNTHASE-RXN
+sulfate + ATP + H+  <-->  adenosine 5'-phosphosulfate + diphosphate	assimilatory sulfate reduction II // sulfate activation for sulfonation	EC-2.7.7.4	SULFATE-ADENYLYLTRANS-RXN
+sulfate + ADP + H+  =  adenosine 5'-phosphosulfate + phosphate		EC-2.7.7.5	SULFATE-ADENYLYLTRANSFERASE-ADP-RXN
+sulfite + dioxygen + H2O  ->  hydrogen peroxide + sulfate	sulfite oxidation IV (sulfite oxidase)	EC-1.8.3.1	SULFITE-OXIDASE-RXN
+hydrogen sulfide + 6 oxidized ferredoxin [iron-sulfur] cluster + 3 H2O  <-  sulfite + 6 reduced ferredoxin [iron-sulfur] cluster + 8 H+	assimilatory sulfate reduction II	EC-1.8.7.1	SULFITE-REDUCTASE-FERREDOXIN-RXN
+2 superoxide + 2 H+  ->  hydrogen peroxide + dioxygen	reactive oxygen species degradation // superoxide radicals degradation	EC-1.15.1.1	SUPEROX-DISMUT-RXN
+4-methyl-5-(2-phosphooxyethyl)thiazole + 4-amino-2-methyl-5-(diphosphooxymethyl)pyrimidine + H+  ->  thiamine phosphate + diphosphate	thiamine diphosphate biosynthesis IV (eukaryotes) // thiamine diphosphate salvage IV (yeast)	EC-2.5.1.3	THI-P-SYN-RXN
+thiamine + H2O  ->  5-(2-hydroxyethyl)-4-methylthiazole + 4-amino-2-methyl-5-pyrimidinemethanol + H+	thiamine diphosphate salvage IV (yeast)	EC-3.5.99.2	THIAMINASE-RXN
+ATP + 5-(2-hydroxyethyl)-4-methylthiazole  ->  ADP + 4-methyl-5-(2-phosphooxyethyl)thiazole + H+	thiamine diphosphate salvage IV (yeast)	EC-2.7.1.50	THIAZOLSYN3-RXN
+"a 2,3,4-saturated fatty acyl CoA + H2O  ->  a 2,3,4-saturated fatty acid + coenzyme A + H+"	acyl-CoA hydrolysis	EC-3.1.2.20	THIOESTER-RXN
+reduced thioredoxin + NADP+  <-  oxidized thioredoxin + NADPH + H+	thioredoxin pathway	EC-1.8.1.9	THIOREDOXIN-REDUCT-NADPH-RXN
+L-threonine  ->  2-oxobutanoate + ammonium	L-isoleucine biosynthesis I (from threonine)	EC-4.3.1.19	THREDEHYD-RXN
+L-threonine  <-->  glycine + acetaldehyde	glycine biosynthesis	EC-4.1.2.48 // EC-4.1.2.5	THREONINE-ALDOLASE-RXN
+O-phospho-L-homoserine + H2O  ->  L-threonine + phosphate	L-threonine biosynthesis	EC-4.2.3.1	THRESYN-RXN
+"a 5,10-methylenetetrahydrofolate + dUMP  ->  dTMP + a 7,8-dihydrofolate"	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I // folate transformations II (plants) // dTMP <i>de novo</i> biosynthesis (mitochondrial) // pyrimidine deoxyribonucleosides salvage	EC-2.1.1.45	THYMIDYLATESYN-RXN
+tiglyl-CoA hydratase	L-isoleucine degradation I	EC-4.2.1.150	TIGLYLCOA-HYDROXY-RXN
+trans-cinnamate + reduced [NADPH-hemoprotein reductase] + dioxygen  ->  4-coumarate + oxidized [NADPH-hemoprotein reductase] + H2O	"rosmarinic acid biosynthesis I // phenylpropanoid biosynthesis, initial reactions // avenanthramide biosynthesis // suberin monomers biosynthesis"	EC-1.14.14.91	TRANS-CINNAMATE-4-MONOOXYGENASE-RXN
+geranyl diphosphate + 7 3-methylbut-3-en-1-yl diphosphate  ->  all-trans-nonaprenyl diphosphate + 7 diphosphate	nonaprenyl diphosphate biosynthesis I	EC-2.5.1.84	TRANS-OCTAPRENYLTRANSTRANSFERASE-RXN
+K+[in]  ->  K+[out]			TRANS-RXN-190
+Ca2+[rough endoplasmic reticulum lumen] + ATP + H2O  ->  Ca2+[cytosol] + ADP + phosphate + H+		EC-7.2.2.10	TRANS-RXN-194
+L-citrulline[in]  ->  L-citrulline[out]	ornithine-citrulline shuttle		TRANS-RXN-227
+L-ornithine[in]  ->  L-ornithine[out]	ornithine-citrulline shuttle		TRANS-RXN-230
+ADP:ATP exchange			TRANS-RXN-243
+Zn<sup>2+</sup>:proton symport			TRANS-RXN-346
+diphosphate[in] + H2O[in]  ->  2 phosphate + H+[out]		EC-7.1.3.1	TRANS-RXN-370
+4 H+[out]  ->  4 H+[in]			TRANS-RXN-395
+D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  <-->  beta-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate	pentose phosphate pathway (non-oxidative branch) I // Rubisco shunt	EC-2.2.1.2	TRANSALDOL-RXN
+D-glyceraldehyde + ATP  =  D-glyceraldehyde 3-phosphate + ADP + H+		EC-2.7.1.28	TRIOKINASE-RXN
+D-glyceraldehyde 3-phosphate  <-->  glycerone phosphate	glycolysis I (from glucose 6-phosphate) // glycolysis IV // Calvin-Benson-Bassham cycle // gluconeogenesis I	EC-5.3.1.1	TRIOSEPISOMERIZATION-RXN
+L-tryptophan + 2-oxoglutarate  <-->  (indol-3-yl)pyruvate + L-glutamate		EC-2.6.1.1 // EC-2.6.1.27	TRYPTOPHAN-AMINOTRANSFERASE-RXN
+D-glycerate + NAD(P)+  =  (2R)-tartronate semialdehyde + NAD(P)H + H+		EC-1.1.1.60	TSA-REDUCT-RXN
+feruloyl-CoA + tyramine  ->  N-feruloyltyramine + coenzyme A + H+	suberin monomers biosynthesis	EC-2.3.1.110	TYRAMINE-N-FERULOYLTRANSFERASE-RXN
+L-tyrosine + 2-oxoglutarate  <-->  3-(4-hydroxyphenyl)pyruvate + L-glutamate	3-(4-hydroxyphenyl)pyruvate biosynthesis // L-tyrosine degradation I // rosmarinic acid biosynthesis I	EC-2.6.1.1 // EC-2.6.1.57 // EC-2.6.1.5 // EC-2.6.1.27	TYROSINE-AMINOTRANSFERASE-RXN
+L-tyrosine + H+  ->  tyramine + CO2		EC-4.1.1.25 // EC-4.1.1.28	TYROSINE-DECARBOXYLASE-RXN
+tyrosine <em>N</em>-monooxygenase	dhurrin biosynthesis		TYROSINE-N-MONOOXYGENASE-RXN
+UDP-beta-L-arabinopyranose  <-  UDP-alpha-D-xylose	UDP-&beta;-L-arabinose biosynthesis I (from UDP-&alpha;-D-xylose)	EC-5.1.3.5	UDP-ARABINOSE-4-EPIMERASE-RXN
+UDP-alpha-D-glucuronate  ->  UDP-alpha-D-galacturonate	UDP-&alpha;-D-galacturonate biosynthesis I (from UDP-D-glucuronate)	EC-5.1.3.6	UDP-GLUCURONATE-4-EPIMERASE-RXN
+UDP-alpha-D-glucuronate + H+  ->  UDP-alpha-D-xylose + CO2	UDP-&alpha;-D-xylose biosynthesis	EC-4.1.1.35	UDP-GLUCURONATE-DECARBOXYLASE-RXN
+UDP-alpha-D-glucose  <-->  UDP-alpha-D-galactose	UDP-&alpha;-D-galactose biosynthesis // D-galactose detoxification // UDP-galactose biosynthesis (salvage pathway from galactose using UDP-glucose) // D-galactose degradation I (Leloir pathway) // stachyose degradation	EC-5.1.3.2	UDPGLUCEPIM-RXN
+ATP + UDP  ->  ADP + UTP	UTP and CTP <i>de novo</i> biosynthesis // pyrimidine ribonucleotides interconversion	EC-2.7.4.6	UDPKIN-RXN
+dUDP + oxidized thioredoxin + H2O  <-  UDP + reduced thioredoxin	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>) // pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	EC-1.17.4.1	UDPREDUCT-RXN
+a UDP-sugar + H2O  ->  UMP + an alpha-D-aldose 1-phosphate + 2 H+		EC-3.6.1.45	UDPSUGARHYDRO-RXN
+UDP-alpha-D-glucose + 2 NAD+ + H2O  ->  UDP-alpha-D-glucuronate + 2 NADH + 3 H+	UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)	EC-1.1.1.22	UGD-RXN
+UMP + diphosphate  <-  5-phospho-alpha-D-ribose 1-diphosphate + uracil	pyrimidine nucleobases salvage I // pyrimidine salvage pathway	EC-2.4.2.9	URACIL-PRIBOSYLTRANS-RXN
+urate + dioxygen + H2O  ->  (S)-5-hydroxyisourate + hydrogen peroxide	urate conversion to allantoin I	EC-1.7.3.3	URATE-OXIDASE-RXN
+ATP + urea + CO2 + H2O  ->  ADP + urea-1-carboxylate + phosphate + 2 H+	Organic Nitrogen Assimilation	EC-6.3.4.6	UREA-CARBOXYLASE-RXN
+urea + H2O + 2 H+  ->  2 ammonium + CO2	urea degradation II	EC-3.5.1.5	UREASE-RXN
+(S)-ureidoglycolate + 2 H+ + H2O  ->  2 ammonium + CO2 + glyoxylate	allantoin degradation to glyoxylate II	EC-3.5.1.116	UREIDOGLYCOLATE-HYDROLASE-RXN
+(S)-ureidoglycolate  ->  urea + glyoxylate	Organic Nitrogen Assimilation	EC-4.3.2.3	UREIDOGLYCOLATE-LYASE-RXN
+uridine + H2O  ->  D-ribofuranose + uracil	pyrimidine ribonucleosides salvage II // pyrimidine salvage pathway	EC-3.2.2.3	URIDINE-NUCLEOSIDASE-RXN
+uridine + ATP  ->  UMP + ADP + H+	pyrimidine ribonucleosides salvage I	EC-2.7.1.48	URIDINEKIN-RXN
+GTP:uridine 5'-phosphotransferase	pyrimidine salvage pathway	EC-2.7.1.48	URKI-RXN
+uroporphyrinogen-III + 4 H+  ->  coproporphyrinogen III + 4 CO2	"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent) // heme <i>b</i> biosynthesis I (aerobic)"	EC-4.1.1.37	UROGENDECARBOX-RXN
+preuroporphyrinogen  ->  uroporphyrinogen-III + H2O	tetrapyrrole biosynthesis I (from glutamate)	EC-4.2.1.75	UROGENIIISYN-RXN
+(S)-ureidoglycine + H2O  ->  (S)-ureidoglycolate + ammonium	allantoin degradation to glyoxylate II // allantoin degradation to ureidoglycolate II (ammonia producing)	EC-3.5.3.26	URUR-RXN
+alpha-D-galactose 1-phosphate + UTP + H+  ->  UDP-alpha-D-galactose + diphosphate	D-galactose detoxification // stachyose degradation	EC-2.7.7.64 // EC-2.7.7.10	UTPHEXPURIDYLYLTRANS-RXN
+XMP + H2O  ->  xanthosine + phosphate	adenosine nucleotides degradation I	EC-3.1.3.5	XMPXAN-RXN
+D-xylulose + ATP  =  D-xylulose 5-phosphate + ADP + H+		EC-2.7.1.17	XYLULOKIN-RXN
