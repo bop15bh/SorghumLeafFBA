@@ -16,6 +16,8 @@ else
     ub=[ub,1000];
 end
 end
+
+to_fix=[];
 for n=1:length(forms(:,2))
    if  contains(forms(n,2),'<-')
        formy=strrep(forms(n,2),'<-','<')
@@ -371,3 +373,66 @@ end
 model = buildRxnGeneMat(model)
 
 save('SorghumBicolorPMNV8_genes.mat','model');
+
+%% removing dead ends 
+model2=model;
+model3=model;
+deads=model.mets(detectDeadEnds(model));
+soly=[];
+for i=1:length(deads)
+  tried={};
+    model2=model3;
+         [rxnList, rxnFormulaList] = findRxnsFromMets(model2, deads(i));
+model2=removeRxns(model2,rxnList);
+newdead=model2.mets(detectDeadEnds(model2));
+extra=setdiff(newdead,deads);
+sol=optimizeCbModel(model2);
+    triedRxns = {}; % Track added reactions to prevent infinite loops
+
+while ~isempty(extra) && sol.f>0.1
+         [rxnList, rxnFormulaList] = findRxnsFromMets(model2, extra);
+ % Check if all reactions in rxnList were already attempted
+        if all(ismember(rxnList, triedRxns))
+            disp('No new reactions to try. Exiting while loop.');
+            break;
+        end
+         
+         
+         
+for n=1:length(rxnList)
+     model3 = addReaction(model2,rxnList{n},rxnFormulaList{n},[],0,-1000,1000);
+tried=[tried,rxnList{n}];
+end
+newdead2= model3.mets(detectDeadEnds(model3));
+extra=setdiff(newdead2,newdead);
+sol=optimizeCbModel(model3);
+soly=[soly,sol.f]
+end
+loo=length(newdead2)
+end
+
+to_rem=setdiff(model.rxns,model3.rxns)
+    modelo=model;
+    deads=length(detectDeadEnds(model));
+    len=[];les=[];
+for n=1:length(to_rem)
+    ded=deads;
+modelo=removeRxns(modelo,to_rem{n});
+deads=length(detectDeadEnds(modelo));
+len=[len,deads];
+if deads<ded
+    les=[les,n]
+else
+end
+end
+melt=to_rem(les)
+model1=model;
+for n=1:length(melt)
+model1=removeRxns(model1,melt{n});
+deads=length(detectDeadEnds(model1));
+len=[len,deads];
+
+end
+
+save('SorghumBicolor_lessdeads.mat','model1')
+
