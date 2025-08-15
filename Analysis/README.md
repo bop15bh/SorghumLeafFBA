@@ -1,3 +1,4 @@
 ## Code used to run and analyse Sorghum leaf FBA model
 1. Leaf_balanced_FINAL0625.mat - Sorghum leaf FBA model used in Holland et al., (2025) 
 2. Growth_importance_June25.m - Metabolic bottle neck analysis
+3. pathway_comparison_NFIX_pvalues.m - Pathway level comparison against gene expression data under drought
