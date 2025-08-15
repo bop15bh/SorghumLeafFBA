@@ -1,2 +1,4 @@
-Sorghum_ReconstructionFEB25.m is pipeline to build generic sorghum bicolor reconstruction
-SorghumBicolorPMNV8.mat is generic sorghum model 
+## Code used to reconstruct and constrain two-cell Sorghum leaf FBA model
+1. Initial pipeline to build base sorghum model: Sorgh
+2. 
+3
