@@ -4,3 +4,4 @@
 3. pathway_comparison_NFIX_pvalues.m - Pathway level comparison against gene expression data under drought
 4. Rxn_gene_comparison_permutation.m - Reaction level validation and permutation test
 5. co2_vs_SWC.m - generates CO2 vs soil water content curve
+6. Analysis_1.m - generates RGR vs CO2 curve
