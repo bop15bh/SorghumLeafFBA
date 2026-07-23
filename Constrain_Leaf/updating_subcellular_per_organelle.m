@@ -5,8 +5,8 @@ close ALL
 changeCobraSolver('glpk');
 %load('Leaf_balanced_FINALSEP25.mat')
  load('Leaf_model_biomass.mat')
- trans=readcell('old_transport.xlsx');
- trans=trans(:,1);% nbefore 19 was close 26 closest, 28,29,30,35, 38, 41,42
+ %trans=readcell('old_transport.xlsx');
+ %trans=trans(:,1);% nbefore 19 was close 26 closest, 28,29,30,35, 38, 41,42
  % 49 best 
  %  nitrate only: 17 close, 19 bit weird, 22 weirdish, 23 but min mdh, got up to 35
 % 3 remo: 19 weirdish, 20 is very good. 
@@ -1078,4 +1078,51 @@ model12=model11;sol=[];
   met_list4(n)
 % only needed to add 1 transport rxn to fix growth 
 model=model12;
+%% Adding rxns that   are in multiple organelles
+model1=removeRxns(model,{'dihydroorotate dehydrogenase(NAD+)[B]','dihydroorotate dehydrogenase(NAD+)[M]'})
+rxns=readcell('orotate.xlsx');
+pos1=find(contains(model1.rxns,'HOMOCYSMETB12-RXN'));
+model1.rxns(pos1)=strrep(model1.rxns(pos1),'HOMOCYSMETB12-RXN[','HOMOCYSMETB12-RXN_1[');
+pos2=find(contains(model1.rxns,'METHYLENETHFDEHYDROG-NADP-RXN['));
+model1.rxns(pos2)=strrep(model1.rxns(pos2),'METHYLENETHFDEHYDROG-NADP-RXN[','METHYLENETHFDEHYDROG-NADP-RXN_1[');
+pos3=find(contains(model1.rxns,'METHENYLTHFCYCLOHYDRO-RXN['));
+model1.rxns(pos3)=strrep(model1.rxns(pos3),'METHENYLTHFCYCLOHYDRO-RXN[','METHENYLTHFCYCLOHYDRO-RXN_1[');
+pos4=find(contains(model1.rxns,'METHYLENETHFDEHYDROG-NADP-RXN['));
+model1.rxns(pos4)=strrep(model1.rxns(pos4),'METHYLENETHFDEHYDROG-NADP-RXN[','METHYLENETHFDEHYDROG-NADP-RXN_1[');
+pos5=find(contains(model1.rxns,'FORMYLTHFDEFORMYL-RXN['));
+model1.rxns(pos5)=strrep(model1.rxns(pos5),'FORMYLTHFDEFORMYL-RXN[','FORMYLTHFDEFORMYL-RXN_1[');
+pos6=find(contains(model1.rxns,'RXN-2881['));
+model1.rxns(pos6)=strrep(model1.rxns(pos6),'RXN-2881[','RXN-2881_1[');
+
+for n = 1:length(rxns(:,1))
+    % unwrap until you get a string
+    form = rxns(n,2);
+    while iscell(form)
+        form = form{1};
+    end
+    
+    if contains(form, '<=>')
+        model1 = addReaction(model1, rxns{n,1}, form, [], 0, -1000, 1000);
+    else
+        model1 = addReaction(model1, rxns{n,1}, form, [], 0, 0, 1000);
+    end
+end
+deadsnew2 = model1.mets(detectDeadEnds(model1));
+
+deadsnew1_noc=setdiff(deadsnew2,deadsnew2(find(contains(deadsnew2,'[c'))))
+xm_deads=deadsnew1_noc; 
+for n=1:length(xm_deads)  
+    if contains(xm_deads{n},'m]')
+        met=split(xm_deads{n},'[')
+           forma=[met{1} '[cm] <=> ' xm_deads{n}];
+           model1 = addReaction(model1,[xm_deads{n} '_[c][M]'], forma, [], 0, -1000, 1000);
+    else
+                met=split(xm_deads{n},'[')
+           forma=[met{1} '[cb] <=> ' xm_deads{n}];
+           model1 = addReaction(model1,[xm_deads{n} '_[c][B]'], forma, [], 0, -1000, 1000);
+    end
+    end
+
+  deads6xm = model1.mets(detectDeadEnds(model1));
+model=model1;
 save('LeafTwoCell_relocalized.mat','model')
